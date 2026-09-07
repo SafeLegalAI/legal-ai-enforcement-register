@@ -91,4 +91,4 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "Consumer legal-AI enforcement, UPL and authorisation register", v0.1.0, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register — CC BY 4.0. Canonical: https://safelegalai.com/regulation/enforcement
+> SafeLegalAI (Cognesio LLP), "Consumer legal-AI enforcement, UPL and authorisation register", v0.1.1, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register — CC BY 4.0. Canonical: https://safelegalai.com/regulation/enforcement

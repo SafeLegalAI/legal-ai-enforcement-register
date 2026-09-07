@@ -1,6 +1,6 @@
 {
  "dataset": "Consumer legal-AI enforcement, UPL and authorisation register",
- "version": "0.1.0",
+ "version": "0.1.1",
  "built": "2026-09-07",
  "canonical": "https://safelegalai.com/regulation/enforcement",
  "repository": "https://github.com/SafeLegalAI/legal-ai-enforcement-register",
