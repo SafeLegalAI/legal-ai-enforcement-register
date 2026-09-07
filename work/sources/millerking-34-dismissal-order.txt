@@ -1,0 +1,853 @@
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 1 of 16 Page ID #122
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                     FOR THE SOUTHERN DISTRICT OF ILLINOIS
+
+ MILLERKING, LLC, on behalf of itself,
+ and all others similarly situated,
+
+                  Plaintiff,
+                                                  Case No. 3:23-CV-863-NJR
+ v.
+
+ DONOTPAY, INC.,
+
+                  Defendant.
+
+                          MEMORANDUM AND ORDER
+
+ROSENSTENGEL, Chief Judge:
+
+       This case pits real lawyers against a robot lawyer. Defendant DoNotPay, Inc. (“DNP”),
+
+is an online subscription service that touts its robot lawyer’s ability to allow consumers to
+
+“[f]ight corporations, beat bureaucracy and sue anyone at the press of a button.” But, DNP
+
+and its robot lawyer are not actually licensed to practice law. So, Plaintiff MillerKing, Inc.
+
+(“MK”), a small Chicago law firm that claims to be a direct competitor of DNP, has sued DNP
+
+for false association and false advertising under the Lanham Act and Illinois state law.
+
+       Now pending before the Court is DNP’s motion to dismiss under Federal Rules of
+
+Civil Procedure 12(b)(1) and 12(b)(6). (Doc. 20). DNP essentially asks MK, in the words of
+
+Justice Antonin Scalia, “What’s it to you?” More precisely, how has DNP’s conduct injured
+
+MK such that it has standing under Article III of the U.S. Constitution to sue DNP in federal
+
+court? This Court finds that MK has not adequately alleged such an injury and, thus, its
+
+complaint must be dismissed for lack of standing.
+
+                                        JURISDICTION
+
+       MK brings this case as a putative class action under the Class Action Fairness Act
+
+
+
+                                       Page 1 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 2 of 16 Page ID #123
+
+
+
+
+(“CAFA”), 28 U.S.C. § 1453(c). Under CAFA, federal courts have jurisdiction to hear a class
+
+action if the proposed class has more than 100 members, the parties are minimally diverse,
+
+and the amount in controversy exceeds $5 million. Sudholt v. Country Mut. Ins. Co., 83 F.4th
+
+621, 625 (7th Cir. 2023) (citing 28 U.S.C. § 1332(d)(2), (d)(5)(B)).
+
+       Normally, the Court considers a limited liability company’s citizenship to be the
+
+citizenship of its members for purposes of diversity jurisdiction. See Cosgrove v. Bartolotta,
+
+150 F.3d 729, 731 (7th Cir. 1998) (“[T]he citizenship of an LLC for purposes of the diversity
+
+jurisdiction is the citizenship of its members.”). Under CAFA, however, “an unincorporated
+
+association shall be deemed to be a citizen of the State where it has its principal place of
+
+business and the State under whose laws it is organized.” 28 U.S.C. § 1332(d)(10); see also
+
+Calchi v. TopCo Assocs., LLC, No. 22-CV-747, 2023 WL 3863355, at *6 (N.D. Ill. June 7, 2023)
+
+(explaining that under CAFA, an unincorporated association such as an LLC is a citizen of its
+
+state of organization and the state where it has its principal place of business); Lewis v.
+
+loanDepot.com, LLC, No. 20 C 7820, 2021 WL 5038779, at *2 (N.D. Ill. Oct. 29, 2021) (same);
+
+Havron v. AT&T, Inc., No. CIV. 09-1040-GPM, 2009 WL 5030760, at *2 n.2 (S.D. Ill. Dec. 16,
+
+2009) (“The provision of the CAFA dealing with the citizenship of unincorporated
+
+associations, such as LLCs, is a legislative repeal, of course, of the familiar federal common-
+
+law rule that the citizenship of an unincorporated association for diversity purposes is the
+
+citizenship of each of the association’s members.”).
+
+       MK is an Illinois LLC with its principal place of business in Illinois. (Doc. 1 at ¶¶ 7-8).
+
+DNP is a Delaware corporation with its principal place of business in Colorado. (Id. at ¶ 9;
+
+Doc. 21 at p. 8). Thus, the Court finds that the parties are minimally diverse under CAFA.
+
+Further, MK has alleged that there are at least 100 class members, and the total claims exceed
+
+
+                                          Page 2 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 3 of 16 Page ID #124
+
+
+
+
+$5,000,000 exclusive of interest and costs. (Id. at ¶ 11). Accordingly, the Court has CAFA
+
+jurisdiction over the claims in this case.
+
+                                         BACKGROUND
+
+       The following facts are derived from MK’s class-action complaint, which the Court
+
+accepts as true for the purposes of DNP’s motion to dismiss. MK, a six-attorney law firm,
+
+“advertises its services online and provides legal services across various practice areas
+
+including personal injury, wrongful death, family law, divorce law, child custody, criminal
+
+law, traffic law, estate planning, probate, workers’ compensation, business law, municipal
+
+law, and mediation.” (Doc. 1 at ¶ 8).
+
+       DNP is an online subscription service that uses artificial intelligence to provide a
+
+variety of legal services, although it is not licensed to practice law and does not employ
+
+licensed attorneys. (Id. at ¶ 2). Billing itself as “The World’s First Robot Lawyer,” DNP’s
+
+website offers legal services related to marriage annulment, speeding ticket appeals,
+
+canceling timeshares, breaking leases, breach of contract disputes, defamation demand
+
+letters, copyright protection, child support payments, restraining orders, revocable living
+
+trusts, and standardized legal documents. (Id. at ¶ 27). Customers pay $36 for two months of
+
+service, which is renewed automatically. (Id. at ¶ 26).
+
+       DNP offers to perform legal work for its clients “behind the scenes” using “artificial
+
+intelligence” rather than “human knowledge.” (Id. at ¶ 29). For example, by clicking on
+
+“Standardized Legal Documents,” a user is directed to a webpage titled “The Best Contract
+
+Template at Your Disposal.” (Id. at ¶ 32). The user can then use DNP to generate a
+
+personalized contract. (Id. at ¶ 33). Other personalized legal documents DNP offers to
+
+generate include independent contractor agreements, non-disclosure agreements, bills of
+
+
+                                         Page 3 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 4 of 16 Page ID #125
+
+
+
+
+sale, prenuptial agreements, LLC operating agreements, promissory notes, and parenting
+
+plans. (Id. at ¶ 34).
+
+        In addition to legal documents, DNP advertises that it will provide advice on property
+
+tax appeal procedures, create customized property tax guides, provide advice on how to
+
+appeal traffic tickets in any city, provide services to initiate litigation and obtain a judgment,
+
+and guide users through the process of filing a court case. (Id. at ¶¶ 40-44). If a subscriber
+
+wants to file a lawsuit for over $500, DNP states that it “can generate demand letters, court
+
+filings and give you a script to read in court.” (Id. at ¶ 46).
+
+        DNP claims to have taken on hundreds of thousands of parking ticket cases and
+
+overturned $4 million in parking ticket fines. (Id. at ¶¶ 52-54). By June 2021, DNP had
+
+“attracted numerous investors, doubled its valuation to about $210 million, and had
+
+approximately 250,000 subscribers.” (Id. at ¶ 57). A year later, DNP’s Founder and CEO,
+
+Joshua Browder, stated that DNP had initiated more than 1,000 small claims lawsuits against
+
+a single company in 42 states. (Id. at ¶ 58). As of January 2023, Browder claimed that DNP
+
+had “processed over 2 million cases” and touted that DNP’s “robot lawyer” would soon
+
+represent someone in a courtroom by whispering in the person’s ear exactly what to say. (Id.
+
+at ¶¶ 50, 59). Shortly thereafter, Browder announced that DNP would postpone its plan to
+
+bring AI into the courtroom because of “threats from State Bar prosecutors.” (Id. at ¶ 68).
+
+        Several subscribers have posted poor online reviews of DNP due to its failure to
+
+perform as advertised. (Id. at ¶¶ 60-61). For example, DNP has failed to dispute parking
+
+tickets as requested, has created inadequate legal documents, or has included inaccurate
+
+information in its forms. (Id. at ¶¶ 60-62). MK alleges these mistakes could subject DNP’s
+
+subscribers to statute of limitations issues, or worse, civil or criminal liability. (Id. at ¶ 63).
+
+
+                                          Page 4 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 5 of 16 Page ID #126
+
+
+
+
+By the end of January 2023, DNP had removed some products from its website, though it
+
+continued to advertise and promote legal products and services including defamation
+
+demand letters, divorce certificates, divorce settlement agreements, and numerous other
+
+categories of legal services. (Id. at ¶¶ 71-73).
+
+        On March 15, 2023, MK filed this lawsuit on behalf of itself and a proposed class of
+
+“All law firms in the United States in existence during the Class Period.” (Id. at ¶ 74). MK
+
+also proposes a subclass of “All law firms that, at any time during the Class Period, were
+
+registered with the Illinois Supreme Court to practice law in Illinois.” (Id. at ¶ 75).
+
+        In Count I, MK alleges a violation of the Lanham Act, 15 U.S.C. § 1125(a)(1)(A), for
+
+False Affiliation, Connection, Association, Sponsorship, or Approval. Specifically, MK
+
+alleges that (1) it is a direct competitor of DNP and that (2) DNP made numerous
+
+representations 1 that create the false impression that DNP is affiliated with licensed
+
+attorneys and that State bar authorities approve of or sponsor DNP’s services. (Id. at ¶¶ 92-
+
+93). MK alleges that it and the class has been or is likely to be injured, either by direct
+
+diversion of clients from themselves to DNP or by a lessening of the goodwill associated with
+
+their goods and services. (Id. at ¶ 95).
+
+        In Count II, MK asserts a violation of the Lanham Act, 15 U.S.C. § 1125(a)(1)(B), for
+
+False Advertising. MK claims DNP falsely represented that its legal services and products
+
+would be offered by a robot “lawyer” and “attorney,” which likely influenced subscribers’
+
+purchasing decisions. (Id. at ¶ 107). These false statements misrepresented DNP’s goods and
+
+
+1 MK alleges DNP’s representations include descriptions that, among many other things: it provides legal
+
+services “behind the scenes,” it will provide the “best advice,” it will “assist with all your legal needs” in
+“small claims and more,” it can be used to appeal traffic tickets “in any city,” it will “generate . . . court
+filings,” it will provide a “script to read in court”; it would represent a person in a courtroom; it sent out a
+subpoena; and it has taken on hundreds of thousands of parking ticket cases. (Doc. 1 at ¶ 89).
+
+
+                                               Page 5 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 6 of 16 Page ID #127
+
+
+
+
+services, as DNP is not licensed to perform legal work. (Id. at ¶ 108). Again, MK contends
+
+that it and the class has been or is likely to be injured by the false representations, either by
+
+direct diversion of clients from themselves to DNP or by a lessening of the goodwill
+
+associated with their goods and services. (Id. at ¶ 110).
+
+       In Count III, MK brings a state law claim on behalf of itself and the subclass for DNP’s
+
+violation of the Illinois Uniform Deceptive Trade Practices Act, 815 ILCS 510/1, et seq.
+
+(“IUDTPA”). (Id. at ¶ 119). MK claims DNP violated the IUDTPA when it caused confusion
+
+or misunderstanding by misrepresenting its affiliation, sponsorship, and the quality of its
+
+goods and services. (Id.). MK asserts that it and the subclass members “are likely to be
+
+damaged by Defendant’s deceptive trade practices” and that they “face of risk of future harm
+
+with no adequate legal remedy.” (Id. at ¶¶ 123-24).
+
+       Finally, Count IV alleges the Unauthorized Practice of Law in Illinois on behalf of MK
+
+and the subclass. MK claims DNP has violated the Illinois Attorney Act, 705 ILCS 205/1, and
+
+the Corporation Practice of Law Prohibition Act, 705 ILCS 220/1 and 705 ILCS 220/2, by
+
+engaging in the practice of law without a license from the Illinois Supreme Court. (Id. at
+
+¶¶ 128-29). MK asserts DNP’s conduct is causing “irreparable harm to many citizens, as well
+
+as to the judicial system itself,” and “constitutes an infringement upon the rights of those
+
+who are properly licensed, [including] attorneys and law firms. MK seeks an injunction to
+
+prevent DNP from continuing in the unlawful and unauthorized practice of law.
+
+       As relief, MK seeks certification of the class and subclass, an injunction precluding
+
+DNP from continuing its unlawful activities and ordering it to engage in a corrective
+
+advertising campaign, and disgorgement of DNP’s profits. MK also asks the Court to find
+
+DNP in contempt of court, assess a civil penalty to be paid to the Illinois Equal Justice
+
+
+                                         Page 6 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 7 of 16 Page ID #128
+
+
+
+
+Foundation, and an award of costs, attorneys’ fees, and interest.
+
+       DNP moves to dismiss the Class Action Complaint with prejudice pursuant to Rules
+
+12(b)(1) and 12(b)(6) of the Federal Rules of Civil Procedure, arguing primarily that MK lacks
+
+Article III standing and statutory standing under the Lanham Act to bring its claims in federal
+
+court. (Doc. 21). MK filed a response in opposition (Doc. 32), and DNP filed a timely reply
+
+(Doc. 33).
+
+                                        LEGAL STANDARD
+
+       A court facing a challenge to subject matter jurisdiction under Federal Rule of Civil
+
+Procedure 12(b)(1) must determine whether the party is raising a facial or factual challenge.
+
+Silha v. ACT, Inc., 807 F.3d 169, 173 (7th Cir. 2015). A factual challenge alleges that, even if the
+
+pleadings are sufficient, there is no basis for subject matter jurisdiction. Id. A facial challenge,
+
+on the other hand, argues the plaintiff has not sufficiently pleaded a basis for subject matter
+
+jurisdiction. Id. “In reviewing a facial challenge, the court must accept all well-pleaded factual
+
+allegations as true and draw all reasonable inferences in favor of the plaintiff.” Id.
+
+       Because DNP argues that MK has not sufficiently alleged a basis for standing in
+
+federal court, it has raised a facial challenge to subject matter jurisdiction. In the Seventh
+
+Circuit, “when evaluating a facial challenge to subject matter jurisdiction under Rule 12(b)(1),
+
+a court should use Twombly–Iqbal’s ‘plausibility’ requirement, which is the same standard
+
+used to evaluate facial challenges to claims under Rule 12(b)(6). Id. at 174 (citing Bell Atlantic
+
+Corp. v. Twombly, 550 U.S. 544 (2007) and Ashcroft v. Iqbal, 556 U.S. 662 (2009). That is, the court
+
+must determine whether the plaintiff’s complaint contains “sufficient factual matter,
+
+accepted as true, to state a claim to relief that is plausible on its face.” Id. at 173. In doing so,
+
+a court “(1) first identifies the well-pleaded factual allegations by discarding the pleadings
+
+
+                                          Page 7 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 8 of 16 Page ID #129
+
+
+
+
+that are ‘no more than conclusions’ and (2) then determines whether the remaining well-
+
+pleaded factual allegations ‘plausibly give rise to an entitlement of relief.’” Id. at 174 (quoting
+
+Iqbal, 556 U.S. at 679).
+
+                                            DISCUSSION
+
+I.     Article III Standing
+
+       Article III of the Constitution limits federal courts to resolving “Cases” and
+
+“Controversies,” which is understood as restricting the courts to their “constitutionally
+
+limited role of adjudicating actual and concrete disputes” in a form that is appropriate for
+
+judicial decision and the resolution of which “will have direct consequences on the parties
+
+involved.” Nabozny v. Optio Sols. LLC, --F.4th--No. 22-1202, 2023 WL 6967048, at *2 (7th Cir.
+
+Oct. 23, 2023) (quoting Healthcare Corp. v. Symczyk, 569 U.S. 66, 71 (2013)).
+
+       “An essential component of the case-or-controversy limitation is the requirement that
+
+a plaintiff have standing to sue—that is, a ‘personal stake’ in the outcome of the suit sufficient
+
+to engage the jurisdiction of the federal court.” Id. To demonstrate that personal stake,
+
+“plaintiffs must be able to sufficiently answer the question: ‘What’s it to you?’” TransUnion
+
+LLC v. Ramirez, 594 U.S. ----, 141 S. Ct. 2190, 2203 (2021) (quoting Antonin Scalia, The Doctrine
+
+of Standing as an Essential Element of the Separation of Powers, 17 SUFFOLK U. L. REV. 881, 882
+
+(1983)). Without Article III standing, federal courts have no authority to resolve a case for
+
+want of subject matter jurisdiction. MAO-MSO Recovery II, LLC v. State Farm Mut. Auto. Ins.
+
+Co., 935 F.3d 573, 581 (7th Cir. 2019); see also Spokeo, Inc. v. Robins, 578 U.S. 330 (2016).
+
+       To establish standing, a plaintiff must show “(1) that he or she suffered an injury in
+
+fact that is concrete, particularized, and actual or imminent, (2) that the injury was caused by
+
+the defendant, and (3) that the injury would likely be redressed by the requested judicial
+
+
+                                           Page 8 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 9 of 16 Page ID #130
+
+
+
+
+relief.” Thornley v. Clearview AI, Inc., 984 F.3d 1241, 1244 (7th Cir. 2021) (quoting Thole v. U.S.
+
+Bank N.A., 590 U.S. –––, 140 S. Ct. 1615, 1618, 207 L.Ed.2d 85 (2020)).
+
+       A “concrete” injury is one that is real, not abstract, and a “particularized” injury is one
+
+that affects the plaintiff personally. Crabtree v. Experian Info. Sols., Inc., 948 F.3d 872, 877 (7th
+
+Cir. 2020) (citing Lujan v. Defs. of Wildlife, 504 U.S. 555, 560-61 (1992)). An injury must be actual
+
+or imminent, not conjectural or hypothetical. Id. “Without ‘an injury that the defendant
+
+caused and the court can remedy, there is no case or controversy’ under Article III.” Nabozny,
+
+2020 WL 6967048, at *2 (quoting Casillas v. Madison Ave. Assocs., Inc., 926 F.3d 329, 333 (7th
+
+Cir. 2019)). As the Supreme Court recently put it, “[n]o concrete harm, no standing.”
+
+TransUnion LLC, 141 S. Ct. at 2200.
+
+       The most obvious forms of “real” injuries include monetary and physical damages
+
+caused by a defendant, but a concrete harm can also be intangible. Id. at 2204; Nabozny, 2020
+
+WL 6967048, at *2. Intangible harms can include reputational harms, invasion of privacy, and
+
+other “harms specified by the Constitution itself” like abridgement of free speech. Id. Courts
+
+must also defer to Congress’s decision “to grant a plaintiff a cause of action to sue over a
+
+defendant’s violation of a statutory prohibition or obligation.” Id. at 2205. However,
+
+“[i]dentifying a violation of a statutory right does not automatically equate to showing injury-
+
+in-fact for standing purposes.” Crabtree, 948 F.3d at 877. A plaintiff must still demonstrate a
+
+concrete injury even in the context of a statutory violation. Spokeo, 578 U.S. at 341. “[A]n injury
+
+in law is not an injury in fact.” TransUnion LLC, 141 S. Ct. at 2205.
+
+       Because MK is the party invoking federal jurisdiction, it bears the burden of
+
+demonstrating standing for each of its claims and requests for relief. Id. at 2207-08
+
+(“[S]tanding is not dispensed in gross; rather, plaintiffs must demonstrate standing for each
+
+
+                                          Page 9 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 10 of 16 Page ID #131
+
+
+
+
+claim that they press and for each form of relief that they seek (for example, injunctive relief
+
+and damages).”).
+
+       In Counts I and II, MK asserts violations of the Lanham Act, claiming that DNP’s false
+
+representations about its products and services are likely to confuse and deceive consumers.
+
+As a result, MK and the class have been or are likely to be injured by the direct diversion of
+
+clients from themselves to DNP or by a lessening of the goodwill associated with MK and the
+
+class’s goods and services. In Count III, MK alleges DNP’s false representations also violate
+
+the IUDTPA and that it and the class are “likely to be damaged” by DNP’s deceptive trade
+
+practices. Finally, in Count IV, MK asserts DNP’s unauthorized practice of law without the
+
+requisite expertise, competence, and licensure requirements causes irreparable harm to many
+
+citizens in need of legal services and infringes on the rights of law firms employing those
+
+who are properly licensed—particularly small law firms whose services overlap with those
+
+offered by DNP.
+
+       These allegations are insufficient to establish Article III standing. As argued by DNP,
+
+MK has not alleged any lost revenue or added expenditures as a result of DNP’s conduct.
+
+Nor has it alleged that any client or prospective client has withheld business, has considered
+
+withholding business, or has even heard of DNP. For example, while the complaint
+
+references the hundreds of thousands of parking ticket cases that DNP claims to have taken
+
+on, there is no allegation that those customers originally were clients of MK, had considered
+
+hiring MK, or would have sought the advice of any law firm in the first place if not for the
+
+representations made by DNP.
+
+       MK also has not presented facts to support its claim that DNP has hurt its reputation
+
+or lessened its goodwill. While the complaint asserts that DNP has provided poor customer
+
+
+                                        Page 10 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 11 of 16 Page ID #132
+
+
+
+
+service at times, leading to adverse legal consequences for DNP’s customers, the complaint
+
+fails to cite any instance where DNP’s failures were imputed to MK specifically or lawyers
+
+generally. See Crabtree, 948 F.3d at 880 (“It is not enough to say that your reputation was
+
+harmed without explaining how.”). In Crabtree, the Seventh Circuit found that the defendant
+
+counterclaimant failed to demonstrate Article III standing when its counterclaim pointed to
+
+no factual allegations demonstrating how its goodwill was tarnished, its future business
+
+prospects were affected, or its position as a major consumer reporting agency was lessened
+
+by plaintiff’s conduct. Id. In other words, it had failed to allege an injury sufficient to confer
+
+Article III standing. The same is true here.
+
+       MK cites to Lexmark Int’l, Inc. v. Static Control Components, Inc., to argue that, as a
+
+“direct competitor” of DNP, its general allegations of lost sales or damages to its business
+
+reputation arising from DNP’s illegal competition is enough to confer Article III standing on
+
+its Lanham Act claims. See Lexmark Int’l, Inc. v. Static Control Components, Inc., 572 U.S. 118,
+
+125 (2014). In Lexmark, the plaintiff, Lexmark, sold both new and refurbished toner cartridges.
+
+Id. at 121. Other companies, known as “remanufacturers,” also sold refurbished Lexmark
+
+toner cartridges. Id. Lexmark, in an effort to encourage customers to return their cartridges
+
+to Lexmark for refurbishment rather than to “remanufacturers,” introduced a “Prebate”
+
+program that enabled customers to purchase new cartridges at a 20 percent discount if they
+
+agreed to return the toner cartridge to Lexmark. Id. Customers assented to the terms of the
+
+Prebate program by opening the toner package. Id. Lexmark also installed a microchip in
+
+each cartridge that would disable the cartridge after it ran out of toner, requiring the
+
+microchip to be replaced by Lexmark. Id. Defendant and counterclaimant, Static Control,
+
+while not a remanufacturer itself, made and sold the components necessary to remanufacture
+
+
+                                        Page 11 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 12 of 16 Page ID #133
+
+
+
+
+the Lexmark cartridges—including a microchip that could mimic Lexmark’s microchip. Id.
+
+       Lexmark sued Static Control for copyright violations, and Static Control countersued
+
+for violations of the Lanham Act. Id. at 122. Static Control alleged that Lexmark engaged in
+
+false or misleading advertising when (1) its Prebate program misled consumers to believe
+
+they were legally bound to return toner cartridges to Lexmark after a single use; and (2) it
+
+sent letters to companies in the toner cartridge remanufacturing business falsely indicating it
+
+was illegal to use Static Control’s products to refurbish its toner cartridges. Id. at 122-23. Static
+
+Control claimed that Lexmark’s actions had proximately caused it injury by “diverting sales
+
+from Static Control to Lexmark” and had “substantially injured [its] business reputation” by
+
+“leading consumers and others in the trade to believe” that Static Control had “engaged in
+
+illegal conduct.” Id. at 123. While the issue of Article III standing was not before the Supreme
+
+Court, the Court was satisfied that Static Control’s allegations of injury presented an Article
+
+III case or controversy. Id. at 125.
+
+       Unlike MK, Static Control not only alleged injury due to diversion of sales and
+
+reputational harm, but it also provided the facts necessary to make those allegations
+
+plausible. Static Control alleged Lexmark directly targeted its customers and falsely stated
+
+that doing business with Static Control was illegal. These facts are sufficient to state a
+
+concrete, particularized, and actual injury. MK’s general allegations that DNP has caused a
+
+diversion of clients and loss of goodwill, on the other hand, are not.
+
+       MK nevertheless argues that a plaintiff’s lost sales or loss of goodwill can be inferred
+
+without specific allegations when the plaintiff pleads false or misleading representations by
+
+a “direct competitor” about its products. DNP disputes that it is a “direct competitor” of MK,
+
+given that it cannot represent a client in court, meet with a client to discuss a case, offer
+
+
+                                          Page 12 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 13 of 16 Page ID #134
+
+
+
+
+advice, negotiate with opposing counsel, review documents, take depositions, or provide any
+
+of the other legal services that a licensed law firm can provide. Nor does MK purport to solely
+
+use AI to generate documents for its clients “automatically,” which DNP allegedly does.
+
+Thus, while the two parties work within similar industries, DNP argues, MK has not
+
+plausibly alleged that the two are direct competitors such that MK’s conclusory allegations
+
+of harm suffice to plead Article III standing.
+
+       Even if the Court were to find that MK (a law firm) is a “direct competitor” of DNP
+
+(an AI-based legal subscription service), MK has conflated the injury requirement for a
+
+statutory cause of action under the Lanham Act claim with Article III’s injury-in-fact
+
+requirement, as evidenced by the cases it cites. See Chaverri v. Platinum LED Lights LLC, No.
+
+CV-21-01700-PHX-SPL, 2022 WL 2275664, at *6 (D. Ariz. June 22, 2022) (“Although [the]
+
+allegations as to lost sales are vague and conclusory in nature, the direct competitive
+
+relationship between Platinum and Mito Red gives rise to a presumption of commercial
+
+injury sufficient to establish standing under the Lanham Act.”) (emphasis added); Benshot, LLC
+
+v. Lucky Shot USA LLC, 2019 U.S. Dist. LEXIS 21343, at *10 (E.D. Wis. Feb. 8, 2019) (allegations
+
+that competitor falsely represented that its product was made in the USA and that consumers
+
+placed high value on “buying American” was sufficient to allege injury and state a statutory
+
+cause of action) (emphasis added).
+
+       The Lanham Act provides a cause of action to a competitor who “is or is likely to be
+
+damaged by” the defendant’s false advertising or false association. 15 U.S.C. 1125(a). But
+
+“Article III standing requires a concrete injury even in the context of a statutory violation.”
+
+TransUnion, 141 S. Ct. at 2205 (quoting Spokeo, 578 U. S. at 341). “The question whether a
+
+plaintiff has satisfied the elements of a Lanham Act claim is a merits issue that has ‘nothing
+
+
+                                        Page 13 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 14 of 16 Page ID #135
+
+
+
+
+to do with [the] plaintiff’s standing to sue under Article III of the U.S. Constitution . . . .’”
+
+Jiaxing Zichi Trade Co. v. Yang, No. 21-CV-973, 2021 WL 4498654, at *1 (N.D. Ill. Aug. 19, 2021)
+
+(quoting Supreme Auto Transp., LLC v. Arcelor Mittal USA, Inc., 902 F.3d 735, 743 (7th Cir.
+
+2018)).
+
+          MK’s reliance on Vital Proteins is similarly unpersuasive. There, Vital Proteins, LLC
+
+(“Vital”), sued Ancient Brands, LLC (“Ancient”), for false advertising and unfair competition
+
+under the Lanham Act and Illinois law. Vital Proteins LLC v. Ancient Brands, LLC, No. 22 C
+
+02265, 2023 WL 157956, at *1 (N.D. Ill. Jan. 11, 2023). It was undisputed that Vital and Ancient
+
+were “direct competitors” selling nearly identical collagen peptide nutritional supplements.
+
+Id. at *2. Vital alleged that Ancient made false statements on its product labels and advertising
+
+materials related to its ability to work within 24 hours and the composition of its ingredients.
+
+Id. at **1-2. Ancient moved to dismiss Vital’s lawsuit, arguing that Vital’s allegations of injury
+
+were conclusory, speculative, vague, and devoid of factual support. Id. at *2.
+
+          The district court, with no citation to precedent and while discussing Article III
+
+standing and statutory standing simultaneously, found that Vital sufficiently pleaded Article
+
+III standing because the parties did not dispute that they were direct competitors selling the
+
+same product, and a consumer looking for the more effective supplement may conclude that
+
+Ancient’s products are superior due to Ancient’s false statements about its product’s efficacy.
+
+Id. Based on these allegations, the court found that it was reasonable to infer that Ancient’s
+
+false representations would result in lost sales for Vital. Id. at *2.
+
+          Here, MK argues that it and DNP are direct competitors in that they both offer legal
+
+services in the same legal practice areas. But unlike Vital Proteins, where both parties sold
+
+nearly identical collagen peptide nutritional supplements, the products here are different.
+
+
+                                          Page 14 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 15 of 16 Page ID #136
+
+
+
+
+MK is a law firm employing real, licensed attorneys who appear in court before judges,
+
+represent clients, make legal arguments, and sign legal documents. MK claims to advertise
+
+its services online, but it does not provide those services online. DNP is a web-based company
+
+purporting to use AI to provide legal services virtually. In other words, while the parties
+
+participate in similar industries, they are not selling identical products. Therefore, MK’s
+
+argument that the parties are “direct competitors” fails, and the Court will not presume a
+
+commercial injury for purposes of Article III standing.
+
+       In further support of its argument that the Court can infer harm, MK also contends
+
+that DNP has experienced a strong and rapid increase in its valuation and subscribers,
+
+making it “more plausible” that it has suffered commercial injury. The Seventh Circuit has
+
+held, however, that “that a plaintiff’s claim of injury in fact cannot be based solely on a
+
+defendant’s gain; it must be based on a plaintiff’s loss.” Silha, 807 F.3d at 174-75. Again, the
+
+Court will not infer that MK has suffered harm through lost clients just because DNP has
+
+gained them.
+
+       MK also avers that its allegation of “literally false” statements by DNP, e.g., that it is a
+
+“lawyer” and “attorney,” that it provides “legal services,” and that it has “represented
+
+people” in legal disputes, presumptively causes direct competitors like MK harm. Again, MK
+
+has not plausibly alleged that it and DNP are direct competitors, nor has it explained how
+
+these “literally false” statements have caused it any harm. While the parties may work in
+
+similar industries, the services they provide are different enough that the Court will not infer
+
+an injury based on these statements.
+
+       Finally, the Court notes that MK seeks an injunction in Counts III and IV to preclude
+
+DNP from continuing its unlawful activities. As discussed above, a plaintiff bears the burden
+
+
+                                         Page 15 of 16
+Case 3:23-cv-00863-NJR Document 34 Filed 11/17/23 Page 16 of 16 Page ID #137
+
+
+
+
+of demonstrating standing for each claim they bring forth and each form of relief that they
+
+seek. TransUnion LLC, 141 S. Ct. at 2205. Unlike a claim for damages, the standing
+
+requirement for injunctive relief may be satisfied by a risk of future harm, “so long as the risk
+
+of harm is sufficiently imminent and substantial.” Id. at 2197. MK has not sufficiently alleged
+
+any imminent harm that will occur if DNP is not enjoined from its conduct. Thus, it also lacks
+
+Article III standing to bring a claim for injunctive relief.
+
+       In sum, MK has not plausibly alleged that it has suffered a diversion of clients or
+
+reputational harm as a result of DNP’s actions. Thus, it lacks Article III standing to pursue its
+
+Lanham Act claims. And because an IUDTPA claim is analyzed using the same standards as
+
+a claim under the Lanham Act, MK also lacks standing to bring its IUDTPA claim in Count
+
+III. The same can be said for MK’s claim in Count IV that DNP has engaged in the
+
+unauthorized practice of law in Illinois, where MK has alleged no particularized harm to it
+
+whatsoever.
+
+                                          CONCLUSION
+
+       For these reasons, the Motion to Dismiss filed by Defendant DoNotPay, Inc. (Doc. 20)
+
+is GRANTED and the Complaint (Doc. 1) is DISMISSED without prejudice. Plaintiff
+
+MillerKing, LLC, is granted leave to file an amended complaint on or before December 18,
+
+2023. The failure to do so will result in the dismissal of this action with prejudice.
+
+       IT IS SO ORDERED.
+
+       DATED: November 17, 2023
+
+
+                                                     ____________________________
+                                                     NANCY J. ROSENSTENGEL
+                                                     Chief U.S. District Judge
+
+
+
+
+                                         Page 16 of 16
+

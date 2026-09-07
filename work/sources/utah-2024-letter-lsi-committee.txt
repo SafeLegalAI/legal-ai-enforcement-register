@@ -1,0 +1,216 @@
+                     SUPREME COURT OF THE STATE OF UTAH
+
+ HON. MATTHEW B. DURRANT                                      HON. PAIGE PETERSEN
+ CHIEF JUSTICE                                                JUSTICE
+
+ HON. JOHN A. PEARCE                                          HON. DIANA HAGEN
+ ASSOCIATE CHIEF JUSTICE                                      JUSTICE
+
+                                                              HON. JILL M. POHLMAN
+                                                              JUSTICE
+
+
+                                       September 5, 2024
+
+
+Dear Legal Services Innovation Committee,
+
+        Thank you for assisting the Court in evaluating how the Sandbox is functioning
+and what adjustments need to be made to better achieve our goals. As you know, the
+Sandbox is a pilot project designed to test whether changing the way we regulate the
+practice of law can increase access to legal services without increasing consumer harm.
+The results of this experiment will inform the Court’s future decisions governing the
+practice of law in Utah. Because the Sandbox is a first-of-its-kind experiment, it will
+inevitably require fine-tuning to ensure that we are effectively testing the service models
+within the Sandbox and generating the kind of data that can meaningfully inform future
+policy decisions. We appreciate the Committee’s commitment to working with the Court
+to refine the project as we learn more information.
+
+      Based on your feedback, we have decided to continue with the existing Sandbox
+model. We are also adopting the following recommendations made by the Committee:
+
+     •   Restart the audit process immediately. We agree that audits of mid- to high-
+         innovation entities are the most valuable source of information on consumer
+         harm. We have also reconsidered our prior decision to employ volunteer
+         attorneys as auditors. The Court is hoping to reduce operating costs, but we take
+         the Committee’s point that the entities themselves are responsible for audit fees
+         that cover the cost of paid auditors. We agree that the audit process developed by
+         the Committee has been successful and should not be modified.
+    •   Retire the badge and in its place require entities to prominently display
+        language to solicit complaints or feedback. We appreciate the Committee’s
+        recommendation to address the Court’s growing concern that the badge has been
+        misused or misconstrued as an endorsement by the Court. This recommendation
+        also furthers the Court’s interest in soliciting not just complaints, but feedback on
+        benefits to consumers. We would like to implement this recommendation as soon
+        as possible.
+
+    •   Reject applications from for-profit entities solely or primarily offering
+        immigration-related services. We appreciate the Committee’s thoughtful
+        memorandum detailing the reasons for this recommendation. We agree that these
+        entities offer little potential for consumer-friendly innovations and pose an
+        outsized risk of consumer harm. We adopt the Committee’s recommendation to
+        no longer authorize prospective for-profit immigration service providers.
+
+    •   Continue processing applications for new Sandbox entities. We agree with the
+        Committee that once the for-profit immigration service entities are removed from
+        the application pool, we should promptly move forward with the remaining
+        applications that are currently pending and continue to accept and process new
+        applications. Admitting new entities to the Sandbox will allow us to test more
+        service models and will better inform future policy decisions.
+
+The Court defers consideration of the Committee’s remaining recommendations until
+two additional policy changes are implemented.
+
+       Last year, the Court made several changes to the Sandbox to promote our objective
+of increasing access to legal services without increasing the risk of consumer harm. To
+mitigate consumer harm, we introduced a series of front-end controls: additional vetting
+of participants, pre-launch audits for high-innovation entities, and the requirement that
+financing and controlling persons adhere to the same core fiduciary duties that lawyers
+owe to their clients. To promote increased access to legal services, we imposed an
+innovation requirement for new applicants to the Sandbox. We explained that the change
+would “allow us to use our limited resources to regulate only those entities with potential
+to shrink the access-to-justice gap by increasing the availability of legal services.”
+However, previously authorized entities with a satisfactory compliance record were
+allowed to continue to operate within the Sandbox regardless of whether they met the
+innovation requirement.
+
+
+
+                                                                                           2
+        Since those policy decisions were made eighteen months ago, we have faced new
+challenges with entities currently in the Sandbox. A number of low-innovation entities
+have consumed a disproportionate amount of Innovation Office resources that could be
+better spent processing applications and regulating entities with more potential to benefit
+consumers. Some ABS entities appear to have misused their Sandbox authorization to
+bolster their credibility or gain access to restricted advertising markets by suggesting that
+their services have been endorsed by this Court. And many ABS entities appear to have
+misconstrued their authorizations as permitting them to offer legal services provided by
+non-Utah-licensed attorneys. While attempting to correct this misconception, we
+discovered that a sizeable group has no meaningful presence in the Utah legal market.
+Finally, we learned from our data team that the number and variety of entities in the
+Sandbox poses significant challenges for collecting and analyzing data in a meaningful
+way.
+
+       At the end of this month, the Sandbox will have been in operation for four years.
+Based on the information gathered so far, the Court has decided that further narrowing
+the scope of the Sandbox will better promote its objectives and align with our jurisdiction
+over the practice of law in Utah. To that end, we are adopting two policy changes:
+
+   1. The innovation requirement will be modified to include a Utah nexus.
+
+          a. To meet the innovation requirement, an entity must demonstrate that a
+             Sandbox authorization will allow it to reach Utah consumers currently
+             underserved by the legal market. We will refer to this as “the Utah
+             innovation requirement.”
+
+          b. The Utah innovation requirement is intended to act as a fairly high bar for
+             participation in the Sandbox. Only applications that present an innovative
+             service model with the potential to expand access to legal services in Utah
+             should be submitted for Court approval.
+
+          c. The impact on Utah consumers must be substantial relative to the entity’s
+             overall reach. National and international companies that expect to serve
+             only an incidental number of Utah clients will not qualify. A small entity
+             that principally serves Utah consumers will satisfy the Utah nexus even if
+             it reaches a modest number of clients.
+
+          d. To implement this policy, the Committee should recommend changes to the
+             Innovation Office manual and, if necessary, Standing Order 15.
+
+                                                                                           3
+2. All previously authorized entities that do not meet the Utah innovation
+   requirement will exit the Sandbox.
+
+     a. The Committee will determine whether each existing Sandbox entity is
+        currently providing authorized legal services using a model that meets the
+        Utah innovation requirement.
+
+            i. This assessment should be limited to the service model on which the
+               authorization was based. Entities wishing to propose a new service
+               model meeting the Utah innovation requirement must re-apply to
+               the Sandbox.
+
+           ii. Low-innovation entities will not meet the Utah innovation
+               requirement unless the non-lawyer ownership structure is designed
+               to facilitate an innovative service model with a substantial impact on
+               the Utah market, such as providing a one-stop-shop or intermediary
+               platform for Utah consumers.
+
+           iii. Mid- to high-level innovation entities will generally meet the Utah
+                innovation requirement, so long as the entity’s service model is
+                designed to reach a substantial number of Utah consumers.
+
+           iv. The Innovation Office will gather the necessary information about
+               each entity to present to the Committee, including whether the entity
+               is actively employing the authorized service model. This will require
+               individualized follow up with each entity.
+
+     b. The Committee will provide the Court with a list of current Sandbox
+        entities that do not meet the Utah innovation requirement. For each entity,
+        the Committee should recommend one of three options:
+
+            i. Terminate Sandbox Authorization. We suspect that there are some
+               low-innovation entities that will be unaffected by their removal
+               because they have no need of a Sandbox authorization. Entities that
+               do not provide legal services in Utah or who do not employ or
+               partner with a Utah lawyer are outside the scope of our jurisdiction,
+               meaning their Sandbox authorization has no effect. Entities that offer
+               only legal information or scrivener services are likely not engaged in
+               the practice of law and do not need special authorization to operate
+               in Utah, especially if they operate using the same model in other
+                                                                                   4
+                     states. There may also be non-lawyer owned entities in the Sandbox
+                     that employ or contract with Utah lawyers in a way that does not
+                     constitute fee sharing and/or does not require a IOLTA waiver.
+                     These entities need no accommodation to continue operating when
+                     their authorization ends.
+
+                  ii. Terminate Sandbox Authorization with Accommodation. On the
+                      other hand, without the Sandbox authorization, the lawyers of some
+                      ABS-only entities would be subject to discipline for violating the
+                      Court’s rules of professional conduct. We are willing to work with
+                      those lawyers to ensure that they are not subject to professional
+                      discipline if they continue to operate within the business
+                      arrangements entered into pursuant to a Sandbox authorization.
+                      That exemption will be non-transferable to other Utah attorneys and
+                      limited to the existing ownership structure and/or business model.
+                      If appropriate, the Committee should recommend that the Court
+                      grant such an accommodation in conjunction with terminating the
+                      entity’s Sandbox authorization.
+
+                 iii. Change Authorization to Provisional Status. If the authorized
+                      service model meets the Utah innovation requirement but the entity
+                      has not yet launched that service model, the Committee may
+                      recommend that the entity’s authorization be changed to a
+                      provisional status.
+
+        We anticipate that these two policy changes will vastly reduce the number of
+entities in the Sandbox. Currently, three-fourths of the Sandbox consists of low-
+innovation, ABS-only entities. Eliminating these entities from the Sandbox will allow us
+to focus our limited resources on regulating mid- and high-innovation entities with the
+greatest potential to shrink the access-to-justice gap.
+
+       After we narrow the scope of the Sandbox, we will be prepared to tackle the
+Committee’s other recommendations. A rubric for classifying and handling complaints
+will be more helpful if it is tailored to the more limited variety of entities that will remain
+in the Sandbox. Similarly, any changes to the way we collect and analyze data will be
+informed by the type of entities being regulated, recognizing that the most useful data
+concerning mid- to high-level entities will come from pre- and post-launch audits.
+
+
+
+                                                                                             5
+      We are excited by the prospect of focusing the energy of the Committee, the
+Innovation Office, and the Court on those models that have the greatest potential to
+meaningfully address the access to justice crisis in Utah. We believe these changes will
+avoid wasting time and resources on efforts that do not move the needle. We look
+forward to working with the Committee to further refine and implement these policies.
+
+
+                         _________________________________
+
+
+
+
+                                                                                       6
+

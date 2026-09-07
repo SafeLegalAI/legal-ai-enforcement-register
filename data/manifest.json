@@ -1,0 +1,83 @@
+{
+ "dataset": "Consumer legal-AI enforcement, UPL and authorisation register",
+ "version": "0.1.0",
+ "built": "2026-09-07",
+ "canonical": "https://safelegalai.com/regulation/enforcement",
+ "repository": "https://github.com/SafeLegalAI/legal-ai-enforcement-register",
+ "huggingface": "https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register",
+ "license_data": "CC BY 4.0 (SafeLegalAI, Cognesio LLP); underlying official documents keep their own status (see NOTICE)",
+ "notice": "Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) records what courts, regulators, legislatures and vendors' own public pages state; the linked official documents are the record. Names and marks belong to their owners. Anyone named may reply: https://safelegalai.com/report. Full terms: https://safelegalai.com/disclaimer",
+ "tables": {
+  "actions": {
+   "file": "data/actions.jsonl",
+   "schema": "schema/actions.schema.json",
+   "stats": {
+    "rows": 43,
+    "rejected": 0,
+    "by_category": {
+     "sandbox-authorisation": 25,
+     "upl-litigation": 5,
+     "regulator-register": 4,
+     "court-a2j-deployment": 4,
+     "policy-statement": 3,
+     "regulator-enforcement": 2
+    },
+    "by_jurisdiction": {
+     "canada": 21,
+     "us-state": 15,
+     "uk": 3,
+     "us-federal": 3,
+     "eu": 1
+    },
+    "by_entity": {
+     "DoNotPay, Inc.": 5,
+     "Arizona Alternative Business Structures Directory": 1,
+     "Law Society Innovation Sandbox": 1,
+     "Utah legal regulatory sandbox authorized entities": 1,
+     "SRA-regulated firms and solicitors": 1,
+     "AI system providers": 1,
+     "Garfield AI": 1,
+     "Lone Star Legal Aid Navi chatbot": 1,
+     "Willful": 1,
+     "PR Coach": 1,
+     "Ownright": 1,
+     "Access to Innovation participating providers": 1,
+     "LegalWills": 1,
+     "Incorporight": 1,
+     "eState Planner": 1,
+     "ClearEstate": 1,
+     "Airfairness": 1,
+     "Upsolve, Inc.": 1,
+     "Jointly Solutions Ltd.": 1,
+     "SkyLaunch": 1,
+     "Plaid Fertility Law": 1,
+     "Philer": 1,
+     "Jointly": 1,
+     "Deeded": 1,
+     "Garfield.Law Ltd": 1,
+     "Nevada Self-Help Center AI chatbot": 1,
+     "Illinois Court Help Lex chatbot": 1,
+     "Darrow AI / Edward & Mansfield, LLC": 1,
+     "Divorcio Amigable": 1,
+     "Divii": 1,
+     "Rasa Public Benefit Corporation": 1,
+     "Utah legal regulatory sandbox": 1,
+     "Superlegal (LawGeex / Legalogic)": 1,
+     "1Law P.C. / 1Law Legal Services": 1,
+     "Tim Hewson / Legal Wills.ca": 1,
+     "smartlaw": 1,
+     "Erin Bury / Willful": 1,
+     "Scott Nicol / SimpleArb": 1,
+     "Hayley Woodin": 1
+    },
+    "by_regulator_ai_flag": {
+     "True": 41,
+     "False": 2
+    },
+    "by_verification": {
+     "fetched-and-read": 43
+    }
+   }
+  }
+ }
+}

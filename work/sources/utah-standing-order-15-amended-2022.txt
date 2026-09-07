@@ -1,0 +1,734 @@
+        Utah Supreme Court Standing Order No. 15
+                      (Amended)
+                       (Amended September 21, 2022)
+This Standing Order establishes a pilot legal regulatory sandbox, an Office of
+Legal Services Innovation, and the Legal Services Innovation Committee of the
+Utah Supreme Court to assist with overseeing and regulating the practice of
+law by nontraditional legal service providers or by traditional providers
+offering nontraditional legal services. Unless otherwise provided, this Order
+shall expire on the seventh anniversary of its effective date.
+The Standing Order is effective as of August 14, 2020 (Amended June
+         3, 2021) (Second Amendment September 21, 2022).
+                                 Background
+The access-to-justice crisis across the globe, the United States, and Utah
+has reached the breaking point.1 As to how affordable and accessible
+civil justice is to people, the 2021 World Justice Project Rules of Law
+Index ranks the United States 126th of 139 countries.2 As to that same
+factor, out of the thirty-seven high-income countries, the United States
+ranks dead last.3
+To put it into perspective, a recent study by the Legal Services
+Corporation found that 86 percent ―of the civil legal problems reported
+by low-income Americans in [2016–17] received inadequate or no legal
+help.‖4 Similarly, a recently published study out of California
+―[m]odeled on the Legal Services'' study, concluded that 60 percent of
+that state’s low-income citizens and 55 percent of its citizens ―regardless
+of income experience at least one civil legal problem in their household
+each year.‖ The study also found that 85 percent of these legal problems
+―received no or inadequate legal help.‖5 Closer to home, an in-depth
+
+
+1 Access to justice means the ability of citizens to meaningfully access solutions
+
+to their justice problems, which includes access to legal information, advice,
+and resources, as well as access to the courts. See Rebecca L. Sandefur, Access to
+What?, DAEDALUS, Winter 2019, 49.
+2 WORLD JUSTICE PROJECT, WORLD JUSTICE PROJECT RULE OF LAW INDEX 2021
+https://worldjusticeproject.org/our-work/research-and-data/wjp-rule-law-
+index-2021
+3 Id.
+
+4 LEGAL SERVICES CORPORATION, THE JUSTICE GAP: MEASURING THE UNMET CIVIL
+
+LEGAL NEEDS OF LOW-INCOME AMERICANS (2017).
+5 STATE BAR OF CALIFORNIA TASK FORCE ON ACCESS THROUGH INNOVATION OF
+
+LEGAL SERVICES, FINAL REPORT AND RECOMMENDATION 11–12 (2020) (emphasis
+
+
+                                                                                     1 OF 17
+April 2020 analysis of the legal needs of Utahns living at 200 percent or
+less of the federal poverty guidelines found that their unmet legal needs
+stood at 82 percent.6
+For years, the Utah Supreme Court has made combating the access- to-
+justice crisis confronting Utahns of all socioeconomic levels a top
+priority. To date, the Supreme Court, along with the Judicial Council
+and the Utah Bar Association, have worked ceaselessly to improve
+access to justice through many initiatives: the Utah Courts Self-Help
+Center, the Licensed Paralegal Practitioner Program, form reform, and
+the Online Dispute Resolution Program, to name but a few. What has
+become clear during this time is that real change in Utahns’ access to
+legal services requires recognition that we will never volunteer
+ourselves across the access-to-justice divide and that what is needed is
+market-based, far-reaching reform focused on opening the legal market
+to new providers, business models, and service options.
+In its boldest step toward bridging the access-to-justice gap, the
+Supreme Court has undertaken an effort to reevaluate and amend
+several of the regulations it has historically relied upon in governing the
+practice of law. This Standing Order and accompanying rule changes
+implement that effort. The Supreme Court believes that the regulatory
+reform set out in this Standing Order will shrink the access-to-justice
+gap by fostering innovation and harnessing market forces, all while
+protecting consumers of legal services from harm.7
+1. General Provisions
+In accordance with its plenary and exclusive authority and
+responsibility under article VIII, section 4 of the Utah Constitution to
+govern the practice of law, the Utah Supreme Court establishes the
+Office of Legal Services Innovation (―Innovation Office‖) and the Legal
+Services Innovation Committee (―LSI Committee‖) of the Utah Supreme
+Court. The Innovation Office will operate under the direct auspices of
+the Supreme Court with LSI Committee oversight. Together, the
+
+added).
+6 UTAH FOUNDATION, THE JUSTICE GAP: ADDRESSING THE UNMET LEGAL NEEDS OF
+
+LOWER-INCOME UTAHNS 23 (2020).
+7 The Supreme Court’s decision to pursue changes regarding its governance of
+
+the practice of law is in keeping with (1) the Resolution of the Conference of
+Chief Justices and (2) the Resolution of the American Bar Association’s House
+of Delegates ―to consider regulatory innovations that have the potential to
+improve the accessibility, affordability, and quality of civil legal services, while
+also ensuring necessary and appropriate protections that best serve clients and
+the public.‖
+
+
+                                                                                       2 OF 17
+Innovation Office and the LSI Committee will assist the Supreme Court
+in overseeing and regulating nontraditional legal services providers and
+the delivery of nontraditional legal services.8
+The Innovation Office will be responsible for the operation of a pilot
+legal regulatory sandbox (Sandbox)9 through which individuals and
+entities may be approved to offer nontraditional legal services to the
+public. Entities subject to regulation through the Innovation Office
+include entities using nontraditional business structures, including
+investment or ownership by nonlawyers, entities using nontraditional
+modalities for legal practice including through nonlawyer alternative
+legal providers and technology, and entities proposing other options not
+currently permitted by the Rules of Professional Conduct and other
+applicable rules [hereinafter ―nontraditional legal service entities‖].
+The Supreme Court establishes the Office of Legal Services Innovation,
+the Legal Services Innovation Committee, and the Sandbox for a pilot
+phase of seven years from the original effective date of this Standing
+Order (August 14, 2020). At the end of that period, the Supreme Court
+will carefully evaluate the program as a whole, including the Sandbox,
+to determine if it should continue. Indeed, unless expressly authorized
+by the Supreme Court, the program will expire at the conclusion of the
+seven-year study period.
+2. Innovation Office
+Subject to the limitations set forth in the Standing Order, the ultimate
+authority and control of the Utah Supreme Court, and the oversight of
+the LSI Committee, the Innovation Office will have the authority to
+regulate nontraditional legal service entities (see Sections 1, 4.3.2, and 5).
+The Innovation Office is responsible for carrying out the day-to-day
+activities necessary for the regulatory oversight of nontraditional legal
+service entities authorized to offer legal services in Utah. This
+responsibility includes the administration of the legal regulatory
+Sandbox and regulation of entities approved for the general legal
+
+
+
+
+8 In Utah, the practice of law is defined by Utah Supreme Court Rule of
+Professional Practice 14-802. This Standing Order incorporates that definition.
+For an understanding of ―nontraditional legal services providers‖ and
+―nontraditional legal services,‖ please refer to Section 3.3 (Regulatory Scope).
+9 A regulatory sandbox is a policy tool through which a government or
+regulatory body permits limited relaxation of applicable rules to facilitate the
+development and testing of innovative business models, products, or services
+by sandbox participants.
+
+
+                                                                                   3 OF 17
+market (―exited the Sandbox‖).10 The Supreme Court grants the
+Innovation Office the authority to develop and propose processes and
+procedures around licensing, monitoring, and enforcement to carry out
+its mission in light of the Regulatory Objective and Regulatory
+Principles outlined in Section 4.
+In carrying out the responsibilities designated to it by the Utah Supreme
+Court, the Innovation Office, at all times, will remain subject to the
+Supreme Court’s direction and control, and the oversight of the LSI
+Committee. The Innovation Office must submit proposed processes,
+procedures, and fee schedules to the Supreme Court for approval as
+they are developed and before they take effect.
+The Innovation Office will have no authority to regulate any
+individuals, entities, or activities that are beyond the Supreme Court’s
+constitutional scope and mandate to govern the practice of law.11
+      2.1 Responsibilities
+The following comprise the Innovation Office’s responsibilities:
+     (1) effective administration and operation of the regulation of
+         nontraditional legal service entities including but not limited to:
+            (a) intake, evaluation, and authorization recommendations
+                to the LSI Committee for review and vote;
+            (b) ongoing monitoring and evaluation of entities authorized
+                in the Sandbox and licensed in the general legal market,
+                including assessment and evaluation of risk and informal
+                engagement with entities to inform and mitigate
+                compliance or harm concerns;
+            (c) initial determination of whether formal regulatory
+                intervention is necessary to protect consumers (e.g.,
+                suspension or termination);
+
+10Innovation Office resources may limit the number of entities authorized
+within the regulatory Sandbox.
+11 By way of illustration, the Supreme Court has authorized real estate agents to
+
+advise their customers with respect to, and to complete, state- approved forms
+directly related to the sale of real estate. See Rule of the Utah Supreme Court
+Rules of Professional Practice 14-802(c)(12)(A). Outside of this grant, and the
+ability to modify it, the Supreme Court has no authority with respect to
+regulating real estate agents. That authority rests with the legislative and
+executive branches. By way of further illustration, some attorneys hold both
+J.D.s and M.D.s. The Supreme Court only governs the ability of these
+individuals to practice law. It has never interfered with their ability to practice
+medicine.
+
+
+                                                                                      4 OF 17
+           (d) assessment and initial determination of whether an
+               entity has met the criteria to exit the Sandbox and enter
+               the general legal market; and
+           (e) collection and accounting for any regulatory fees that are
+               imposed on entities;
+   (2) communication with and coordination of the LSI Committee’s
+       review of applications and regulatory data;
+   (3) reporting to the Supreme Court, with members of the LSI
+       Committee as needed, on the activities of regulated entities,
+       recommendations for Sandbox authorization, entity exits, and
+       other formal regulatory intervention as approved by the LSI
+       Committee;
+   (4) assist the LSI Committee in policy, data framework, tracking,
+       and evaluation process development as needed;
+   (5) timely communication and coordination with applicants, the
+       public, external researchers, and other stakeholders;
+   (6) manage the Office including making recommendations to the
+       LSI Committee on budget and staffing needs; and
+   (7) develop and maintain participant forms, educational materials,
+       Office manual, entity and Office records, and communications
+       materials.
+3. Legal Services Innovation Committee
+     3.1 Composition
+The Utah Supreme Court shall appoint the members of the LSI
+Committee. The LSI Committee shall have no less than five and no more
+than seven members. The members shall serve up to two consecutive
+staggered three-year terms. The Court shall appoint a Chair of the LSI
+Committee from among the members. The Supreme Court can remove,
+in its sole discretion, an LSI Committee member, with or without cause
+and without notice. LSI Committee members serve as officers of the
+Court and not as representatives of any client, employer, or other
+organization or interest group. At the first meeting of the LSI
+Committee in any calendar year, each Committee member must briefly
+disclose the general nature of the member’s employment.
+The Executive Director of the Utah State Bar shall serve as an ex officio
+non-voting member to the LSI Committee. The Supreme Court will also
+appoint a Justice as a non-voting liaison to the LSI Committee.
+
+     3.2 Meeting Schedule
+
+
+                                                                            5 OF 17
+The LSI Committee will meet as often as necessary to effectively execute
+its purpose but at least monthly. The LSI Committee open meeting
+minutes will be made public after approval by the Committee.
+
+     3.3 Vacancies
+If there is an LSI Committee vacancy, the Supreme Court will appoint a
+new Committee member to serve the remainder of the unexpired term.
+
+     3.4 Absences
+In the event an LSI Committee member fails to attend two consecutive
+meetings, the Chair may notify the Supreme Court of the absences and
+may request that the Court appoint a new member.
+
+     3.5 Administrative and Financial Oversight
+The LSI Committee will be supported by both the Executive Director of
+the Innovation Office and the Appellate Court Administrator.
+The Appellate Court Administrator, as an employee of the Court, will
+serve as the Budget Manager of the Office. As such, the Appellate Court
+Administrator will be responsible for managing Office Budget
+disbursements, reviewing, modifying, and approving budget requests,
+and communicating with the LSI Committee and Innovation Office to
+ensure proper administrative and financial oversight.
+The LSI Committee will select two members to serve as Operational
+Monitors of the Innovation Office to liaise with the Budget Manager on
+administrative and financial decisions.
+
+     3.6 Purpose
+The LSI Committee’s purpose is to provide oversight and assistance to
+the Office of Legal Services Innovation in the regulation of non-
+traditional legal services authorized by the Utah Supreme Court.
+
+     3.7 Responsibilities
+The following comprise the LSI Committee’s responsibilities:
+   (1) develop and oversee implementation of policies necessary to
+       administer the regulation of non-traditional legal service entities
+       according to the dictates of this Standing Order and the Court’s
+       ongoing discretion;
+   (2) develop and recommend to the Court metrics for evaluating the
+       conduct and impact of this regulatory reform pilot, including the
+       effectiveness of the regulatory sandbox as a policy mechanism
+       and on the services provided by non-traditional legal service
+       entities authorized by the Court;
+
+
+                                                                             6 OF 17
+   (3) develop and recommend to the Court any rules necessary for the
+       effective and efficient administration of the regulation of non-
+       traditional legal service entities;
+   (4) develop and recommend to the Court a fee schedule for the
+       regulatory services being provided by the Innovation Office;
+   (5) oversee the Office’s regulation of non-traditional legal service
+       entities authorized or licensed by the Court, including but not
+       limited to:
+           (a) review and recommend applicants to the Supreme Court
+               for authorization to provide legal services in the Sandbox
+               according to its discretion;
+           (b) review authorized entity legal service data for material
+               evidence of consumer harm and make recommendations
+               to the Court for necessary regulatory action to be taken
+               (e.g., suspension or termination of authorization); and
+           (c) review entity provided data and recommend entities to
+               the Supreme Court for exit from the Sandbox and
+               licensure as a legal service entity as supported by the
+               evidence and at the Court’s discretion.
+   (6) approve the budget for the Innovation Office and annually
+       submit the budget to the Supreme Court;
+   (7) monitor the Innovation Office’s workload and recommend to the
+       Court any staffing needs and/or adjustments;
+   (8) perform an annual review of the Innovation Office and consider
+       any strategic planning necessary to achieve the Regulatory
+       Objective;
+   (9) annually, in conjunction with the Executive Director, report to
+       the Court regarding the operations and policies of the
+       Innovation Office;
+   (10)   review and consider any public input.
+     3.8 Conflicts of Interest
+The Utah Supreme Court acknowledges that instances may arise in
+which LSI Committee members may face conflicts of interest between
+their business or personal affairs and their member duties. A conflict of
+interest arises when members—or a member of their immediate
+family—have a financial interest in a Sandbox applicant or participant
+or in an entity that has successfully exited the Sandbox. For example, a
+member’s firm may apply to offer services as part of the Sandbox.
+
+
+                                                                            7 OF 17
+Recognizing that transparency and public confidence are paramount
+concerns, the Supreme Court requires that in cases of conflict, the
+implicated member(s) disclose the conflict to the LSI Committee in
+writing and recuse from any involvement regarding that particular
+Sandbox applicant or participant. The Innovation Office will maintain a
+record of all conflicts and recusals and make all records related to
+conflicts and recusals publicly available.
+4. Regulatory Approach
+There are three facets to the regulation of nontraditional legal services
+entities the Innovation Office will apply:
+Entity regulation: the Office will regulate organizations rather than
+individuals.
+Objectives-based regulation: Objectives-based regulation specifically
+and clearly articulates regulatory objectives to guide development and
+implementation of regulation.
+Risk-based regulation: Risk-based regulation uses data-driven
+assessments of market activities to target regulatory resources to those
+entities and activities presenting the highest risk to the regulatory
+objectives and consumer well-being. Using risk-based regulation
+enables the Innovation Office to better prioritize its resources and
+manage risks in the Utah legal services market.
+     4.1 Regulatory Objective
+The overarching goal of this reform is to improve access to justice. With
+this goal firmly in mind, the Innovation Office will be guided by a single
+regulatory objective:
+To ensure consumers have access to a well-developed, high-quality,
+innovative, affordable, and competitive market for legal services.
+The Utah Supreme Court’s view is that adherence to this objective will
+improve access to justice by improving the ability of Utahns to
+meaningfully access solutions to their justice problems, including access
+to legal information, advice, and other resources, as well as access to the
+courts.
+     4.2 Regulatory Principles
+The Innovation Office will be guided by the following regulatory
+principles:
+   (1) Regulation should be based on the evaluation of risk to the
+
+
+
+
+                                                                              8 OF 17
+        consumer.12
+     (2) Risk to the consumer should be evaluated relative to the current
+         legal services options available.13
+     (3) Regulation should establish           probabilistic    thresholds    for
+         acceptable levels of harm.14
+     (4) Regulation should be empirically driven.15
+     (5) Regulation should be guided by a market-based approach.16
+       4.3 Regulatory Scope
+As noted, under the auspices of the Utah Supreme Court and the LSI
+Committee, the Innovation Office will be responsible for developing,
+overseeing, and regulating nontraditional legal providers and services
+authorized in the Sandbox. Should the Supreme Court permit Sandbox
+participants to exit the Sandbox, the Innovation Office will be
+responsible for developing, overseeing, and regulating entities
+authorized to exit.
+            4.3.1 Outside the Regulatory Scope
+Individuals and entities that carry out the following activities are
+outside the Innovation Office’s regulatory scope, remain under the
+Supreme Court’s traditional rules governing lawyer conduct and
+
+
+12 The phrase ―based on the evaluation of risk‖ means that regulatory
+intervention should be proportional and responsive to the actual risk of harm
+posed to the consumer, as supported by the evidence.
+13 The phrase ―relative to the current legal service options available‖ means that
+
+risk should not be evaluated as against an ideal of perfect legal representation
+by a lawyer. Risk should rather be measured as against the reality of current
+market options for consumers. In many cases, that means no access to legal
+representation or legal resources at all.
+14 The phrase ―probabilistic thresholds for acceptable levels of harm‖ (the
+chance a consumer is harmed) means the probability of a risk occurring and the
+magnitude of the harm should the risk occur. Based on this assessment, the
+Innovation Office will determine thresholds of acceptable risks for identified
+harms. Regulatory resources should be focused on areas in which, on balance,
+there is a high probability of harm or a significant impact from that harm on the
+consumer or the market.
+15The phrase ―empirically driven‖ means that the regulatory approach and
+actions must be supported, whenever possible, by data from the legal services
+market.
+16 The phrase ―market-based approach‖ means that regulatory tactics should
+
+seek to align regulatory incentives with increased revenue or decreased costs
+for market participants in order to encourage desired behavior or outcomes.
+
+
+                                                                                     9 OF 17
+discipline, and need not notify the Innovation Office:
+Partnerships, corporations, and companies entirely owned and
+controlled by lawyers in good standing; individual lawyers with an
+active Utah Bar license; and legal services nonprofits:
+   (1) offering traditional legal services as permitted under the Rules of
+       Professional Conduct; or
+   (2) using new advertising or solicitation approaches                 as
+       contemplated by the Rules of Professional Conduct.
+           4.3.2 Within the Innovation Office’s Regulatory Scope
+Individuals and entities that carry out the following activities are within
+the scope of the Innovation Office’s regulatory authority and are subject
+to this Standing Order’s requirements:
+   (1) any business entity that includes nonlawyers who have an
+       economic interest, including profit sharing, or decision-making
+       authority in the business and engages in the practice of law as
+       defined in Utah Supreme Court Rule 14-802;
+   (2) an entity, for profit or nonprofit, using nonlawyer alternative
+       legal providers or technology platforms, tools, or applications to
+       provide legal services constituting the practice of law as defined
+       in Utah Supreme Court Rule 14-802; or
+   (3) an entity, for profit or nonprofit, seeking a discrete waiver of the
+       Rules of Professional Conduct to facilitate innovative legal
+       service delivery.
+           4.3.3 Disbarred Lawyers            and    Individuals     with
+           Criminal History
+Disbarred Lawyers. The Utah Supreme Court has determined that
+lawyers who have been disbarred present a significant risk of harm to
+consumers if in the position of ownership or control of an entity or
+individual providing legal services. Therefore, disbarred lawyers are not
+permitted to gain or hold an ownership interest of greater than 10
+percent in any entity authorized to practice law under Rule 5.4B or this
+Standing Order.
+In addition, any entity applying for authorization to offer services in the
+Sandbox must disclose the following:
+   (1) whether the entity has any material corporate relationship
+       and/or business partnership with a disbarred lawyer and
+   (2) whether a disbarred lawyer works with or within the entity, in
+       either an employment or contractual relationship, and is in a
+
+
+                                                                              10 OF 17
+       managerial role in the direct provision of legal services to
+       consumers.
+Criminal History. The Supreme Court has determined that individuals
+with certain serious criminal histories may present an increased risk of
+harm to consumers if in the position of ownership or control of a legal
+service entity.
+Any entity applying for authorization to offer services in the Sandbox
+must disclose the following:
+   (1) whether any individual holding an ownership interest of greater
+       than 10 percent in the entity has a felony criminal history;
+   (2) whether the entity has any material corporate relationship or
+       business partnership with an individual with a felony criminal
+       history; and
+   (3) whether an individual with a felony criminal history works with
+       or within the entity, in either an employment or contractual
+       relationship, and is in a managerial role in the direct provision of
+       legal services to consumers.
+The Innovation Office, on receipt of any disclosures required above, will
+incorporate the information into the risk assessment of the entity as
+appropriate. To the extent permitted by law, the Innovation Office may
+also conduct independent criminal history checks.
+Falsifying any information, including lawyer status and individual
+criminal history, is a basis for dismissal from the Sandbox and in the
+event the entity or individual has exited the Sandbox, a basis for loss of
+licensure. Other criminal and civil sanctions may also apply.
+5. Regulatory Structure
+     5.1 Sandbox
+The Sandbox is a policy tool by which the Utah Supreme Court, through
+the Innovation Office, permits innovative legal services to be offered to
+the public in a controlled environment. The Innovation Office will
+develop, oversee, and regulate the Sandbox according to the guidance
+outlined in this Standing Order. Individuals and entities in the Sandbox
+will be subject to such data reporting requirements and ongoing
+supervision as the Innovation Office determines, so long as the
+requirements fall within its regulatory authority.
+           5.1.1 Sandbox Application Process
+All individuals and entities that fall within the Regulatory Scope
+(Section 4.3.2) must apply to the Innovation Office for authorization to
+
+
+
+                                                                              11 OF 17
+enter the Sandbox.
+The objective of the application process is for the Innovation Office to
+determine that the legal service proposed by the applicant furthers the
+Regulatory Objective and does not present unacceptable levels of risk of
+consumer harm. The Innovation Office will develop an efficient and
+responsive process for intake, review, assessment, and response to
+applications.
+The Utah Supreme Court contemplates that the application process will
+be iterative and will include communications between the Innovation
+Office and the various applicants, as necessary.
+The Innovation Office will determine whether an applicant’s proposed
+legal service furthers the Regulatory Objective and does not present an
+unacceptable risk of consumer harm. The Innovation Office will
+recommend to the LSI Committee whether an applicant should be
+authorized and the associated requirements for the applicant (e.g.,
+reporting, disclosure, audits, risk mitigation). Once approved by the
+LSI Committee, the Innovation Office will recommend the applicant to
+the Supreme Court. In developing these requirements, the Innovation
+Office will consider the Regulatory Objective and Regulatory Principles.
+If the Innovation Office does not find that an applicant’s proposed legal
+service furthers the Regulatory Objective or finds that it presents an
+unacceptable risk of consumer harm, the Innovation Office will deny the
+proposed authorization, and will include a brief written explanation
+supporting the finding. The Innovation Office will develop a process for
+appeal of a denial of a proposed authorization to the Supreme Court.
+           5.1.2 Authorization
+As with the licensing of lawyers and Licensed Paralegal Practitioners,
+the Utah Supreme Court will ultimately be responsible for approving or
+denying authorization of nontraditional legal service entities.
+An approved application means permission to offer the proposed legal
+service in the Sandbox as outlined in the authorization order and under
+the Innovation Office’s authority. Authorized participants and services
+are deemed authorized to practice law or offer legal services in Utah,
+albeit on a limited and temporary basis, under Utah Supreme Court
+Rule of Professional Practice 14-802. Authorization is always contingent
+upon timely compliance with the requirements imposed by the
+Innovation Office and upon a showing that the entity is not causing
+material consumer harm.
+Denial of authorization by the Supreme Court has the effect of returning
+the application to the Innovation Office. The Supreme Court may
+
+
+                                                                            12 OF 17
+include a brief written explanation of the reasons for its decision not to
+authorize the applicant. This information may guide the applicant in
+how to potentially resolve concerns and revise its application for
+reconsideration. However, authorization to enter the Sandbox or exit to
+the general legal market always remains subject to the Supreme Court’s
+sole discretion and may not be granted.
+Additionally, authorization within the Sandbox does not impact any of
+the other requirements that may be imposed upon an entity (e.g.,
+business license, tax commission registration, etc.).
+           5.1.3 Exiting the Sandbox
+If the Supreme Court decides to permit Sandbox participants to exit the
+Sandbox, entities that are able to demonstrate that their legal services
+are safe—i.e., that maintain a satisfactory record of compliance and do
+not cause material consumer harm during their Sandbox term—may, at
+the Supreme Court’s sole discretion, be approved to exit the Sandbox
+and may be granted the appropriate license to practice law or offer legal
+services by the Utah Supreme Court pursuant to Utah Supreme Court
+Rule of Professional Practice 14-802.
+Exited entities will remain under the regulatory authority of the
+Supreme Court through the Innovation Office and are subject to such
+monitoring and reporting requirements as the terms of the license
+indicate and are subject to the enforcement authority of the Innovation
+Office. As above, license to practice law or offer legal services upon exit
+does not impact any of the other requirements that may be imposed
+upon an entity (e.g., business license, tax commission registration, etc.).
+The Innovation Office will develop the process (subject to Supreme
+Court approval) by which providers and services may exit the Sandbox,
+should the Court decide to allow such exits. It is anticipated that this
+process will generally follow that outlined for application approval,
+including an assessment of the provider or service, a finding on the
+consumer safety of the provider or service, and a recommendation to
+the Supreme Court as to the scope of the license and associated
+requirements (e.g., reporting). Should the court decide to permit entities
+to exit the Sandbox, any such exit will always be at the sole discretion of
+the Supreme Court.
+If the Innovation Office does not find that a participant’s proposed legal
+service furthers the Regulatory Objective or finds that it presents an
+unacceptable risk of consumer harm, the Innovation Office will deny the
+proposed licensure, and will include a brief written explanation
+supporting the finding. The Innovation Office will develop and propose
+
+
+
+                                                                              13 OF 17
+the process for appeal of a denial of Sandbox exit to the Supreme Court.
+     5.2 Monitoring and Measuring Risk
+The Innovation Office has the authority to develop the measurements
+by which it assesses and manages risk. The Innovation Office will
+identify specific harms presenting the most significant risk to the
+Regulatory Objective. All regulated providers, whether in the Sandbox
+or in the general market, have a proactive duty to report any unforeseen
+risks or harms of which they become aware.
+The Innovation Office has the authority to develop specific data
+reporting requirements to monitor consumer risk of harm as part of
+both Sandbox authorization and general licensing of nontraditional
+legal service entities. The Innovation Office will develop processes and
+procedures for intake, review, and assessment of incoming data at an
+individual provider level, across different market sectors, and across the
+market as a whole. The Innovation Office has the authority to increase
+or decrease reporting requirements as indicated by the provider’s
+performance in the market and compliance with the Innovation Office’s
+requirements.
+The Innovation Office has the authority to take proactive actions to
+effect monitoring of providers and the market as a whole, including but
+not limited to market surveys, expert audits, anonymous testing,
+product walkthroughs, and ―secret shopper‖ tests. The Innovation
+Office will also develop processes and procedures for intake, review,
+and assessment of information coming from sources such as media,
+other governmental or nongovernmental institutions, whistleblowers,
+and academia.
+The Utah Supreme Court acknowledges that this regulatory approach
+does not remove all possibility of harm from the market and, in fact,
+contemplates that sometimes there may be no regulatory enforcement
+action even though some consumers may experience harm.
+Nevertheless, aggrieved consumers may seek relief and remedy through
+traditional channels of civil litigation or, if applicable, the criminal
+justice system.
+     5.3 Consumer Complaints
+The Innovation Office will develop a process by which consumers may
+directly complain to the Office. The Innovation Office will develop a
+process by which individual complaint information is fed into the larger
+data reporting system to contribute to the assessment of risk.
+     5.4 Enforcement
+
+
+
+                                                                             14 OF 17
+The Innovation Office will develop standards for enforcement authority
+upon regulated providers in line with the Regulatory Objective and
+Regulatory Principles. The Innovation Office will also develop the
+range of enforcement mechanisms it deems appropriate, including but
+not limited to education, increased reporting requirements, fines, and
+suspension or termination of authorization or license. All enforcement
+processes and procedures, and all formal enforcement interventions
+(e.g., suspension and termination) will be reviewed and approved by
+the LSI Committee before submission to the Supreme Court for review
+and, if appropriate, approval.
+Enforcement will generally be triggered when the evidence of consumer
+harm exceeds the applicable acceptable consumer harm threshold.
+Enforcement can also be triggered by failure to comply with the
+regulatory requirements imposed by the Innovation Office and for lack
+of responsiveness.
+The Innovation Office will also develop a process for appealing
+enforcement decisions to the Innovation Office, and then to the Utah
+Supreme Court. The Innovation Office will strive to make the
+enforcement process as transparent, targeted, and responsive as
+possible.
+     5.5 Standards of Conduct
+As stated in Rule 5.4(B), lawyers engaging with the nontraditional
+provision of legal services, as owners, employees, contractors, or
+business partners with Sandbox participants or licensed providers are
+required to uphold their duties as required by the Rules of Professional
+Conduct.
+     5.6 Confidentiality
+The Innovation Office shall maintain a commitment to transparency in
+the execution of its mission. Identities of applicants to the Sandbox and
+the applications themselves are presumed to be public information.
+Data reported to the Office as part of an entity’s regulatory
+requirements are presumed not be confidential business information
+under the Government Records and Access Management Act
+(GRAMA). See UTAH CODE § 63G-2-305(1)–(2).
+Applicants may designate appropriate, specific information in the
+application or any supplemental materials or communications as
+confidential business information under the Government Records and
+Access Management Act (GRAMA). See UTAH CODE § 63G-2-305(1)–(2).
+The Innovation Office will maintain the confidentiality of such
+designated information and it will be redacted from the publicly
+
+
+
+                                                                            15 OF 17
+released documents.
+Nothing, however, in this section limits the ability of the Innovation
+Office to provide aggregate and anonymized data sets to Court
+approved outside researchers, subject to a duly executed data sharing
+agreement with the Court.
+6. Reporting Requirements
+The Innovation Office will be responsible for regular reporting to the
+Utah Supreme Court and the public on the status of the Sandbox, the
+Sandbox participants, licensed providers, and consumers.
+The reports to the Supreme Court must be monthly. Reports to the
+Supreme Court must include the following, at a minimum:
+   (1) total number of regulated entities and number of entities within
+       and outside the Sandbox
+   (2) the number of applicants to the Sandbox
+   (3) general information about applicants (e.g., type of legal entity,
+       ownership makeup, target market, proposed type of service,
+       legal need to be addressed, subject matter served)
+   (4) numbers of (along with general information)
+           (a) applicants recommended for Sandbox entry
+           (b) applicants denied Sandbox entry
+           (c) sandbox applicants on hold
+           (d) applicants recommended to exit Sandbox
+           (e) applicants not recommended to exit Sandbox
+   (5) numbers and     demographic data (as        available)          on
+       consumers served by the Sandbox and licensed providers
+   (6) identification of risk trends and responses
+   (7) consumer complaints, cumulative and for the applicable month,
+       from both within and outside the Sandbox
+The Innovation Office will, subject to existing law, have the authority to
+determine the nature and frequency of its reports to the public, but
+must, at a minimum, report the information identified above on an
+annual basis (keeping anonymity and confidentiality as required).
+7. Jurisdiction
+Entities authorized to practice law within the Sandbox and licensed to
+practice law on exiting the Sandbox are subject to the jurisdiction of the
+
+
+
+                                                                             16 OF 17
+Utah Supreme Court. Any false or misleading statements made by
+entities or their members throughout the regulatory relationship,
+whether during application, authorization, reporting, monitoring, or
+enforcement, whether discovered at the time or at any time afterward,
+will be independent grounds for enforcement and an aggravating factor
+in any enforcement proceeding based on other conduct. Any fraudulent
+or materially misleading statements made by an entity or its members to
+the Innovation Office or the Court may result in revocation of the
+entity’s authorization to practice law.
+8. Termination of Pilot Phase
+The Sandbox is a policy tool, adopted by the Utah Supreme Court to
+develop a new regulatory approach to nontraditional legal services and
+to inform the Supreme Court’s decision-making on rule changes
+necessary to support the expanded legal services market. The Supreme
+Court has set out a seven-year period of operation for this pilot phase of
+the Innovation Office and Sandbox.
+At the end of the pilot phase, the Supreme Court will determine if and
+in what form the Innovation Office will continue. Sandbox participants
+authorized and in good standing at the end of the seven-year period
+and for whom there appears to be little risk of consumer harm may, at
+the discretion of the Court, be able to continue operations under the
+authority of the Innovation Office or other appropriate entity should the
+Innovation Office cease to exist. Entities that have successfully exited
+the Sandbox will be able to continue operations under the authority of
+the Innovation Office or other appropriate entity should the Innovation
+Office cease to exist.
+
+September 21, 2021
+Date                                 Matthew B. Durrant
+                                     Chief Justice
+
+
+
+
+                                                                             17 OF 17
+

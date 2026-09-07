@@ -1,0 +1,725 @@
+                  OFFICE OF LEGAL SERVICES INNOVATION
+                  An Office of the Utah Supreme Court
+
+
+
+
+     Amended Sandbox Authorization
+               Packet
+       LegaLogic, Inc., d/b/a LawGeex
+                            August 15, 2022
+
+
+Contents
+
+1. Utah Supreme Court Amended Order for Authorization to Practice Law
+
+2. Innovation Office Recommendation to the Court
+Document 1
+             In the Supreme Court of the State of Utah
+
+                               ----oo0oo----
+
+       In re: Application of LegaLogic, Inc., DBA LawGeex
+
+                                     ---
+
+
+   AMENDED ORDER FOR AUTHORIZATION TO PRACTICE LAW
+
+Based upon the Utah Supreme Court’s plenary and constitutionally granted
+authority to regulate the practice of law in Utah, and the tenets of Standing
+Order 15, the Utah Supreme Court orders that LegaLogic, Inc., d/b/a LawGeex
+(“LawGeex”) is authorized to practice law within the regulatory sandbox and
+subject to the restrictions outlined below.
+
+The Court has reviewed the recommendation of the Office of Legal
+Services Innovation (“Innovation Office”) dated April 22, 2021, for
+LawGeex to be authorized to practice law.
+
+LawGeex is an established legal tech company headquartered in Israel
+with offices in New York and Utah. The company’s product is a software
+program that automates contract review and management using artificial
+intelligence. The software codifies corporate contract policies and enables
+much of the routine legal decision-making process to take place via the
+software tool. The platform supports much of the negotiation of many
+types of routine corporate contracts (e.g. nondisclosure agreements,
+master service agreements) and also facilitates the management of an
+entity's contracts through the contract lifecycle. Under the current rules,
+the company is limited to basic application of a client’s defined legal
+policies in contract negotiation and management; it is not permitted to
+make independent legal assessments or engage in contract negotiation
+itself.
+
+LawGeex proposes entering into the Sandbox as a legal technology
+company with lawyer employees providing legal services to its current
+and future clients. In the Sandbox, LawGeex’s software and attorneys
+would be able to essentially provide an outsourced contracts negotiation
+
+
+                                     1
+and execution team for its clients, providing legal advice and negotiation.
+In March 2020, the company opened a Legal Quality Assurance hub in
+Lehi, Utah. The proposed new services would be run through this hub
+using the staff of Utah lawyers.
+
+The Innovation Office has assessed the risk of harm to LawGeex’s targeted
+consumers relative to the risk of harm they currently face and has
+determined that the risk of harm presented by LawGeex’s services is
+Moderate.
+
+In light of the Court’s responsibility to the public to effectively regulate
+the practice of law in Utah and in keeping with the tenets of Standing
+Order 15, the Court now orders as follows:
+
+ 1. LawGeex is authorized to offer legal services through the following
+    methods:
+     a. Lawyers employed or managed by a nonlawyer
+     b. Nonlawyer ownership
+     c. Lawyers sharing profits with nonlawyers
+     d. Software provider with lawyer involvement
+
+ 2. LawGeex is authorized to provide legal services across the following
+    legal service areas only:
+      a. Business
+      b. Healthcare
+
+ 3. LawGeex shall conform to the Moderate innovation reporting
+    requirements imposed by the Innovation Office.
+
+ 4. LawGeex will prominently display the following disclosure
+    requirements:
+      a. Innovation Office Badge
+      b. Nonlawyer provider disclosure
+      c. Nonlawyer ownership disclosure
+
+If LawGeex wishes to alter these conditions or requirements, it must
+submit any such change to the Innovation Office for further assessment.
+The Innovation Office will assess the proposed change and may permit
+the change if it deems the change does not materially increase the risks to
+
+
+
+
+                                     2
+consumers. If the Innovation Office finds a material increase in risk then it
+will present the issue to the Court for further consideration.
+
+This authorization is granted for the duration of the existence of the
+Sandbox, or until exit and permanent licensure at the discretion of the
+Court. Authorization is subject to LawGeex’s compliance with the
+conditions and requirements set forth in the Innovation Office Manual
+and the Innovation Office Recommendation to the Court and to a
+verification by the Innovation Office that the company’s services are not
+causing material harm to consumers.
+
+
+DATED this 16th day of August, 2022.
+
+
+
+                                          ______________________________
+                                                 Matthew B. Durrant
+                                                 Chief Justice
+
+
+
+
+                                      3
+Document 2
+                    OFFICE OF LEGAL SERVICES INNOVATION
+                         An Office of the Utah Supreme Court
+
+
+            RECOMMENDATION TO THE COURT
+   APP NO. 0041 - LEGALOGIC, INC., D/B/A LAWGEEX
+
+                                  APRIL 22, 2021
+
+
+CONTENTS
+Executive Summary                                              1
+
+Risk Assessment                                                2
+
+Sandbox Recommendation                                         3
+                                                                   Sandbox Recommendation – LawGeex
+
+
+                                   EXECUTIVE SUMMARY
+      Recommendation:      Authorize
+
+              Applicant:   LegaLogic, Inc. d/b/a LawGeex (“LawGeex”)
+                           LawGeex is an established legal tech company headquartered in
+Proposed Model/Service:    Israel with offices in New York and Utah. The company’s product is a
+                           software program that automates contract review and management
+                           using artificial intelligence. The software codifies corporate contract
+                           policies and enables much of the routine legal decision-making
+                           process to take place via the software tool. The platform supports
+                           much of the negotiation of many types of routine corporate contracts
+                           (e.g. nondisclosure agreements, master service agreements) and also
+                           facilitates the management of an entity's contracts through the
+                           contract lifecycle. Under the current rules, the company is limited to
+                           basic application of a client’s defined legal policies in contract
+                           negotiation and management; it is not permitted to make
+                           independent legal assessments or engage in contract negotiation
+                           itself.
+
+                           LawGeex proposes entering into the Sandbox as a legal technology
+                           company with lawyer employees providing legal practice services to
+                           its current and future clients. In the Sandbox, LawGeex’s software and
+                           attorneys would be able to essentially provide an outsourced
+                           contracts negotiation and execution team for its clients, providing
+                           legal advice and negotiation. In March 2020, the company opened a
+                           Legal Quality Assurance hub in Lehi, Utah. The proposed new
+                           services would be run through this hub using the staff of Utah lawyers.
+
+                           The proposed service model is:
+                              ● Lawyers employed or managed by nonlawyers
+                              ● Nonlawyer ownership (50% or over)
+                              ● Software provider with lawyer involvement
+
+                           The proposed consumer service area is:
+                              ● Business
+                              ● Healthcare
+
+                           N/A
+        Waivers Sought
+
+Target Consumer Market     Corporations, small businesses, nonprofits, and public sector
+                           entities.
+
+     Sandbox Qualifiers:   This business model/service qualifies for the Sandbox because it
+                           would feature the following characteristics:
+                               ● Lawyers employed or managed by nonlawyers
+                               ● Nonlawyer ownership (50% or over)
+
+                                                 1
+                                                                          Sandbox Recommendation – LawGeex
+
+                                    ●   Software provision of legal advice
+
+
+        Regulatory Objective     This proposal has the potential to increase small business, nonprofit,
+                   Qualifier:1   and public sector access to legal services related to the drafting,
+                                 negotiation, execution, and management of contracts. The use of
+                                 technology increases the potential for increased efficiency and lower
+                                 cost.
+
+              Utah Qualifier:    Adapted for Utah requirements; using Utah-licensed lawyers.
+
+    Implementation Qualifier:    Ready for immediate implementation.
+
+
+
+                                           RISK ASSESSMENT
+               Target Market: Corporations seeking increased efficiency and decreased cost for legal
+                              services related to contracts; small businesses, nonprofits, and public
+                              entities without access to in house or external lawyers.
+
+        General Assessment: MODERATE RISK
+
+               Specific Risks:   1. Nonlawyer ownership
+                                 2. User communications
+
+
+
+
+                                   SANDBOX RECOMMENDATION
+
+We recommend the Court authorize LawGeex to practice law in the state of Utah, subject to such
+requirements as the Innovation Office may impose.
+
+                                   Scope of Recommended Authorization
+
+           Term of authorization The Innovation Office recommends that the authority be granted for
+                                 an initial period of 24 months from the date of service launch with the
+                                 possibility of extension or permanent authorization. Any such
+                                 extension or permanent authorization would be subject to the
+                                 applicant complying with the conditions and requirements set forth
+                                 below and also to LawGeex has a record of compliance with all
+                                 requirements and the company’s services are not causing harm to
+                                 consumers.
+
+
+    Recommended legal service           1. Lawyers employed or managed by a nonlawyer
+
+
+1
+ Regulatory Objective: To ensure consumers have access to a well-developed, high-quality, innovative,
+affordable, and competitive market for legal services. (Standing Order No. 15)
+                                                       2
+                                                               Sandbox Recommendation – LawGeex
+
+                 models
+
+                                 2. Nonlawyer ownership (50% or more)
+
+                                 3. Software provider with lawyer involvement
+
+ Legal service models not   N/A
+           recommended
+
+Recommended consumer        1.    Business
+         service areas
+                            2. Healthcare
+
+
+  Recommended waivers N/A
+
+Recommended qualitative Standardized disclosure statements on website and in mobile
+ compliance requirements applications (see Manual):
+                          1. Badge
+                          2. Nonlawyer ownership disclosures
+
+
+     Recommended data
+                         MODERATE risk data reporting requirements (see Manual)
+  reporting requirements
+
+
+
+
+                                               3
+Published September 16, 2020
+
+
+
+
+                         OFFICE OF LEGAL SERVICES INNOVATION
+                                     An Office of the Utah Supreme Court
+
+
+                           SANDBOX PARTICIPANT APPLICATION
+ The Sandbox is for innovative services models that cannot otherwise be offered under the present Rules of Professional
+ Conduct or are considered the unauthorized practice of law. There are a few qualifications to this mandate:
+      1. The Sandbox is for all business and service models falling under Utah Rule of Professional Conduct 5.4
+          and Utah Supreme Court Standing Order No. 15.
+      2. Suspended or disbarred lawyers are barred from holding an ownership interest of greater than 10% in any
+          Sandbox entity.
+      3. The Sandbox is not meant to be a mechanism by which out-of-state lawyers can practice in Utah without
+          otherwise completing the requirements imposed by the Utah State Bar.
+      4. The Sandbox does not and cannot impact requirements imposed by other applicable Utah or federal laws,
+          the laws or requirements imposed by other jurisdictions, or the requirements imposed by other regulatory
+          bodies. Authorization to practice law in Utah through the Sandbox does not release any entity or individual
+          therein from conforming to all other applicable laws and regulations.
+      5. As made clear in Rule 5.4 and Standing Order No. 15, lawyers working with or in entities participating in the
+          Sandbox are required to maintain their duties under the Rules of Professional Conduct.
+ Your application will be made publicly available. You will have the opportunity to make a claim of business
+ confidentiality for specific information that would qualify for protection under GRAMA Section 63G-2-305. Making false
+ or materially misleading statements in this application is a basis for loss of authorization to practice within the Sandbox.
+ Other criminal and civil sanctions may also apply.
+ Should your answers to any of the application questions change, you are responsible for updating the
+ information with the Innovation Office. Failure to promptly update information will be considered relevant to your
+ regulatory status.
+ If you have any questions, please contact the Innovation Office at sandbox@utcourts.gov.
+                                           1.     PROPOSED SERVICES
+1.1. Describe your proposed legal services offering in detail.
+Please include (i) who provides the legal services, (ii) how consumers will access/receive these services, and (iii)
+what your service will do for your customers.
+
+LawGeex is a leading legal technology company which is transforming businesses worldwide and empowering legal
+teams to accelerate the contract review process so they can close more deals faster, focus on more strategic work
+and increase internal quality and accuracy.
+
+LawGeex, with offices in New York, Utah and Tel-Aviv, Israel and over 100 employees worldwide, is the leader in
+Contract Review Automation (CRA) and provides solutions that automatically review commercial contracts during
+the negotiation process. LawGeex effectively codifies the client’s legal decision making process against a set of
+policies and applies them to the client’s day-to-day routine contracts. This is made possible through a powerful
+combination of our patented Artificial Intelligence (AI) technology and our dedicated team of legal experts who
+supervise the AI results. Together, they deliver benefits that can be measured in accuracy (equal or better to an
+experienced commercial lawyer), speed and cost-effectiveness.
+
+Below are some significant data points that demonstrate our accuracy and leadership in this space:
+     ● LawGeex was featured on HBO’s “The Future of Work” series in an AI vs. Lawyer rematch officiated by
+         Vice News. The results: LawGeex outperformed the human lawyer. The attorney took over an hour to
+         review the two documents which he did with 85% and 83% accuracy, respectively. LawGeex AI achieved
+         95% accuracy on both contracts.
+     ● In a landmark study, “AI vs Lawyers: The Ultimate Showdown,” 20 experienced US lawyers took on
+         LawGeex AI in reviewing 5 NDAs. LawGeex AI achieved an accuracy level of 94% compared to an
+         average accuracy of 85% across humans. It took the attorneys an average of 92 minutes, while it took
+         LawGeex AI 26 seconds. This study was conducted in 2018, demonstrating that even then, our AI alone
+         was better than an experienced human lawyer in certain routine use cases.
+
+LawGeex supports the full negotiation of everyday legal contracts such as Non-Disclosure Agreements (NDAs),
+Master Services Agreements (MSAs), Licensing Agreements, Sales Agreements, Product Supply Agreements,
+Software as a Service (SaaS) Agreements, Request For Proposals (RFPs), Clinical Trial Agreements (CTAs) and
+Data Processing Agreements (DPAs). We support clients regardless of industry or size, whether they are on the sell
+side or buy side, and whether they use 1st party (i.e., their own template) or 3rd party agreements. We have clients
+across many industries, including Technology, Pharmaceuticals, Financial Services & Insurance, Education, Private
+Equity, Manufacturing, Professional Services and more.
+
+LawGeex was recently granted a pioneering patent on our contextual AI engine for contract analysis. This
+achievement marks an important milestone for us as the pioneer and leader in Contract Review Automation. At the
+core of LawGeex’s tech stack is a Contextual AI-engine that understands not just the language of the contract, but
+the intent and objectives of the parties to it. Our patent covers a proprietary algorithmic component in LawGeex’s
+solution that performs contextual analysis of contracts. This is achieved through a deep understanding of the unique
+legal language which allows the LawGeex solution to capture and address nuances in contracts that no other tool
+can, thereby eliminating the need to trade off the quality, speed, and costs of contract review.
+
+In March 2020, LawGeex opened a US Legal Quality Assurance (LQA) hub in Lehi, Utah. Currently the hub is
+staffed with 11 lawyers including 7 Utah licensed attorneys in order to drive further support of our global business.
+LawGeex is maintaining a constant recruiting process in Utah and our Lehi legal team is forecasted to double in size
+in 2021. In addition, we are working in partnership with the S.J. Quinney College of Law at the University of Utah to
+promote legal positions and have successfully turned 1 internship so far into full-time employment post-graduation.
+The remaining LQA team is located in Berkeley, California and in Tel Aviv, Israel. We continue to see this team grow
+and play a pivotal role in shaping the future of our product and impact on our client’s satisfaction.
+
+When reviewing contracts, unlike other technology solutions that simply identify issues or give a risk rating, we
+actually fix any legal issues found. Here is a basic overview of how our solution works in three steps:
+   1. The client sends a contract via email for LawGeex to review.
+   2. The LawGeex AI first and then the LQA team reviews and redlines the contract based on the client's
+     pre-defined legal policies.
+  3. The LawGeex system sends a redlined contract straight into the client’s inbox.
+
+LawGeex provides better quality, faster turnaround times, and is more cost effective than other alternatives. In
+essence, whether a small business or a large corporation, LawGeex provides the clients with a solution by
+becoming an extension of the client’s legal team that they can truly delegate contract work to.
+
+LawGeex’s AI engine is Pretrained, Self-Learning, and Supervised:
+  ● Pre-trained. LawGeex AI has already been fed with tens of thousands of contracts and can not only recognize but
+     also understand legal concepts. Similar to when a client hires an experienced contract attorney – they don’t need to
+     teach them what a non-compete or an exclusivity clause is – they immediately recognize it. They just need to know
+     what the client’s positions are. LawGeex follows a similar process.
+
+  ●    Self learning. Our AI continues to learn through our robust network. With every contract our AI sees, new patterns
+       are recognized and our algorithms make new connections.
+
+  ●    Supervised. In addition to our mature and robustly trained AI technology, we have our LQA team of senior,
+       highly-qualified commercial attorneys whose role in essence is to ensure accuracy in the AI’s output and confirm or
+       correct any decisions it has made. For LawGeex, it’s worth having this work done by senior level attorneys at no
+       additional charge; not only does it empower clients to have greater confidence in their work product by knowing
+       LawGeex ensures accuracy, it is also the framework of how we continuously improve and teach our AI. What is
+       supervised today is pre-trained tomorrow.
+
+By leveraging LawGeex, our clients benefit from the following:
+  ● Increased deal velocity
+  ● Reduction of legal costs
+  ● Better allocation of legal resources (free up time for more strategic legal work)
+  ● Remove bottlenecks in reviewing first and third party contracts
+  ● Ensure consistency and compliance across teams and organizations
+  ● Gain data-driven visibility through analytics and insights to accelerate future deals
+  ● Support scale and business speed while increasing quality and consistency
+
+Currently, LawGeex does not provide legal advice but is constricted to the predefined legal policy of the client which
+is created together with the client during the set up phase. This means that the contract review work is completely
+based on the client’s playbook and reflects only any guidelines and language that was provided in advance by the
+client as part of the playbook creation. In addition, the client receives the redlined contract from LawGeex and is the
+one responsible for any negotiation with the counterparty.
+
+LawGeex’s proposed offering under the Sandbox license:
+LawGeex’s ability to practice law under the Sandbox will provide its clients additional value while maintaining our
+current advantages (ie: cost, speed, accuracy).
+
+If accepted to the Sandbox, LawGeex will be able to:
+
+  1. Work hand-in-hand with our clients to build playbooks and create legal policies that reflect the clients’ legal
+     standard position, while providing data driven insights of success factors from its database. By doing so, we
+     will be able to develop and optimize our clients’ playbooks/legal policies to expedite successful negotiations.
+
+  2. Instead of clients needing to make a final review of an agreement, they will be able to instruct LawGeex to
+     make these legal judgment calls on their behalf prior to sending the contract to the counterparty and allowing
+     LawGeex to actually take the negotiation all the way to the point of the contract being signed.
+
+The new proposed services will enable LawGeex to take an important “extra mile” for its clients: leverage our
+internal expert team of commercial lawyers (which includes and is overseen by Utah licensed attorneys) and provide
+additional value to both small businesses who do not have legal resources in-house, and large corporations, through
+strategic legal advice to create and/or improve the legal policies of their playbooks, and provide end-to-end
+How consumers will access/receive these services:
+From the first day a client signs with LawGeex, they are assigned to a dedicated Customer Success Manager (CSM)
+who supports them during onboarding and throughout the engagement.
+
+The heavy lifting (building/extracting/optimizing the client’s legal policy, and implementing it all into a LawGeex digital
+playbook) of the onboarding process is managed by the LawGeex team (LQA) and does not require a significant
+amount of the client’s time. We do our best to create and validate the legal playbook by leveraging materials
+provided by the client, to help minimize the amount of hands-on work they need to provide.
+
+With regards to submitting and receiving contracts, our goal is to make it as seamless as possible and enable our
+clients to leverage our platform in the most simple way.
+
+Once a client is onboarded and their playbook is ready to go live, the process is simple. The LawGeex platform can
+integrate to any existing organization platform (CLM or CRM) such as Salesforce or Ariba, or the client can simply
+use Outlook/Gmail and send the contract via email.
+
+Once LawGeex finalizes the review process and the contract is ready, we send back a redlined Word document that
+is ready to be sent to the counterparty.
+
+
+
+
+What our service will do for our customers:
+The proposed services will enable our clients to benefit directly from our innovative and award-winning contract
+review automation software. LawGeex reduces risk, drives consistency and reduces legal costs which would
+alternatively be spent on multiple external/ in-house legal counsel. LawGeex ensures our clients are driving
+consistent legal approaches across all of their day-to-day routine contracts, improving the speed at which they close
+deals and empowering them to drive better resource allocation of their teams.
+
+Under the new offering:
+  ● Our patented AI technology together with our experienced LQA team will enable the provision of data-driven
+      recommendations to help clients make the best decisions when it comes to their legal approach.
+  ● The combination of AI and Human Intelligence will act as a trusted advisor to drive end-to-end contract
+      negotiations on behalf of the client.
+
+1.2. Describe the entity business model you want authorized in the Sandbox, including the management
+     structure which will oversee direct legal service providers.
+
+As described in detail in this application, LawGeex is an AI software company (non-lawyer ownership) which
+provides the services of every-day legal contracts review based on the client’s pre-defined legal policies, using
+language provided by the customer.
+
+Under the proposed business model in this application, LawGeex will provide its clients with strategic legal advice to
+create and/or improve the legal policies of their playbooks, as well as end-to-end negotiation support and other
+strategic legal advice.
+
+The legal services will be overseen by our team of Utah licensed attorneys as well as by the management of the
+Legal Operations department (including general management overseeing, training, quality control, client feedback,
+analysis, processes etc.) as described in detail under Sections 2-4 below.
+1.3. Why is your proposal eligible to enter the Sandbox?
+Identify the specific model, service or product innovations that are not permitted under the traditional rules governing the
+practice of law.
+
+Traditional rules governing the practice of law do not permit non-lawyer ownership in an entity practicing law or providing
+legal advice. As further described in this application. Our entity is a wholly-owned subsidiary of Legalogic Ltd., which is
+vastly owned by individuals and VC funds who are not qualified lawyers.
+
+In addition, the proposed services will be provided by technology as well as both Utah licensed lawyers and non-Utah
+licensed lawyers (all oversighted by Utah licensed lawyers).
+
+
+1.4. Describe your target consumer(s).
+For example: single parents making <$50,000 in a custody dispute, first generation college students in a landlord-tenant
+dispute; renters 40+ years planning for retirement; college educated entrepreneurs seeking legal advice in starting a
+business.
+
+Legal and business professionals and/or public sector units that review and negotiate contracts in companies or
+organizations ranging in size from small businesses to large multinational enterprises. Legal and procurement
+departments are a typical consumer as they deal with a large volume of repetitive contracts which LawGeex knows how
+to automate. The typical consumer would deal with contracts primarily in English and will be looking to digitize their
+contract review process.
+1.5. Which service models are you seeking to use? Select all that apply.
+    ❏    Lawyers employed or managed by a nonlawyer
+    ❑    Less than 50% non lawyer ownership
+    ✓    More than 50% non lawyer ownership
+    ❑    Lawyers sharing legal fees or paying referral fees to nonlawyers
+    ❑    Non Lawyer provider1 with lawyer involvement2
+    ❑    Nonlawyer provider without lawyer involvement
+    ✓    Software provider with lawyer involvement
+    ❑    Software provider without lawyer involvement
+    ✓    Other: Software provider with lawyer involvement - legal document completion
+
+
+
+1.6. Which legal service categories are you seeking to offer?
+
+    ❑   Accident/Injury                            ✓   Education                                  ❑    Housing - Rental
+    ❑   Adult Care                                 ❑   Employment                                 ❑    Marriage and Family
+    ✓   Business                                   ❑   End of Life Planning                       ❑    Military
+    ❑   Criminal - Expungement ONLY                ❑   Financial Issues                           ❑    Native American + Tribal Issues
+    ❑   Discrimination                             ❑   Immigration                                ❑    Public Benefits
+    ❑   Domestic Violence                          ✓   Healthcare                                 ❑    Real Estate
+                                                                                                  ❑    Traffic - civil actions / citations
+
+
+
+
+1
+ Provider means legal practitioner: a provider who or which is practicing law, including offering legal advice.
+2
+ Involvement denotes a range of activities, including guidance on initial development of forms, scripts, processes, software. It could
+mean a lawyer does sample reviews of product/service performance. It could mean a lawyer is available to advise the nonlawyer
+provider as needed - including via red flag trap doors in software.
+                                           2. RISK ASSESSMENT
+The Innovation Office must assess whether new legal service models cause consumers to get inappropriate or
+otherwise flawed legal results, fail to exercise legal rights through ignorance or bad advice, or purchase an
+unnecessary or inappropriate legal service.
+
+2.1. Fully and candidly discuss the risks your customers might face if they use your proposed model,
+     including each of the risks described above.
+
+  1. Inaccurate or inappropriate legal result.
+     The risk of a human error which can lead to inaccurate or inappropriate legal results is inherent in any legal
+     service. LawGeex is able to mitigate this risk by using both advanced AI technology with a team of expert
+     commercial lawyers. This combination will always be more accurate than AI or HI (human intelligence) alone. We
+     believe that our service significantly reduces the risk compared to other contract review alternatives available to
+     the clients.
+
+  2. Failure to exercise legal rights through ignorance or bad advice.
+     The risk of failure to exercise legal rights is less relevant to the commercial contract review sector in comparison
+     to other legal sectors. As explained,we believe the combination of our AI + HI to be more accurate than AI or HI
+     alone.
+
+  3. Purchase of an unnecessary or inappropriate legal service.
+     Such risk does not exist:
+        ● In most cases the agreements would be reviewed as standard best practice by the client’s team or
+             alternate solutions.
+        ● Even if the client decides not to review such agreements at all (which is unlikely), such a decision
+             involves risk that LawGeex wishes to eliminate/minimize at minimum cost. In any case, the service of
+             reviewing contracts cannot be categorized as unnecessary or inappropriate.
+                                 3.     BENEFITS TO UTAH CONSUMERS
+The Innovation Office is assessing potential benefits of proposed offerings to the Utah legal market.
+
+3.1. Describe how your model will provide higher quality, more cost effective, and more accessible legal
+     services for your target consumers.
+
+As many corporations and small businesses together with public sector units, are feeling the added pressure of reducing
+costs and budgets, LawGeex is a perfect solution to enable these prospects to meet the budgetary needs and not
+compromise on their legal risks.
+
+Both small units/businesses who do not have legal resources in-house (including smaller “mom and pop” businesses) as
+well as large corporations with large legal teams can benefit from delegating their contracting work to LawGeex. Clients
+can recognize immediate relief, cost savings and higher deal velocity, without compromising accuracy.
+●        Reduce legal costs by up to 90%. Experience gains in efficiency that can be measured in the bottom line.
+●        Save 80% of time. Drive client impact beyond the legal function to the enterprise.
+●        Immediate Time-to-Value. With no learning curve or software to install, realize immediate value.
+●        Quality that scales. Unparalleled accuracy, speed, scalability.
+
+Our patented technology provides a solution that seamlessly integrates with the software stack businesses are already
+using (e.g. Outlook, Gmail, Salesforce, Etc) and requires no change-management effort. Based on our current and
+proposed offering, we help clients ensure they have a consistent and accurate standard legal position applied to each and
+every contract, more efficiently and more cost effective than any other option.
+
+The proposed services will enable our clients to benefit directly from our patented and award-winning contract review
+automation software. LawGeex reduces risk, drives consistency and reduces legal costs.
+
+LawGeex’s presence in Utah’s legal services market empowers us to disrupt such a marketplace in a way that will benefit
+Utah’s residents long-term, enabling and encouraging more accessible legal services, greater competition, lower prices
+and a technology-forward approach to legal services by other players and vendors.
+3.2. Does your proposal comply with applicable Utah legal requirements?
+For example: staffed by UT licensed attorneys, built to complete state legal forms.
+
+Yes. Our proposal fully complies with all applicable Utah legal requirements.
+
+
+
+
+3.3. Identify which of your service models are ready to immediately implement.
+The Office of Innovation is only authorized to consider proposals which are ready to begin offering legal services not
+currently authorized in Utah at the time of authorization.
+
+All of our service proposals are currently ready to be implemented.
+                                   4.     CONFIRMATION OF ELIGIBILITY
+ 4.1. List all persons or entities who wholly or partially direct the management or policies of your proposed entity
+      and/or the direct provision of legal services to consumers, whether through ownership of securities, by
+      contract, or otherwise (“controlling persons”).
+
+LawGeex’s Legal Operations department, who will be responsible for provision of legal services to consumers, is
+managed by Advocate Amir Chernichovsky, VP of Legal Operations. Amir Chernichovsky reports to the company’s Chief
+Operating Officer, Yuval Ben-Galim.
+
+The Legal Operations department is based in both Israel and the USA. The Israeli operations are managed by Shani
+Kreimer, ESQ who is based in Tel-Aviv (licensed in Israel and NY) and the USA operations are managed by Amber E. Bass,
+ESQ. who is based in Lehi, Utah (licensed in Oklahoma).
+
+The management of the team also includes the head of the QC department, the head of legal playbooks and onboarding
+and the head of legal data and operations.
+The individuals listed in this section (all besides the COO, Yuval Ben Galim, and Nicole Arbiv who is a CPA), are attorneys
+with contract law experience licensed outside of Utah.
+
+
+
+
+ 4.2. List all persons or entities who will wholly or partially (greater than 10%) finance the business of your
+      proposed entity (“financing persons”).
+
+Legalogic Inc., incorporated in Delaware (DBA “LawGeex”), is a wholly owned subsidiary of Legalogic Ltd., an Israeli limited
+liability company, which is funded by individuals and Venture Capitalists. No one individual holds more than 10% of the
+parent company, either directly or indirectly.
+The Venture Capitalists who hold more than 10% of the parent company are Corner Ventures (https://cornerventures.com/)
+and Aleph VC (https://aleph.vc/).
+
+
+
+
+ 4.3. Please note that no financing person may be a disbarred or suspended lawyer. List all controlling
+      persons who are disbarred or suspended lawyers.
+
+Not applicable.
+
+
+
+
+ 4.4. List all controlling persons or financing persons of your proposed entity who have a felony criminal
+      history.
+Not applicable.
+ 4.5. List all persons who will be in a managerial role over the direct provision of legal services to
+      consumers who are disbarred lawyers.
+
+Not applicable.
+
+
+
+
+ 4.6. List all persons who will be in a managerial role over the direct provision of legal services to
+      consumers who have a felony criminal history.
+
+
+
+Not applicable.
+
+
+
+
+ 4.7. Please select the most accurate description: My proposed entity has a material corporate relationship
+      and/or business partnership with:
+            ❑ A disbarred or suspended lawyer
+            ❑ An individual with a felony criminal history
+            ✓ Neither a disbarred / suspended lawyer nor an individual with a felony criminal history
+
+ 4.8. Disclose any history of state or federal criminal (misdemeanor or felony) conviction, state or federal
+      consent decree, or state or federal enforcement action resulting in sanctions (disgorgement, civil penalties,
+      and/or injunction) for the entity and, if applicable, its parent and other affiliated companies.
+
+Not applicable.
+4.8. Disclose whether the entity, parent, and other affiliated companies are, to their knowledge, currently subject to
+      a state or federal criminal investigation or state or federal enforcement action.
+
+Not applicable.
+
+
+
+
+I confirm that no financing persons listed in this application are disbarred or suspended lawyers.
+
+
+
+Signature:
+
+
+
+Printed Name: Noory Bechor
+
+
+
+Title: CEO                        Date: March 18, 2021
+                                 SELLING OF CONSUMER DATA DISCLOSURE
+Please indicate whether your business model includes the sharing or selling of consumer data in any form to
+third parties.
+        Yes
+    ✓ No
+
+
+
+
+                                PUBLIC APPLICATION
+Your application will be made publicly available. You will have the opportunity to make a claim of business
+confidentiality for specific information that would qualify for protection under GRAMA Section 63G-2-305.
+Making false or materially misleading statements in this application is a basis for loss of authorization to practice
+within the Sandbox. Other criminal and civil sanctions may also apply.
+
+
+
+   ✓ I understand.
+
+
+
+
+Signature:
+
+
+
+Printed Name: Noory Bechor
+
+
+
+Title: CEO                              Date: March 18, 2021
+

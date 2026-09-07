@@ -1,0 +1,973 @@
+                  OFFICE OF LEGAL SERVICES INNOVATION
+                  An Office of the Utah Supreme Court
+
+
+
+
+ Legal Sandbox Authorization Materials
+
+           1Law, P.C. / 1Law Legal Services
+
+                            August 22, 2022
+
+
+Contents
+
+1. Utah Supreme Court Amended Order for Authorization to Practice Law
+
+2. Innovation Office Recommendation to the Court
+              In the Supreme Court of the State of Utah
+
+                                ----oo0oo----
+
+               In re: 1Law, P.C. / 1Law Legal Services
+
+                                      ---
+
+
+   AMENDED ORDER FOR AUTHORIZATION TO PRACTICE LAW
+
+Based upon the Utah Supreme Court’s plenary and constitutionally granted
+authority to regulate the practice of law in Utah, and the tenets of Standing
+Order 15, the Utah Supreme Court orders that 1Law P.C. / 1Law Legal Services
+(“1Law”) is authorized to practice law within the regulatory sandbox and subject
+to the restrictions outlined below.
+
+The Court has reviewed the recommendation of the Office of Legal
+Services Innovation (“Innovation Office”) dated August 25, 2020 and
+revised September 7, 2021.
+
+1Law was one of the first entities authorized through the Office of Legal
+Services Innovation. The company sought amendment of its original
+authorization to remove nonlawyer provider and add lawyer sharing
+profits with a non-lawyer.
+
+The Innovation Office has assessed the risk of harm to 1Law’s targeted
+consumers relative to the risk of harm they currently face and has
+determined that the risk of harm presented by 1Law’s services is
+Moderate.
+
+In light of the Court’s responsibility to the public to effectively regulate
+the practice of law in Utah and in keeping with the tenets of Standing
+Order 15, the Court now orders as follows:
+
+   1. 1Law is authorized to offer legal services through the following
+      models:
+         a. Lawyers employed or managed by a nonlawyer
+         b. Nonlawyer ownership
+         c. Lawyers sharing profits with nonlawyers
+                        d. Software provider1 with lawyer involvement2
+
+            2. 1Law’s consumer service area authorization covers:
+                   i.     Accident / Injury      ix.       End of Life Planning
+                  ii.     Adult Care              x.       Financial Issues
+                 iii.     Business               xi.       Healthcare
+                 iv.      Criminal Expungement xii.        Housing (Rental)
+                  v.      Discrimination       xiii.       Immigration
+                 vi.      Domestic Violence    xiv.        Marriage and Family
+                vii.      Education             xv.        Public Benefits
+               viii.      Employment           xvi.        Real Estate
+
+
+            3. 1Law remains required to comply with the Moderate innovation
+               reporting requirements imposed by the Innovation Office.
+
+            4. 1Law will prominently display the                       following      disclosure
+               requirements:
+                  a. Innovation Office Badge
+                  b. Nonlawyer ownership disclosure
+                  c. Nonlawyer provider disclosure
+
+        If 1Law wishes to alter these conditions or requirements, it must submit
+        any such change to the Innovation Office for further assessment. The
+        Innovation Office will assess the proposed change and may permit the
+        change if it deems the change does not materially increase the risks to
+        consumers. If the Innovation Office finds a material increase in risk then it
+        will present the issue to the Court for further consideration.
+
+        This authorization is granted for the duration of the existence of the
+        Sandbox, or until exit and permanent licensure at the discretion of the
+        Court. Authorization is subject to 1Law’s compliance with the conditions
+        and requirements set forth in the Innovation Office Manual and the
+        Innovation Office Recommendation to the Court and to a verification by
+
+
+1
+ Provider means legal practitioner: a provider who or which is practicing law, including offering legal
+advice. (See Innovation Office Manual).
+2
+ “Lawyer involvement” means a Utah-licensed lawyer both (1) provides guidance and oversight of the
+provider at the front end, i.e. through developing training materials and overseeing training of providers
+and developing scripts and/or algorithms, and (2) performs regular spot checks of providers services for
+quality and accuracy. (See Innovation Office Manual).
+
+
+                                                    1
+the Innovation Office that the company’s services are not causing material
+harm to consumers.
+
+
+DATED this 16th day of August, 2022.
+
+
+
+                                        _______________________________
+                                               Matthew B. Durrant
+                                               Chief Justice
+
+
+
+
+                                    2
+                    OFFICE OF LEGAL SERVICES INNOVATION
+                         An Office of the Utah Supreme Court
+
+
+        RECOMMENDATION TO THE COURT ON
+         REVISED SCOPE OF AUTHORIZATION
+                            APP 0002 - 1LAW
+
+                                SEPTEMBER 7, 2021
+
+
+CONTENTS
+Executive Summary                                              1
+
+Sandbox Recommendation                                         2
+
+Proposed Services                                              2
+
+Risk Assessment                                                3
+                                                                     Sandbox Recommendation – 1Law
+
+                                 EXECUTIVE SUMMARY
+
+           Recommendation: Revise scope of authorization to remove moderate risk
+                           service models and limit authorization to nonlawyer
+                           ownership (more than 50%)
+
+
+                   Applicant: 1Law, P.C. / 1Law Legal Services
+
+
+ Initial Scope of Authorization: Lawyers employed or managed by a nonlawyer
+
+                               50% or more nonlawyer ownership
+
+                               Nonlawyer provider with lawyer involvement
+
+                               Software provider with lawyer involvement
+
+
+   Proposed Revised Scope of Lawyers employed or managed by a nonlawyer
+               Authorization:
+                              50% or more nonlawyer ownership
+
+
+          Sandbox Qualifiers: Partial nonlawyer ownership - over 50%
+
+
+               Utah Qualifier: Adapted for Utah requirements
+
+
+    Implementation Qualifier: Basic services ready for market now
+
+
+Regulatory Objective Qualifier: Some services will be offered free or at low cost,
+                                compared to full-service lawyers
+
+                               Many services available remotely or virtually
+
+
+    Qualitative Requirements: Standardized disclosure statements on website and in
+                              mobile applications:
+                                 ● Badge
+                                 ● Nonlawyer Ownership Disclosure Statement
+
+
+ Data Reporting Requirements Low risk data reporting requirements
+  under revised authorization:
+
+
+
+
+                                               1
+                                                                             Sandbox Recommendation – 1Law
+
+                                SANDBOX RECOMMENDATION
+   We recommend the Court authorize 1Law, P.C. / 1Law Legal Services (“1Law”) to practice law in the
+   state of Utah, subject to such requirements as the Innovation Office may impose.
+
+   We recommend the following scope of authorization:
+
+1. The Innovation Office recommends that the authority be granted for an initial period of 24 months
+   with the possibility of extension or permanent authorization. Any such extension or permanent
+   authorization would be subject to the applicant complying with the conditions and requirements set
+   forth below and also to a verification by the Innovation Office that 1Law has a record of compliance
+   with all requirements and the company’s services are not causing harm to consumers.
+
+2. The Innovation Office recommends authorizing 1Law to practice law only across the following
+   categories of legal service:
+
+       a. Service Models:
+             i.  Lawyers employed or managed by a nonlawyer
+            ii.  50% or more nonlawyer ownership
+           iii.  Nonlawyer provider with lawyer involvement
+           iv.   Software provider with lawyer involvement
+
+       b. Areas of Service:
+              i.   Accident / Injury            ix.        End of Life Planning
+             ii.   Adult Care                    x.        Financial Issues
+            iii.   Business                     xi.        Healthcare
+            iv.    Criminal Expungement         xii.       Housing (Rental)
+             v.    Discrimination              xiii.       Immigration
+            vi.    Domestic Violence           xiv.        Marriage and Family
+           vii.    Education                    xv.        Public Benefits
+           viii.   Employment                  xvi.        Real Estate
+
+3. Relevant requirements:
+      a. Relevant disclosure requirements as outlined in Innovation Office Manual.
+      b. Moderate risk data reporting requirements as outlined in Innovation Office Manual.
+      a. Compliance with all relevant statutory and regulatory requirements.
+
+                                       PROPOSED SERVICES
+1Law, founded by a Utah lawyer in good standing, is a legal technology company with more than 50%
+nonlawyer ownership and management. 1LAW seeks permission to provide no-cost and low-cost legal
+services to assist clients in completing court documents and offering related legal advice using chatbots,
+instant messaging, automated interviews, nonlawyer staff, and technology assisted lawyers. 1LAW’s
+services will include services for employment and housing and eviction cases, which are areas of
+
+
+                                                       2
+                                                                          Sandbox Recommendation – 1Law
+
+increasing and immediate need. Many of 1LAW’s services will be available remotely and virtually. 1LAW’s
+services include legal advice offered by persons who are not licensed Utah lawyers.
+
+1LAW proposes to launch its services via its existing law firm (1LAW, P.C.) and then will transition a
+portion of its services to 1LAW Legal Services, a Benefit (B) corporation. The entity will have more than
+50% ownership by persons who are not lawyers; partial ownership will be held by a lawyer holding an
+active license to practice law in Utah. All lawyers practicing law for or on behalf of 1LAW will maintain
+active licenses and will remain subject to the Rules of Professional Responsibility.
+
+
+                                         RISK ASSESSMENT
+             Target Market: Consumers not currently accessing legal services / DIY
+
+       General Assessment: Moderate risk
+
+              Specific Risks:   1. Nonlawyer investment ownership - more than 50%
+                                2. Legal practice through technology and nonlawyer providers
+                                3. User communications
+
+
+
+
+                                                    3
+OFFICE OF LEGAL SERVICES INNOVATION
+
+     A Division of the Utah Supreme Court
+
+
+ APPLICATION SUBMISSION
+      APP 0002 - 1LAW
+          APPLIED MAY 11, 2020
+                                                                 Sandbox Application 0002 - Jason Velez
+
+SUMMARY
+Submitted by Applicant via Email - Edited for Concision
+
+
+Our Solution
+
+We developed and self-funded a technology solution based on the problems facing rural
+
+communities in Southern Utah. Consumers in these communities are at times hundreds of miles
+
+away from services, so we created a virtual law office where lawyers and consumers can meet
+
+via video and messaging. Additionally, we realized that filing legal forms is not as intuitive for the
+
+general public as it is for lawyers. In response, we built a document automation tool that allows
+
+experts to guide users. While this is rewarding, we have struggled to scale and maintain
+
+engineering or developer talent. Most startups provide equity incentives to early stage
+
+employees and financial backers. Because we are a law firm, we are constrained in scaling the
+
+technology and our business to help those who need to learn about the options available to
+
+them, including reduced cost and free legal services.
+
+
+
+We are seeking admission to the Sandbox as a business owned in part by non-lawyers that
+
+delivers legal services through one or more of the following: technology (automated agent),
+
+non-lawyers (practice area specific experts), or lawyers using technology. A video presentation
+
+from NKU Chase College of Law and Southern University Law Center demonstrating a
+
+COVID-19 response developed on the 1LAW platform is attached. We are ready to deploy this
+
+model in Utah as well.
+
+
+
+As further set forth in our application, we offer 3 types of service through our virtual law office
+
+(akin to tele-medicine). Our form automation via chat is agile enough to respond to COVID-19
+
+consumer legal issues across the practice area spectrum including but not limited to
+
+landlord/tenant, small business, estate planning, and debtor/creditor. Types of service:
+
+
+
+                                                          2
+                                                                 Sandbox Application 0002 - Jason Velez
+
+    1. Free/low cost - technology driven DIY offerings to consumers. Consumers will fill out
+
+        forms and receive substantive legal advice through an automated agent.
+
+    2. Low/mid cost - A Do it With You (DIWY) service relying heavily on technology with
+
+        non-lawyer assistance.
+
+    3. Improved cost - A Do it For You (DIFY) Augmented legal services in which lawyers use
+
+        technology to assist in procedural aspects while delivering substantive legal services.
+
+        These lawyers will likely be employees of the company rather than partners or
+
+        associates.
+
+
+Why we need to enter the Sandbox
+
+As a law firm we cannot share fees and as a tech company we cannot provide legal services. We
+
+are excited to work with the Taskforce to provide solutions to the issues that will only continue to
+
+arise. The Sandbox provides an opportunity to overcome the not insignificant hurdle of
+
+proliferating consumer legal services, both financial and technological. As a law firm, we are
+
+limited by the prohibition of non-lawyer ownership and fee sharing to the extent that we can
+
+develop technology but cannot offer equity ownership to the development team. As a practical
+
+matter, there is only so much we can spend out of our own pockets. The current rules prohibit
+
+fee sharing with non-lawyers, delivery of legal services by technology and non-lawyers (except
+
+as LPP’s). "If you can't participate in the upside it is unlikely that you will risk the downside." To
+
+further develop and scale our technology we must partner with non-lawyer owners and test the
+
+delivery of legal services through our virtual legal services platform.
+
+
+
+By participating in the Sandbox we can create free and lower cost services. Additionally, through
+
+technology we anticipate price improvement on traditional for-profit services. Scaling and testing
+
+our model will be difficult if not impossible if we continue to be constrained by the existing
+
+prohibitions of rule 5.4.
+
+
+                                                   3
+                                                               Sandbox Application 0002 - Jason Velez
+
+Supplemental Materials
+
+Please see the attached supporting information, a sampling of articles and podcasts discussing
+
+our efforts in the A2J space, the slides from our presentation to the taskforce in April, and the
+
+video pitch mentioned above.
+
+   ●   https://youtu.be/Ar7E-wn65VY
+
+   ●   https://www.legalbusinessworld.com/single-post/2019/02/15/Legal-Technology-Lets-Use-
+
+       It-for-Justices-Sake
+
+   ●   https://legaltalknetwork.com/podcasts/un-billable-hour/2018/04/addressing-access-to-jus
+
+       tice-with-blockchain/
+
+
+Awards and recognitions
+
+   ●   Emerging Technologies 2020 National Law Journal
+
+           ○   https://images.law.com/media/nationallawjournal/supplements/NLJ ELT 2020/m
+
+               obile/index.html
+
+   ●   Above the Law - AltLegal Marketplace Winner
+
+           ○   https://abovethelaw.com/2016/10/a-case-for-great-casetext-wins-alt-legal-innovati
+
+               on-awards/
+
+   ●   LexLab - Fall 2019 Cohort
+
+           ○   http://lexlab.uchastings.edu/accelerator
+
+
+
+
+                                                  4
+                                                                Sandbox Application 0002 - Jason Velez
+
+                                   I. SERVICE PROVISION
+                    Entity Name
+                                    1LAW
+
+                         Contact
+                                    Jason Velez
+
+              Business Address
+                                                          St George, Utah 84770
+
+             Contact Telephone
+
+                  Contact Email
+
+                    Legal Status
+                                    Law firm partnership or professional corporation
+
+               Professional No.
+                                    Utah State Bar No. 09028
+
+
+
+
+                                II. PROPOSED SERVICES
+Tell us about your proposed legal services offering.
+
+Our free legal consult and document services are acutely relevant in the time of COVID-19 and
+
+beyond. We are currently using our technology to proliferate free forms and resources provided
+
+or recommended by the State Courts and government agencies in response to the crisis.
+
+
+We are a legal services business that provides consumers with virtual legal services, such as
+
+free forms, free consults via IM and video chat, as well as traditional for profit services.
+
+
+We believe that expanding free and low cost services to the broad consumer market will yield
+
+new clients of our paid services. We use automated chat, mobile apps and web forms to engage
+
+consumers.
+
+
+It is our hypothesis that a lack of understanding or education on the part of consumers has led
+
+them to avoid engaging legal service providers. We desire to educate and engage consumers
+
+through our technology with the belief that they will become or refer paying clients.
+
+
+                                                   5
+                                                                  Sandbox Application 0002 - Jason Velez
+
+
+            Standing Order 15: 3.3.2 Within the Innovation Office’s Regulatory Scope
+Individuals and entities that carry out the following activities are within the scope of the
+Innovation Office’s regulatory authority and are subject to this Standing Order’s requirements:
+
+    ➢ (a) Partnerships, corporations, and companies entirely owned and controlled by
+      lawyers; individual lawyers with an active Utah Bar license; and legal services
+      nonprofits partnering with a nonlawyer-owned entity to offer legal services as
+      contemplated by Rule 5.4B;
+
+    ➢ (b) Nonlawyer owned entities, or legal entities in which nonlawyers are partial owners
+      (for profit or nonprofit):
+
+             ○   (i) offering legal practice options whether directly or by partnership, joint
+                 venture, subsidiary, franchise, or other corporate structure or business
+                 arrangement, not authorized under the Rules of Professional Conduct in effect
+                 prior to [Month] [Date], 2020, or under Utah Supreme Court Rule of Professional
+                 Practice 14-802; or
+
+             ○   (ii)practicing law through technology platforms, or lawyer or nonlawyer staff, or
+                 through an acquired law firm.
+
+Please select the most applicable category for your proposed business, service, or product.
+
+3.3.2 (a), 3.3.2 (b) (ii)
+
+
+                                 III. RISK ASSESSMENT
+  Risk No. 1: Consumer achieves an inappropriate or otherwise flawed legal result.
+
+Please identify the specific model, service or product innovations that are not permitted under the
+traditional rules governing professional conduct and/or the practice of law.
+
+Under the current Rules our proposed model is prohibited, and our ability to deliver COVID-19
+
+services such as free forms and consults is significantly impaired. Admission to the Sandbox
+
+presents an opportunity to scale our ability to help in this time of crisis.
+
+Please explain whether and how your target consumers may currently be at risk of achieving
+an inaccurate or inappropriate legal result.
+
+
+
+
+                                                   6
+                                                              Sandbox Application 0002 - Jason Velez
+
+The difference in outcomes between people with legal help and without is staggering. One
+
+example of immigration indicates that detained immigrants were 10.5 times more likely to
+
+succeed when they are represented. The benefit of being represented is analogous across all
+
+areas of practice. It may not always be 10.5 times the benefit or detriment but the lack of
+
+guidance through the process is detrimental for most consumers.
+
+
+Currently many people are not accessing quality or qualified services. The error rate of people
+
+performing self-help without the ability to review with Counsel or Counsel prepared information
+
+leaves many consumers at risk of receiving inaccurate or inappropriate results.
+
+
+Additionally a lack of free resources across the spectrum of legal services, either subject matter
+
+or income determinante, prevents many people from even taking the first step of educating
+
+themselves or seeing what help may be available.
+
+
+Please explain whether and how your target consumers may be at risk of achieving an
+inaccurate or inappropriate legal result using your legal service or model.
+
+We believe that we can sufficiently mitigate the risks however with any new solution there is a
+
+possibility.
+
+
+The do it yourself (DIY) products we anticipate offering run the risk that someone may
+
+mistakenly interpret the information and make an incorrect input.
+
+
+People may think that by contacting a virtual agent they are engaging an actual professional.
+
+
+Please explain how you plan to identify whether the risk of your consumers achieving an
+inaccurate or inappropriate legal result is occurring and how you plan to mitigate this risk.
+
+
+
+
+                                                 7
+                                                                Sandbox Application 0002 - Jason Velez
+
+Our plan is to be actively monitoring and engaging with platform users as we scale the product.
+
+With the appropriate investment at the onset in human support we believe that the long-term
+
+product will be sustainable.
+
+
+We plan to have appropriate disclaimers, acknowledgements by the consumer and quality
+
+control early on to validate the model. This means that even if people are using a DIY product
+
+we will reach out to them both via satisfaction surveys and following up after a period of time to
+
+seek feedback.
+
+
+We offer telephone support, chat support, webform contact support in order to identify risks to
+
+the consumer.
+
+
+Our products additionally offer a “safety valve,” that is the ability to seek human intervention
+
+when a product is offered virtually. As well as a lifeline to a human legal professional.
+
+
+
+ Risk No. 2: Consumer fails to exercise legal rights through ignorance or bad advice.
+Please explain whether and how your target consumers may currently be at risk of failing to
+exercise legal rights through ignorance or bad advice.
+
+Similar to the first question, people are often not engaging the legal system early enough. For
+
+example, a collection matter may end up at judgment and garnishment before someone
+
+becomes engaged. Many times people are left to guess when filling out forms without sufficient
+
+context. We believe that we can provide a layer of context to the legal system.
+
+
+There is a general lack of awareness as to what resources are available. Unless people have
+
+direct contact to an attorney or other legal professional they often do not know where to start.
+
+We are seeking to be a resource of both our own services as well as other public-based services
+
+that may apply to the individual.
+
+
+Please explain whether and how your target consumers may be at risk of failing to exercise
+legal rights through ignorance or bad advice using your service or model.
+
+
+                                                  8
+                                                                  Sandbox Application 0002 - Jason Velez
+
+We anticipate that our product will result in an increased awareness of the consumer that should
+
+help them understand their rights. However in growing our services to a broader base of
+
+consumers it is possible that they receive or interpret information that results in failing to
+
+exercise their legal rights.
+
+
+Please explain how you plan to identify whether the risk of your consumers failing to
+exercise legal rights through ignorance or bad advice is occurring and how you plan to
+mitigate this risk.
+
+Rigorous initial oversight will help both identify and mitigate ignorance and bad advice. This
+
+opportunity is new to us as lawyers as well as the potential consumers. We believe that more
+
+oversight at the beginning will allow us to find the appropriate level of long-term oversight, which
+
+we anticipate being less than what is needed initially.
+
+
+Here understanding your customer is extremely important. Failing to exercise legal rights is
+
+mitigated by the fact that our information is generated and created by licensed Utah attorneys. In
+
+the event that there is the potential for ambiguity or misinterpretation by the individual we will
+
+offer human oversight, such as having the matter passed on to a reviewing attorney.
+
+
+Our hope is that the level of service should not be significantly, if at all, different from the advice
+
+they would receive via a consultation with a lawyer. Our products are meant to streamline the
+
+gathering of information so that a lawyer can provide substance specific to a consumer inquiry.
+
+
+Our plan is to be very lawyer oversight driven as we engage the consumers. This is just good
+
+business to make sure that the brand and service reputation exceeds the expectations of those
+
+who engage the product.
+
+
+Please explain whether and how your target consumers may currently be at risk of
+purchasing an unnecessary or inappropriate legal service (i.e. without your service or model).
+
+In 20 years of practicing law in Utah it is not my experience that consumers are too often
+
+purchasing unnecessary products or services. As lawyers we have a duty to not engage in
+
+
+                                                   9
+                                                                 Sandbox Application 0002 - Jason Velez
+
+frivolous litigation or unnecessary paperwork. With that in mind the uninformed consumer may
+
+purchase a “Hail Mary” or solution even though it does not properly fit their situation.
+
+
+Additionally certain subscription services may not be appropriate for consumers that don’t have
+
+legal needs on a regular basis. There may also be other predatory practices, similar to loan
+
+modifications in the housing crisis that may arise from time to time. These predatory practices
+
+may be the point at which our target consumers are most at risk.
+
+
+
+    Risk No. 3: Consumer purchases an unnecessary or inappropriate legal service.
+
+Please explain whether and how consumers may currently be at risk of purchasing an
+unnecessary or inappropriate legal service using your service or model.
+
+It is our personal belief that the consumers we intend on targeting are among the least likely to
+
+engage services because of the cost perception. Our hope is to educate the consumers so that
+
+even if they were to not engage our platform they would be able to meaningfully engage other
+
+services.
+
+
+Our fundamental model is that by promoting awareness and providing free basic services that
+
+we will build a long-term loyal future client base.
+
+
+For these reasons we believe our platform has a low risk of offering unnecessary or
+
+inappropriate services.
+
+
+Please explain how you plan to identify whether the risk of your consumers purchasing an
+unnecessary or inappropriate legal service is occurring and how you plan to mitigate this
+risk.
+
+Our model is not predicated on the sale of legal services but rather providing free basic services
+
+in the hope that clients will engage us for traditional for-profit services. Just as our current law
+
+practice does not sell unnecessary or inappropriate services our new business model will not
+
+either.
+
+
+
+                                                  10
+                                                               Sandbox Application 0002 - Jason Velez
+
+A consumer friendly refund policy that we have as a law firm will further mitigate the risk of
+
+purchasing unnecessary and inappropriate services.
+
+
+Please identify any other potential material risks your proposed legal service offering or
+model may hold for targeted consumers and explain specifically how you propose to identify
+and control for those risks.
+
+The biggest risk I can see through the proposed platform is a client reaching out and not being
+
+taken care of. Knowing this in advance we are very concerned and aware of the need for proper
+
+oversight while we scale the platform. It is anticipated that more attorney hands on the initial
+
+client interactions will allow us to develop the system that requires less procedural input from the
+
+attorneys in the long run.
+
+
+We will continue to maintain a client trust account. We are also familiar with flat fee and payment
+
+plans that we use in our current law practice. We will continue these best practices.
+
+
+Regarding cyber security our platform was penetration tested in July 2019 and we engage in
+
+ongoing vulnerability testing. We practice heightened cyber security due to the duty owed to our
+
+clients and potential clients.
+
+
+Again, we are practicing lawyers seeking to create a legal services business and we have no
+
+intention or desire to abandon our professional responsibilities and put our licenses at risk.
+
+
+We currently use a CRM to conduct conflict checks and will continue to do so as we scale. It is
+
+anticipated that the view of conflict will be based more on the underlying matter rather than the
+
+parties previous affiliation with the platform. For example, representing someone on a matter
+
+would not forever preclude the platform from representing an adverse party in the future any
+
+more than it currently does under the rules.
+
+
+Finally though mentioned over and over again early oversight of the platform will be the biggest
+
+mitigating factor in addressing risks to the consumer.
+
+
+                                                 11
+                                                                Sandbox Application 0002 - Jason Velez
+
+We are not so large that the anticipated growth would go unnoticed and uncared for. We seek to
+
+govern the legal services aspect of the business in the same manner we govern ourselves as
+
+lawyers.
+
+
+Please indicate which categories of data you will be able to provide at regular intervals to the
+Innovation Office.
+
+   ●   Non-financial outcome data (legal result achieved)
+
+   ●   Output data (number of consumers served, case filings in areas where service leads to
+
+       litigation)
+
+   ●   Returns for error fixes
+
+   ●   Consumer satisfaction survey data
+
+   ●   Consumer complaint data
+
+   ●   Demographic info may be difficult if not collected as part of another filing. Where/when
+
+       available we are willing to share.
+
+
+Please describe your consumer complaint process.
+
+
+Whether complaint is received through customer service by staff, online complaint form, or
+
+email, we follow up generally in the manner receivers with written response where possible.
+
+
+
+                           IV. BENEFITS TO UTAH CONSUMERS
+Will your service contribute to having more legal services for Utah consumers?
+
+
+Yes, it is our hypothesis that most consumers are unaware of the legal services that are
+
+available to them. By providing free basic services, including free legal consultation via chat or
+
+video conference we will broaden the access that consumers have to legal help and services.
+
+
+Our plan is to digitize the expertise held by the lawyers within our firm as well as lawyers who
+
+are willing to contribute to the platform and provide this expertise in many cases for free. If there
+
+
+
+                                                 12
+                                                                Sandbox Application 0002 - Jason Velez
+
+is a need or certain aspects of the expertise that the professional feels can be monetized we will
+
+offer affordable entry points to that knowledge.
+
+
+Additionally our plan is to market the availability of the services and just the awareness raised
+
+alone by the marketing effort will be a benefit to consumers.
+
+
+Will your service contribute to having better legal services for Utah consumers?
+
+
+Yes, we believe that a platform that is curated by experienced Utah lawyers and legal
+
+professionals will provide very direct and practice area specific information to the consumer. Also
+
+by increasing access to the lawyers themselves via chat and video, consumers will have the
+
+benefit of reviewing their situation with a professional.
+
+
+Better informed consumers will ultimately lead to better legal services for themselves as well as
+
+the rest of the legal system users.
+
+
+Will your service contribute to having less expensive legal service options available to Utah
+consumers?
+
+Absolutely, the ultimate goal of the platform is to provide legal services along the entirety of the
+
+economic spectrum.
+
+
+Our mission is to provide free legal help to the people that need it and the paid legal help to
+
+those who can afford it, with quality service on both ends of the spectrum. While we recognize
+
+that this is ambitious we believe that through technology and an aggregation of resources it is
+
+possible.
+
+
+                         V.      COVID-19 PANDEMIC RELIEF
+Please describe how your proposed service or product satisfies the criteria:
+
+
+
+
+                                                   13
+                                                               Sandbox Application 0002 - Jason Velez
+
+
+
+
+Our core technology which includes secure instant messaging and video conferencing, chat bot
+
+form and self-help automation is fully developed and in use by lawyers, law schools and legal
+
+clinics in Utah and across the country.
+
+
+The technology was built by a Utah law firm and Utah licensed lawyers with adherence to the
+
+rules of professional conduct and Utah state law.
+
+
+Our platform Is already providing the following free documents: a living will, an
+
+employer/employee notice, and a landlord tenant letter in response to the COVID-19 crisis. Also
+
+free instant messaging and video chat with lawyers is available for people with issues related to
+
+the crisis.
+
+
+We anticipate providing more free forms and services for the needs identified as a result of
+
+COVID-19. We also understand that e-signature and e-notarization will continue to be pressing
+
+issues as social distancing continues. We are prepared to work with regulators on solutions to
+
+these issues. We are seeking a waiver of rule 5.4 and likely 7.2 to allow us to convert our law
+
+firm into a legal services business and bring on non-lawyer equity or profit ownership to both
+
+scale the delivery of legal services and to market and educate consumers to our services.
+
+
+                                VI.       FINAL THOUGHTS
+Is there anything else you want us to know about your proposed legal service?
+
+
+We believe that we are uniquely situated as Utah lawyers, technology developers and members
+
+of the global legal tech community to participate and contribute to the success of the Sandbox
+
+and the goals of increasing Access to Justice.
+
+
+
+
+                                                 14
+     Sandbox Application 0002 - Jason Velez
+
+
+
+
+15
+

@@ -1,0 +1,35 @@
+User-Agent: *
+Allow: /
+Disallow: /_next/data/
+Disallow: /_next/image/
+Disallow: /api/*
+Disallow: /claims
+Disallow: /claims/*
+Disallow: /settings
+Disallow: /settings/*
+Disallow: /team
+Disallow: /team/*
+Disallow: /calendar
+Disallow: /calendar/*
+Disallow: /billing
+Disallow: /billing/*
+Disallow: /accounting
+Disallow: /accounting/*
+Disallow: /onboarding
+Disallow: /onboarding/*
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /auth/*
+Disallow: /forgot-password
+Disallow: /verify-email
+Disallow: /invite/*
+Disallow: /signed-out
+Disallow: /external-signature/*
+Disallow: /results
+Disallow: /maintenance
+
+User-Agent: Googlebot
+Allow: /_next/static/css/
+Allow: /_next/static/js/
+
+Sitemap: https://www.garfield.law/sitemap.xml

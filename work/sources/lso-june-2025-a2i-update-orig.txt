@@ -1,0 +1,1012 @@
+                                                                      TAB 8
+                                                      Report to Convocation
+                                                               June 25, 2025
+
+
+Access to Innovation Program Report
+
+
+
+
+Purpose of Report: Information
+
+                         Prepared by the Policy, Equity and External Relations Division
+                                                        Roy Bornmann rbornman@lso.ca
+                                                              Art Wilson awilson@lso.ca
+                                                   TABLE OF CONTENTS
+
+
+
+
+Access to Innovation Program Report ............................................................................................. TAB 8.1
+
+
+
+
+                                                                    2
+                                                       Authored by
+
+                             Art Wilson, Manager, Access to Innovation
+                                                      awilson@lso.ca
+
+
+
+
+                                                         June 9, 2025
+
+
+
+
+ Access to Innovation
+Update Report on Access to Innovation program
+                          Table of contents
+
+
+         4     Purpose
+
+
+         4     Context
+
+
+
+         6     Overview of the Access to Innovation program
+                1. A2I Team
+                2. Application process
+                3. Communications
+
+
+
+         9     Operations update
+                1. Outreach
+                2. Consumer advertising
+
+
+
+         10    Current status
+                1. Participants approved since the 2024 report
+                 2. Expanded offerings from existing participants
+                 3. Participants ceasing operations since last report
+                 4. Participant reporting
+                 5. Volume of services to date
+                  . French language services
+
+         14    Observations from the first 3 years
+                1. Goals of the program
+                2. Growth in the market
+                3. Increase in offerings from licensees
+                4. Quality of service
+                5. Two access to justice factors: geographic distribution and cost
+                  . Service trends
+                 7. Barriers to collaboration
+
+
+June 9, 2025
+                                                                                     2
+                          Table of contents
+
+
+        21     Looking forward
+
+
+
+       22      Appendix A - Data analyst's report
+
+
+
+       26      Appendix B - Authorizing participants to operate on an ongoing basis
+
+
+
+
+June 9, 2025
+                                                                                      3
+   Purpose
+   The purpose of this report is to provide an update on the Access to Innovation program
+   (“A2I”), the Law Society’s regulatory sandbox for innovative technological legal services.
+
+
+
+   Context
+   In August 2018, the Law Society of Ontario established the Technology Task Force in
+   response to the rapid evolution in technologies, such as artificial intelligence, that are
+   transforming the ways in which legal services are delivered. The Task Force was charged
+   with exploring three areas: (1) the role of technologies in the delivery of legal services; (2)
+   the Law Society’s role as a regulator in a changing, tech-enabled environment; and (3)
+   how the Law Society can encourage innovation in the professions through the use of
+   technology to better deliver legal services.
+
+
+   The Task Force submitted an Update Report to Convocation in November 2019 that
+   explored the technological landscape for legal services, implications for access to justice
+   and the regulation of legal services, and potential regulatory directions. The Task Force’s
+   work also included: an examination of legal technologies in Canada and abroad;
+   consideration of how other legal regulators are addressing technology; an exploration of
+   trends and issues in the development and regulation of legal tech; and consideration of
+   the impact of legal tech on the public, the professions and the legal services industry.
+
+
+   Following this extensive study, the Task Force prepared a report recommending the
+   creation of a regulatory sandbox for innovative legal technologies (now called the Access
+   to Innovation program or A2I). The report discussed the impetus for the sandbox and its
+   key features, benefits, risks, costs, and resource requirements. It also recommended the
+   adoption of By-Law 16 and annual update reports to Convocation.
+
+
+   In April 2021, Convocation approved the Task Force’s recommendation. Following work
+   to establish the infrastructure for the program, the A2I program was formally launched in
+   November 2021. Details of that foundational work can be found in the June 28, 2022
+   Update Report to Convocation.
+
+
+
+Access to Innovation | Update Report
+                                                                                                     4
+   Context continued
+   In May 2024, the A2I program provided a further update to Convocation. That report
+   provided an update on the A2I infrastructure that had been developed to date including
+   the A2I team, the councils that help provide guidance to the program; operational
+   framework updates and evaluation criteria that are used. This report is supplementary to
+   that update.
+
+
+   Note: In February 2023, Art Wilson was hired as the new Manager of the A2I program. Art
+   was implementing a new management approach to the program, and it was decided not
+   to submit a formal report until the results of the of Art’s changes had been seen. As an
+   alternative, an informal update was provided through the Treasurer’s remarks to
+   Convocation at the June 2023 meeting.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                              5
+   Overview of the A2I program
+   A2I is a five-year regulatory sandbox pilot program that allows legal innovators to operate
+   technologies that provide legal services directly to the public while complying with risk-
+   based public protection requirements established by the Law Society. The “regulatory
+   sandbox” model is a policy tool that regulators employ to engage with innovative service
+   providers that do not fit well within the existing regulatory framework. First popularized in
+   the financial services sector, regulatory sandboxes are “safe zones” in which potentially
+   beneficial products, services, business models and delivery mechanisms can be test-run,
+   subject to tailored operating conditions and regulatory supervision. The law societies of
+   BC, Alberta, Manitoba and Quebec have also implemented or are implementing regulatory
+   sandboxes. There are also some American jurisdictions with sandboxes, including Utah,
+   which is often considered a pioneer of this approach.
+
+
+   A2I is open to a broad range of legal innovators involving any legal function and at all
+   stages of development or operation. Applications are accepted from any type of service
+   provider – lawyer or paralegal, non-licensee, law firm, business or not-for-profit
+   organization. Applicants’ tools or programs must feature the innovative delivery of legal
+   services via technology or via a hybrid of technology and licensee services.
+
+
+   Legal innovators may apply to join A2I at any point during the year, rather than at certain
+   fixed intake periods. Applicants must demonstrate that they provide a sufficient quality of
+   service while mitigating risks of harm to consumers.
+
+
+   Approval to participate in A2I means that a provider can operate in Ontario for an agreed
+   period of time, subject to operating and reporting requirements that protect the public. As
+   set out above, A2I participants operate pursuant to By-Law 16.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                   6
+   Overview continued
+   01.     A2I team
+
+           A2I is administered by a small staff team, composed of:
+                Art Wilson, Manager, Access to Innovation,
+                Emma Lian, Program Administrator, and
+                James Teufel, data analyst, who provides advice and analysis on a fee-for-
+                service basis.
+
+
+           The A2I team is supported by the LSO’s Policy and Communications departments
+           and an external advisory council made up of experts from the profession and
+           legal academia.
+
+
+
+   02.     Application process
+
+           Applying to A2I is a 2-stage process. Stage 1 is an evaluation of the applicant’s
+           product/service concept, reviewed by the A2I staff with written input from the
+           advisory council. The purpose of stage 1 is to determine if the applicant’s
+           concept fits within the scope of the A2I mandate and to provide early feedback.
+           Stage 2 is an evaluation of the actual product, with extra emphasis on user data
+           privacy and cyber security. Stage 2 is reviewed by A2I staff who then meet with
+           the advisory council for their feedback and approval recommendation.
+
+
+           Approved participants are required to enter into a participation agreement with
+           the LSO. This agreement ensures that the participant will provide the public
+           protections that have been determined as critical to participation in the program.
+           The protections are listed in section 6 of this report. The participant must also
+           work with A2I staff and LSO Communications for the timing and media release
+           content of launch.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                7
+   Overview continued
+   03.     Communications
+
+           Communications and outreach are key to the growth and operation of A2I. Art
+           Wilson leads the outreach to raise awareness of A2I within the legal professions and
+           among potential applicants. The LSO Communications team continues to play a key
+           role in A2I outreach. They work with A2I staff and the approved applicants in
+           advance of the announcement of the approvals. This includes development of social
+           media posts, updates to the A2I website, media releases and other communications
+           products as may be warranted.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                  8
+   Operations update
+   01.     Outreach
+
+           In 2024, Art Wilson continued to present at conferences and institutions including:
+               2024 CBA Atlantic Roundtable
+               2024 IAALS (Institute for the Advancement of the American Legal System)
+               convening: Unlocking Legal Regulation: Regulating AI in the Delivery of
+               Consumer-Facing Legal Services.
+
+
+           During this time, he also attended other legal (tech) conferences including:
+               2024 Legal Innovation Forum
+               2024 Legal Tech Summit
+               2024 Solo and Small Firm conference
+               2025 Access to Justice and AI: New Frontiers for Research, Policy, and
+               Practice, Beus Center for Law and Society, Arizona State University
+
+
+           As a result of all these efforts, the number of applications and expressions of
+           interest in the A2I program continues to increase.
+
+
+
+   02.     Consumer advertising
+
+           In February 2025, the LSO began advertising the program to consumers through
+           the purchase of Google ads. Since launching this advertising initiative, the
+           average number of monthly hits to the participants page on the A2I website has
+           increased from 213 to 1,896 and the click-throughs to participants’ sites has
+           increased from 46 to 159.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                 9
+   Current status
+    In the past 12 months, 7 new participants have been approved for the A2I program, 6 of
+    which have been publicly announced. This brings the total number of approved
+    participants to 17, 14 of which have been publicly announced. Currently there are an
+    additional 16 applications under review or in the early stages of the application process.
+
+
+    In 2025, the number of new applications is again trending upwards and now almost
+    exclusively consists of applicants approaching the LSO rather than the LSO approaching
+    or inviting potential applicants to apply to the A2I program, as was the case in 2023 and
+    2024. This is likely indicative of both greater awareness of the A2I program as well as a
+    greater proliferation of innovative technological legal services.
+
+
+
+    01.      Participants approved since the 2024 report
+
+   The new participants that have been approved since the 2024 report are:
+
+        01    ilovelaw                                  02    Plaid
+
+
+        ilovelaw offers bilingual, legal products       Plaid Fertility Law is a web application that
+        and resources to make legal services more       enables users to quickly generate, share
+        accessible and affordable for all Ontarians.    and collaborate on agreements for third-
+        The platform provides a range of                party reproduction, including surrogacy,
+        customizable legal documents in estate          ova, sperm and embryo donation. Users
+        planning, family law and employment law,        can proceed at their own pace, with
+        accompanied by various tools to help the        guidance from experienced legal counsel.
+        user complete the legal document,               All agreements are electronically signed
+        including user guides, checklists and           and fertility clinics are automatically
+        glossaries. Some services are available in      notified, ensuring a seamless transition to
+        English and French.                             the next steps in their family-building
+                                                        journey — without delay.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                        10
+  01. Participants approved since the 2024 report continued
+
+     03    Philer                                      04    Deeded
+
+
+     Philer streamlines real estate closings by        Deeded is a platform that simplifies
+     automating processes from onboarding to           closing real estate transactions. With a
+     legal completion. Offering transparent,           focus on convenience, transparency and
+     fixed legal fees with no hidden costs,            security, Deeded users can upload and
+     Philer assists homebuyers in confidently          track their required documents, work with
+     navigating transactions. Leveraging               a Deeded lawyer for all necessary legal
+     licensed real estate lawyers and AI, Philer       services, track their transaction’s progress
+     helps ensure an efficient and stress-free         and digitally sign their documents.
+     experience for buyers, sellers, and real
+     estate professionals.
+
+
+
+
+     05    SkyLaunch                                   06    Jointly
+
+
+     SkyLaunch is a simple self-guided online          Jointly is an online platform that seeks to
+                                                       educate Ontario residents about family law
+     tool for Ontario incorporations. Offering an
+     expert-curated fixed-fee incorporation            and empowers them to create relationship
+
+     package and a user-friendly online portal,        agreements (prenups, marriage
+
+     SkyLaunch helps make sure each                    agreements and cohabitation
+
+     corporation is kept up-to-date, so                agreements). It uses technology to guide
+                                                       users through a series of questions about
+     entrepreneurs can focus on what’s most
+     important: to launch and grow their               their circumstances and creates legally
+
+     business. SkyLaunch was created by the            compliant and personalized documents
+
+     legal professionals at SkyLaw, an affiliated      based on the information provided.
+
+     law firm, to service budding solopreneurs
+     and anyone who needs a corporation.
+
+
+
+
+    There is one additional approved participant that will provide services in the family law
+    area. Their participation is anticipated to be publicly announced later in 2025.
+
+
+Access to Innovation | Update Report
+                                                                                                      11
+   Current status continued
+   02.     Expanded offerings from existing participants
+           Some of the existing participants are considering offering new, or expanded,
+           products. A2I will be evaluating these offerings prior to approval to ensure they
+           meet the A2I standards for quality and user protections.
+
+
+
+   03.     Participants ceasing operations since last report
+           Since the 2024 report to Convocation, one participant, Imminspect, has ceased
+           operations. This was a business decision of the owner-operators of the
+           application and was not related to any issues with the A2I program. Imminspect
+           worked with the A2I program to ensure an organized wrap-up of operations so as
+           not to harm any then-users of the application.
+
+
+
+   04.     Participant reporting
+            Participants in the A2I program report to the Law Society on a quarterly basis,
+            providing details on the services processed through their service or program as
+            well as any complaints received.
+
+
+            The A2I data analyst, James Teufel, prepares a cumulative report for each
+            participant that is updated with each quarterly report submission.
+
+
+            The latest aggregate cumulative report is attached to this document as Appendix
+            A. The value of this aggregate report will continue to grow with the size of the
+            reported dataset.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                               12
+   Current status continued
+   05.     Volume of services to date
+           The A2I program has brought more previously unregulated legal services under
+           regulation than any other legal regulatory sandbox in North America with 119,848
+           services that have been provided by participants to date.
+
+
+           It is worthwhile to compare the performance of the A2I program with that of
+           Utah’s regulatory sandbox, often considered a benchmark for sandbox
+           performance. The number of services reported for the first 26 months of LSO A2I
+           was two and half times higher than Utah’s sandbox operations (approximately
+           120,000 compared to 47,000). However, Utah’s sandbox was broader than
+           Ontario’s sandbox, with Utah offering innovative services via alternative business
+           structures, human alternative legal service providers, and software alternative
+           legal service providers. After limiting Utah’s services to software alternative legal
+           service providers and comparing those services to Ontario’s innovative
+           technological legal services, Ontario’s legal sandbox services were more than 30
+           times that of Utah (approximately 120,000 compared to 3,900). Ontario’s
+           population is more than four times that of Utah. After further adjusting for
+           population size differences of Ontario and Utah, the number of innovative
+           technological legal services of Ontario at 26 months was 7 times higher than
+           Utah.
+
+
+   06.     French language services
+            Since the 2024 report another participant that offers French language services
+            has been added to the program, and with this, 3 out of 13, or ~23%, of
+            participants now offer services in French as well as English. Increasing French
+            service offerings remains a focus for the A2I program.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                   13
+    Observations from the first 3 years
+   01.     Goals for the program
+
+           The goals for the A2I program, set out in the 2021 Technology Task Force Report
+           were:
+                1. Facilitating access to justice.
+                2. Protecting the public.
+                3. Spurring innovation.
+                4. Supporting regulatory re-evaluation.
+                5. Educating legal professionals and the public.
+
+           For a detailed explanation of these goals see Technology Task Force Report to
+           Convocation, June 28, 2022 at pp 3 and 4.
+
+
+           The observations below demonstrate how the program is meeting these goals.
+
+           To be approved as an A2I participant, an applicant must confirm that it has
+           certain public protections in place. While not exhaustive, common criteria used to
+           evaluate whether applicants have the requisite public protections in place were
+           set out in Section 6 of the 2024 report and remain:
+           1.     Product quality
+           2.     Cyber security
+           3.     User data privacy
+           4.     Acceptable terms and conditions of application use
+           5.     Complaints management
+           6.     Insurance
+           7.     Business continuity planning
+           8.     Acceptable marketing and advertising
+           9.     User identification
+           10. Acceptable payment processes
+           11. Compliance with referral fee rules.
+
+           Detailed explanations of these criteria are in the 2024 report.
+
+
+Access to Innovation | Update Report
+                                                                                                14
+   01.     Goals for the program continued
+           While some applicants already have requisite standards in place when they apply
+           to the A2I program, often the evaluation process results in changes to applicants’
+           insurance coverage, terms and conditions, internal complaints processes, privacy
+           policies and, in certain instances, applicants’ entire business models in a manner
+           that adds protections consistent with licensees’ professional requirements. The
+           negotiations that lead to these changes are necessarily confidential; however
+           they underpin two key observations to date:
+
+
+             1. A regulatory framework for these providers helps to build public protections
+               into the provider: The A2I program uses the LSO Rules and By-Laws as a
+               template for relevant public protections. It then determines the appropriate
+               proxies to apply these protections to an applicant. Finally, the program staff
+               work with the applicant to ensure that, when needed, it modifies its behaviour
+               in a manner that provides the required protection. All the evidence from the
+               first three years of the A2I program is that ITLS providers are willing to work
+               with the LSO to ensure that they have protections, consistent with the LSO
+               Rules and By-Laws, in place if they are given appropriate guidance on how to
+               achieve that.
+
+
+             2. Assessing applicants requires an individualized approach: Because of the
+               diversity in approaches to providing legal services through technology as
+               well as the stage of development at which applicants apply to the A2I
+               program, each of the applicants has had a unique application process.
+               Applicants have commenced their A2I applications at all stages of
+               development, from a concept to an operational product. Different applicants
+               providing similar legal services have had different cyber security, insurance
+               or other policies that need to be reviewed on a case-by-case basis. These
+               have required bespoke reviews, analysis and feedback to ensure that the
+               goals of the A2I program are met.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                 15
+    Observations from the first 3 years
+    continued
+   02.     Growth in the market
+
+            Over the past three years, the number of entities operational in Ontario identified
+            as likely direct-to-consumer legal service providers has grown from approximately
+            22 identified entities to 51 identified entities, including: current participants in A2I,
+            current applicants to A2I, and entities that could be suitable
+            applicants/participants in A2I who have not, to date, applied. With 17 approved
+            participants and an additional 16 being currently evaluated, the A2I program is
+            capturing and/or considering 65% of the known direct to consumer legal tech
+            market.
+
+
+            It remains unclear what impact generative AI technology will have on the direct-to-
+            consumer legal tech market. So far generative AI technology has not yet resulted
+            in a significant proliferation of direct-to-consumer legal products. It is anticipated
+            that it is only a matter of time before generative AI powered direct to consumer
+            legal technologies are more commonly available.
+
+
+
+   03.      Increase in offerings from licensees
+
+            2024 saw the approval of four new participants led by licensees, whereas
+            previously approved participants involved licensees but were not commonly led
+            by them.
+
+
+            At least one new participant has indicated that, absent the A2I program, they
+            would not have developed their innovative idea and brought it to market,
+            demonstrating how A2I is spurring innovation in the market.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                        16
+    Observations from the first 3 years
+    continued
+   04.     Quality of service
+
+           The quality of services being delivered by participants in the program remains
+           very high. Of the 119,848 services provided by participants to date, only 23
+           qualifying legal service complaints were recorded, of which only 10 were
+           classified as harm related. A harm related complaint is one that is both focused
+           on the legal service being provided (“qualifying”) and falls into 1 of 4 categories
+           of identified harms. These complaints were resolved either without harm/loss to
+           the complainant or with the service provider compensating the complainant for
+           the financial loss, which was minor. For a more detailed discussion complaint
+           classification see Appendix A.
+
+
+           For more detail on how legal service complaints are classified see Appendix A,
+           under Harm Assessment and Complaints Summary at p. 24 infra.
+
+
+
+   05.      Two access to justice factors: geographic distribution and
+            cost
+
+            While ~ 50% of the population of Ontario is located in the Greater Toronto Area
+            and Ottawa (Ontario population, and Ottawa and GTA populations from Statistics
+            Canada), reporting from participants shows that ~30% of participants’ services
+            were delivered to users in these regions. While non-conclusive this may be an
+            indicator that users in more remote areas with less access to traditional legal
+            services are experiencing added benefit from A2I service providers.
+
+
+            Further, the average cost of services delivered by A2I participants was ~$93,
+            which would indicate an added benefit for individuals who cannot afford
+            traditional legal services.
+
+
+
+Access to Innovation | Update Report
+                                                                                                 17
+    Observations from the first 3 years
+    continued
+   06.     Service trends
+
+           Non-adversarial services dominate
+
+           The services provided by A2I participants as well as current applicants consist
+           primarily of drafting (structured) legal documents and navigating non-adversarial
+           legal services, such as immigration applications. This trend is anticipated to
+           continue.
+
+
+           Documents such as wills, powers of attorney and prenuptial agreements tend to
+           be fairly structured documents assembled from a collection of precedent clauses
+           and these are well suited to a technology drive service solution.
+
+           Further, these are situations involving a single party, such as a will, or two
+           consenting parties, such as a prenuptial agreement or a real estate transaction,
+           as opposed to adversarial legal situations involving parties who are already in
+           disagreement and so would be unlikely to agree to use a legal tech tool to solve
+           their dispute, at least at the outset.
+
+
+           To date, only one application has been received dealing with adversarial legal
+           situations. This application is currently being evaluated.
+
+
+
+           Simple service offerings
+
+           To date, providers have tended to focus on using technology to deliver less
+           complex services. We believe there is likely potential to deliver more complicated
+           services through more technologies than we have seen to date.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                18
+    06.      Service trends continued
+
+             Simple service offerings continued
+
+             Before A2I the reason for this may have been because service providers were
+             only legally allowed to provide legal information, and not legal services. However,
+             the creation of the A2I program has removed this barrier. The reason that service
+             providers are still not expanding into more sophisticated service offerings is not
+             clear; however possible explanations include:
+
+
+                 There simply may not be a market to offer a DIY service for even moderately
+                 complex legal problems, because people may want to deal with real lawyers
+                 and paralegals when confronted with a complex legal issue. While
+                 technologies can assist with the filling of forms, individuals are often seeking
+                 advice on how to approach a problem.
+
+
+                 As legal problems become more complex they also become more unique
+                 requiring bespoke solutions. Accordingly, the cost of developing the
+                 technology becomes higher while the potential user pool shrinks, creating a
+                 situation where there is not a business case to warrant the product
+                 development.
+
+
+             This topic will be discussed with A2I participants in 2025 in order to further
+             understand the rationale.
+
+
+
+    07.      Barriers to collaboration
+
+             Some applicants have proposed models where some legal services are provided
+             by a technology while other legal services are provided by a licensee. Typically
+             the proposal is: a legal service will be offered via a website; however once it
+             becomes apparent that the user requires a more complex or bespoke service
+             than the website’s capabilities, the matter is to be sent to a licensee (A2I refers to
+             these as hybrid applications). Hybrid applications raise a number of challenges
+
+
+
+Access to Innovation | Update Report
+                                                                                                      19
+   07.     Barriers to collaboration continued
+
+            including: appearance as an alternative business structure; revenue sharing;
+            referral fees and conflict checks. Because By-Law 16 deems that participants are
+            not practicing law, a licensee can never personally be a participant in the A2I
+            program.
+
+
+            Additional hybrid applications are expected in 2025. The lessons learned from
+            these applications and from evidence reported during the applicants’
+            participation in the program will provide information that will be useful to the LSO
+            as it determines the appropriate approach to collaboration between licensees
+            and technologies that provide legal services.
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                   20
+   Looking forward
+    The A2I team will continue to promote the A2I program through direct outreach to
+    potential applicants as well as participation in relevant conferences/courses and other
+    appropriate media outreach efforts.
+
+
+    The A2I team will continue to report to Convocation on A2I. As the program progresses,
+    deeper analysis and further observations from the program will be reported.
+
+
+    In 2025 the A2I team will also be considering how A2I participants who meet
+    expectations during their operating period may receive ongoing authorization from the
+    Law Society to continue providing legal services in Ontario on an ongoing basis as was
+    set out in the Technology Task Force Report. This will involve consulting with participants
+    and the professions as well as seeking input from the Futures Committee and the A2I
+    stakeholder roundtable. This is discussed in more detail in Appendix B.
+
+
+    The A2I program was approved by Convocation as a 5-year pilot program. The program
+    commenced its operations in November 2021 and is set to conclude in November 2026.
+    As the pilot program approaches the conclusion of its current mandate, Convocation will
+    need to consider a number of issues regarding the continuation of the A2I program:
+
+
+      1. Should the A2I program be made permanent?
+      2. Should the pilot project be extended and, if so, by what period?
+      3. Should the A2I program be wound up at the end of its current mandate?
+      4. If Option 1 or 2 above are selected, should the mandate of the A2I program be
+        changed?
+      5. If Option 3 is selected, should the LSO consider alternative means to regulate ITLS
+        providers or should it take the position that ITLS providers are outside the LSO’s
+        mandate for regulation?
+
+
+
+
+Access to Innovation | Update Report
+                                                                                                  21
+   Appendix A: Data analyst's report
+   Law Society of Ontario Access to Innovation Sandbox Report
+
+     Revised May 16, 2025
+
+
+
+   Number of services and legal issues
+
+   Entities in the Law Society of Ontario Access to Innovation sandbox (LSO A2I sandbox) began
+   reporting legal services during March 2023. Between November 2022 and April 2025, 119,848
+   legal services have been sought. Figure 1 summarizes the cumulative number of legal services
+   by reporting month.
+
+
+
+
+   Figure 1: Cumulative reported services by reporting month
+
+
+
+
+Access to Innovation | Appendix A
+                                                                                                  22
+   Types of services sought
+   Almost all legal services sought were for document or form completion (n= 117,232 97.82%).
+   Filing documents/forms or client preparation, or referrals accounted for less than 3% of legal
+   services sought (n=2,608 2.18.%; n=8, ~0.01%).
+
+
+   The vast majority of services to date continue to fall under the area of wills, trusts and estates,
+   with real estate and corporate law services present but well behind. Q1 2025 has seen the
+   addition of new participants in the family law and fertility law areas, and the A2I team is currently
+   evaluating applicants who, if approved, will further broaden the types of legal services available
+   through the program.
+
+
+
+
+   Services per unique person or bundle
+   >99.9% of services were offered to consumers located in Ontario, and >99% of services were
+   offered in English (with the remainder offered in French). 29.48% (35,332 services) of the
+   services were offered to consumers across three cities (Table 1).
+
+
+
+
+   Location of consumer and language of service provision
+   >99.9% of services were offered to consumers located in Ontario, and >99% of services were
+   offered in English (with the remainder offered in French). 29.48% (35,332 services) of the
+   services were offered to consumers across three cities (Table 1).
+
+
+
+
+   Table 1: Number and percentage of services by city
+
+
+     City                                      Number of Services       Percentage of Services
+
+     Toronto                                 22,279                     18.59%
+
+     Ottawa                                  7,893                      6.59%
+
+     Mississauga                             5,160                      4.31%
+
+     TOTAL across 3 cities                   35,332                     29.48%
+
+
+    70.52% of Ontario services were offered outside of these three cities or were currently undefined
+    (with approximately 9,478 [~7%-8%] consumer locations currently undefined).
+
+
+Access to Innovation | Appendix A
+                                                                                                           23
+   Amount paid for legal services
+   The total amount paid for services from November 2022 through April 2025 was $11,128,742.
+   The total amount paid to date relative to the total count of services sought was $92.86.
+
+
+
+
+   Harm assessment and complaints summary
+
+   Since March 2023, consumer-related legal service complaints have been reviewed by the LSO A2I
+   sandbox. A sandbox qualifying complaint must be related to a legal aspect of the service itself
+   (i.e., legal service focused) and at least potentially impact a consumer (i.e., consumer focused).
+   If a complaint is not focused on the legal service or is not focused on a potential consumer
+   impact, it is not a sandbox qualifying complaint. If a complaint qualifies as a sandbox complaint,
+   those qualifying complaints are then reviewed for sandbox categorical harms. Four categories of
+   harms are regulated by the sandbox. The four categories of legal services harms are as follows:
+
+
+     1. Failure to exercise legal rights or pursue legal recourse as a result of ignorance, error, or poor-
+        quality legal services
+     2. Purchase of unnecessary or inappropriate legal services
+     3. Exposure or sale of confidential client data to third parties
+     4. Inability to seek redress or recompense from a legal service provider that has failed to
+        provide the service expected or agreed
+
+
+   Sandbox qualifying complaints are categorized as harm-related or not harm-related. Harm-
+   related complaints are also explored for the provider’s response regarding the specific consumer
+   harm and broader responses if the specific harm indicates a broader systemic problem. At any
+   point of the complaint review or response process, an entity can be engaged for clarification and
+   elaboration regarding the complaint itself or the personal or systemic response to a complaint.
+
+
+   As of April 30, 2025, sixty-six sandbox non-qualifying complaints (mostly complaining about
+   technological interface but not the legal service itself, a consumer change of mind, incorrect
+   interpretation by consumer of terms/conditions/service, frustrations with ancillary administrative
+   actions [e.g., paying taxes] or wanting services beyond the scope of service afforded by the
+   provider) have been reported to LSO A2I.
+
+
+
+
+Access to Innovation | Appendix A
+                                                                                                              24
+   Harm assessment and complaints summary continued
+   There have also been 23 sandbox qualifying complaints. Of those twenty-three sandbox
+   qualifying complaints, 10 complaints were classified as harm-related (1 complaint per 11,985
+   legal services), and these harm-related complaints were linked to a failure to exercise legal rights
+   or pursue legal recourse as a result of ignorance, error, or poor-quality legal services or purchase
+   of unnecessary or inappropriate legal services (Table 2).
+
+
+
+   Table 2: Harm-related complaints overall, November 2022-March 2024
+
+
+     Harm Category                                             Number of            Proportion of
+                                                               Complaints           Complaints
+
+     Failure to exercise legal rights or pursue legal          9                    .000075
+     recourse as a result of ignorance, error, or poor-                             (1 complaint per
+     quality legal services                                                         13,316 services)
+
+     Purchase of unnecessary or inappropriate legal            1                    .000008
+     services                                                                       (1 complaint per
+                                                                                    119,848 services)
+
+     Exposure or sale of confidential client data to third     0                    .000
+     parties
+
+     Inability to seek redress or recompense from a legal      0                    .000
+     service provider that has failed to provide the
+     service expected or agreed
+
+
+
+
+Access to Innovation | Appendix A
+                                                                                                          25
+   Appendix B: Authorizing participants to operate
+   on an ongoing basis
+   A2I participants currently enter into two year agreements with the A2I program. When those
+   agreements expire, they automatically become one year rolling agreements. In the Technology
+   Taskforce Report Convocation determined that there would be some manner in which participants
+   would be authorized to operate on an ongoing basis after completing their participation in A2I. To
+   date, the form and process of this has not been determined.
+
+   The A2I program will begin consulting with stakeholders on the form and process of ongoing
+   operation. Some of the items that will need to be considered will include:
+
+
+
+  1. What should “authorization to operate on an ongoing basis” mean? Should it be an indefinite
+     contract, a permit, a license or something else?
+
+   The A2I participants are regulated through contract known as a participation agreement, which:
+        describes the scope of services to be provided,
+        requires the participant adhere to standards for quality of the product, customer service,
+        data privacy, cyber-security, disaster recovery, etc.
+        establishes reporting standards (detailed below)
+        provides the LSO with powers to monitor the performance of the participant (detailed
+        below), and
+        establishes the means and processes by which failures or breaches of obligations are to be
+        remedied, or in the most serious of circumstances how the participant’s participation in the
+        program may be terminated.
+
+
+   Providing ongoing authorization on an ongoing basis through a contract could be done with no
+   amendments to the Law Society Act or the Law Society By-Laws. Further, the contract method
+   has proved effective at building an individualized regulatory model tailored to each participant.
+
+
+
+
+  2. What criteria should be used to determine whether an ongoing authorization is granted?
+     When should it not be granted?
+
+   In the Technology Task Force Report it was inferred that ongoing authorization should only be
+   granted after some period of successful participation in the A2I program. Limiting the ongoing
+   authorization to A2I participants who have successfully completed a number of years in the A2I
+   program; have performed a certain number of legal services and have not had any significant
+   issues will likely be a starting point for this analysis.
+
+
+Access to Innovation | Appendix B
+                                                                                                        26
+   3. What will be the ongoing reporting requirements? Will there be annual re-qualification
+      requirements?
+
+   Currently A2I participants provide data on a quarterly basis with regard to:
+        number of services provided,
+        nature of services,
+        geographic region where services were provided as well as other demographic
+        information (if available),
+        prices of services provided, and
+        information on any complaints received.
+
+   Lawyers and paralegals are required to file an annual report. It would be consistent to have an
+   annual reporting requirement analogous to licensee obligations.
+
+
+
+
+     4. Does there need to be an LSO discipline process established for entities that have ongoing
+        authorization and what should that entail?
+
+    Currently the LSO can monitor participants in the A2I program by the following methods:
+        Conduct an audit once per year, with potential follow ups to ensure any identified issues are
+        addressed.
+        Require a participant to provide such information and/or access to systems in order to confirm
+        continued compliance with the terms of the participation agreement.
+        Receive complaints regarding a participant directly from users or others.
+        Conduct quality assurance testing on a participant's product/service offering without notice to
+        the participant.
+
+    Further, participants are required to:
+        Notify the LSO within five business days of any material change to their business or services
+        that could impact their eligibility to continue to operate under the program.
+        Report any complaints received on a quarterly basis, and report complaints alleging fraud,
+        criminal misconduct, wilful misconduct, gross negligence, or malicious or dishonest acts or
+        omissions by the participant within five business days of receiving the complaint.
+        Report to the LSO within 72 hours any data breach involving personal information that is
+        required to be reported to a federal or provincial body.
+        Report to the LSO within 72 hours any data breach which it is required to report to its insurer.
+
+
+    The LSO has broad powers under the participation agreements with participants to act on
+    information gathered or received to help ensure protection of the public from harm. While the LSO
+
+
+
+
+Access to Innovation | Appendix B
+                                                                                                           27
+   has committed to working constructively with participants to remedy situations without
+   interruption of their operations where possible, it does have the power to require the participant to
+   temporarily cease operations or to expel a participant from the A2I program should circumstances
+   warrant.
+
+
+   Participants that are authorized to provide ongoing operations should be subject to appropriate
+   monitoring and discipline, drawing on lessons learned from the A2I program as well standards and
+   methods that are applied to licensees.
+
+
+   Ongoing authorization will require setting standards and having effective consequences when
+   those standards are not maintained.
+
+
+
+
+Access to Innovation | Appendix B
+                                                                                                           28
+

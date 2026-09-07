@@ -1,0 +1,994 @@
+                  In the Supreme Court of the State of Utah
+
+                                    ----oo0oo----
+
+           In re: Application of Rasa Public Benefit Corporation
+
+                                           ---
+
+
+        AMENDED ORDER FOR AUTHORIZATION TO PRACTICE LAW
+
+Based upon the Utah Supreme Court’s plenary and constitutionally granted authority to
+regulate the practice of law in Utah, and the tenets of Standing Order 15, the Utah
+Supreme Court orders that Rasa Public Benefit Corporation is authorized to practice law
+within the regulatory sandbox and subject to the restrictions outlined below.
+
+The Court has reviewed the original recommendation of the Office of Legal
+Services Innovation (“Innovation Office”), dated November 6, 2020, and the
+amended recommendation dated August 10, 2022, for Rasa Public Benefits
+Corporation (“Rasa”) to be authorized to practice law.
+
+Initial authorization was for Sudbury Consulting and Code for America to
+develop a software platform to assist Utah consumers in determining whether
+they are eligible for expungement of their criminal record under Utah’s Clean
+Slate law. The entity was authorized as a “software provider with lawyer
+involvement” at the moderate risk level. Code for America then left the project,
+and Sudbury Consulting was authorized as an ABS to hire Alternative Legal
+Providers to provide low-cost expungement assistance while under the oversight
+of a lawyer.
+
+Now, the entity seeks authorization under the entity name Rasa Public Benefit
+Corporation, to clarify that its authorization for expungement includes 402
+reductions, and to receive a waiver of Rule 1.15 and Rule 14-1001 requiring an
+IOLTA account.
+
+The Innovation Office has assessed the risk of harm to Rasa’s targeted consumers
+relative to the risk of harm they currently face and has determined that the risk
+of harm presented by Rasa’s service is Moderate.
+
+In light of the Court’s responsibility to the public to effectively regulate the
+practice of law in Utah and in keeping with the tenets of Standing Order 15, the
+Court now orders as follows:
+
+   1. Rasa Public Benefit Corp. is authorized to offer legal services through the
+      following models:
+      a. Lawyers sharing profits with nonlawyers
+      b. Alternative Legal Provider with lawyer involvement
+           i.  ALPs offering:
+                   1. Legal information and legal process assistance
+                   2. Legal advice related to expungement eligibility, 402
+                      reductions, legal process, and legal documents.
+                   3. Assist individuals with form completion; draft and
+                      file expungement and 402 reduction pleadings;
+                   4. Discuss client cases with prosecutors and advocate for
+                      402 reductions, in order to help clients become
+                      eligible for an expungement (does not include in
+                      court assistance).
+          ii.  Lawyer involvement including:
+                   1. Create robust training materials and trainings for ALP
+                      trainees;
+                   2. Supervise and evaluate ALP trainees’ skills assessment to
+                      ensure they understand the legal landscape and process, and
+                      can apply concepts with accuracy;
+                   3. Provide shadow opportunities for ALP trainees for the first
+                      three months of service provision, review all paperwork
+                      completed by ALPs before it is filed;
+                   4. Conduct periodic checks to ensure high quality work
+                      continues on an ongoing basis;
+                   5. Supervise ALPs and manage all Rasa cases to ensure the
+                      applicable filing requirements and deadlines are met;
+                   6. Complete regular performance reviews of ALPs to provide
+                      regular feedback and improve Rasa’s services; and
+                   7. Promptly address any complaints received with the
+                      person who handled the matter.
+      c. Software provider with lawyer involvement
+
+2. Rasa Public Benefit Corp. is authorized to provide legal services across the
+   following legal service areas:
+       a. Expungement
+       b. 402 reduction
+       c. Employment
+
+3. The following Rules of Professional Conduct are waived:
+      a. Rule 1.15 and Rule 14-1001 which require an attorney to maintain
+          an IOLTA account. Rasa believes that using both the software
+          platform and ALPs will enable the entity to offer to clear a person’s
+          record for approximately $500; representation by a lawyer for the
+          same task costs approximately $2000-$3000. Due to this business
+          pricing structure, maintaining an IOLTA account is extremely time
+
+                                      1
+             consuming and does not yield much interest as the money is put in
+             and almost immediately moved to the operation account.
+          b. Rasa is required to hold customer and/or client fees and/or
+             expenses in an account that earns interest or dividends and remit
+             the interest or dividends earned on those accounts, net any
+             reasonable service fees or charges, to the Utah Bar
+             Foundation. Rasa must remit the interest or dividend to the
+             Foundation at least quarterly. Along with the remittance, Rasa
+             must provide the Foundation with a report stating the name of the
+             entity, the amount of the remittance, the rate and type of interest or
+             dividend applied, and the average monthly balance on the account
+             or accounts.
+
+   4. Rasa shall conform to the Moderate Innovation reporting requirements
+      imposed by the Innovation Office.
+
+   5. Rasa will prominently display the following disclosure requirements:
+         a. Innovation Office Badge
+         b. Nonlawyer service provider disclosure
+
+If Rasa wishes to alter these conditions or requirements, it must submit any such
+change to the Innovation Office for further assessment. The Innovation Office
+will assess the proposed change and may permit the change if it deems the
+change does not materially increase the risks to consumers. If the Innovation
+Office finds a material increase in risk, then it will present the issue to the Court
+for further consideration.
+
+This authorization is granted for the duration of the existence of the Sandbox, or
+until exit and permanent licensure at the discretion of the Court. Authorization is
+subject to Rasa’s compliance with the conditions and requirements set forth in
+the Innovation Office Manual and the Innovation Office Recommendation to the
+Court and to a verification by the Innovation Office that the entity’s services are
+not causing material harm to consumers.
+
+
+
+DATED this 21st day of September, 2022.
+
+
+
+                                                 _______________________________
+                                                 Matthew B. Durrant
+                                                 Chief Justice
+
+
+
+
+                                          2
+3
+Section One: Provider Information (Code for America)
+
+   1. Entity or Individual Provider Name*
+      Code for America
+
+   2. Contact Employee Name*
+      Meilani Santillán
+
+   3. Contact Employee Email
+
+
+
+   4. Principal Business Address*
+
+   5. Mailing Address
+      Same
+   6. Contact Employee Telephone Number*
+      [main number]
+   7. Please indicate your proposed entity’s legal status*
+   ● Law Firm Partnership
+   ● Professional Corporation
+   ● For-Profit Corporation - Privately Held
+   ● For-Profit Corporation - Publicly Held
+   ● Non-profit - Legal Services
+   ● Non-profit - Not Legal Services
+   ● Individual Provider
+   ● Other:
+
+   8.   If you are an individual provider, indicate your professional status
+   ●    Lawyer with UT law license in good standing
+   ●    Licensed Paralegal Professional with UT license in good standing
+   ●    Lawyer with law license from another US state in good standing
+   ●    Other professional (e.g. doctor, accountant, social worker, etc.) with active professional
+        license in good standing
+   ●    Business
+   ●    Not applicable
+   ●    Other:
+
+    9. Please provide any applicable professional license identification number(s)
+Include the licensing authority with your number; e.g. UT State Bar #5432; UT CPA #98765
+       N/A
+
+
+
+
+                                                                                                     1
+Section One: Provider Information (Sudbury Consulting, LLC)
+
+2.       Entity or Individual Provider Name*
+         Sudbury Consulting, LLC
+
+3.       Contact Employee Name*
+         Noella Sudbury
+
+4.       Contact Employee Email
+
+
+
+5.       Principal Business Address*
+
+
+
+
+6.       Mailing Address
+         Same
+
+7.       Contact Employee Telephone Number*
+
+
+
+8.       Please indicate your proposed entity’s legal status*
+     ●   Law Firm Partnership
+     ●   Professional Corporation
+     ●   For-Profit Corporation - Privately Held
+     ●   For-Profit Corporation - Publicly Held
+     ●   Non-profit - Legal Services
+     ●   Non-profit - Not Legal Services
+     ●   Individual Provider
+     ●   Other: Limited Liability Company
+
+9.       If you are an individual provider, indicate your professional status
+     ●   Lawyer with UT law license in good standing
+     ●   Licensed Paralegal Professional with UT license in good standing
+     ●   Lawyer with law license from another US state in good standing
+     ●   Other professional (e.g. doctor, accountant, social worker, etc.) with active professional
+         license in good standing
+     ●   Business
+     ●   Not applicable
+     ●   Other:
+
+10.    Please provide any applicable professional license identification number(s)
+Include the licensing authority with your number; e.g. UT State Bar #5432; UT CPA
+#98765
+
+
+                                                                                                      2
+Noella Sudbury: UT State Bar #12682
+
+Section Two: Your Proposal
+Utah Supreme Court Standing Order 15
+3.3.2 Within the Innovation Office’s Regulatory Scope
+
+Individuals and entities that carry out the following activities are within the scope of the
+Innovation Office’s regulatory authority and are subject to this Standing Order’s requirements:
+
+(a)      Partnerships, corporations, and companies entirely owned and controlled by lawyers;
+individual lawyers with an active Utah Bar license; and legal services nonprofits partnering with
+a nonlawyer-owned entity to offer legal services as contemplated by Rule 5.4B;
+(b)      Nonlawyer owned entities, or legal entities in which nonlawyers are partial owners (for
+profit or nonprofit):
+(i)      offering legal practice options whether directly or by partnership, joint venture,
+subsidiary, franchise, or other corporate structure or business arrangement, not authorized
+under the Rules of Professional Conduct in effect prior to [Month] [Date], 2020, or under Utah
+Supreme Court Rule of Professional Practice 14-802; or
+(ii)     practicing law through technology platforms, or lawyer or nonlawyer staff, or through an
+acquired law firm.
+
+<https://tinyurl.com/uscorder15>
+
+The Sandbox will only accept proposals for innovative legal services that (1) cannot be offered
+without modifications under the present Rules of Professional Conduct, or (2) are considered
+unauthorized practice of law. *
+This application is NOT for proposals for services which may already be offered under the
+proposed rule 5.4(A) which impact a Utah lawyer's capacity to share fees for legal services.
+Read the full proposed changes here: <https://tinyurl.com/rule54A>
+    ● I understand (checkbox)
+
+    10. Which of the following categories are the most applicable category for your proposed
+        business, service, or product? *
+For reference, please see the excerpt listed above from "Utah Supreme Court Standing Order
+15."
+    ● 3.3.2 (a) - (Sudbury Consulting, LLC)
+    ● 3.3.2 (b) (i)
+    ● 3.3.2 (b) (ii) - (CfA)
+
+
+
+
+                                                                                                    3
+    11. Tell us about your proposed legal services offering *
+
+An estimated 1 in 4 Utahns have a criminal record. While Utah law permits individuals to
+petition the court to have certain records expunged, due to cost, complexity, and lack of
+affordable legal representation, the vast majority of individuals who would be eligible to expunge
+their records never obtain relief. As a result, most Utahns with criminal records continue to be
+burdened by the estimated 45,000 collateral consequences that come with a criminal record,
+including lack of meaningful access to jobs, housing, and education.1
+
+To help address this issue, the Utah State Legislature unanimously passed Utah’s Clean Slate
+law in 2019. This law provides automatic expungement relief to individuals with qualifying
+misdemeanor records, meaning they no longer need to petition the court to receive an
+expungement.2 While we anticipate the law will make a big difference in the lives of Utahns in
+need of legal expungement services, there is no notification requirement in the law. In order to
+benefit from the law, individuals must know that it exists, and understand how it impacts their
+legal rights.
+
+Sudbury Consulting, LLC and Code for America plan to collaborate on the development of a
+technological solution that provides information about Utah’s Clean Slate law and legal advice to
+people with criminal records in Utah. We hope to also be able to partner with Utah’s Department
+of Public Safety (DPS) and Commission on Criminal and Juvenile Justice (CCJJ) to further
+broaden the impact of this work. More specifically, we aim to help people with criminal records
+access their criminal history, understand what it means, learn whether they have been impacted
+by Utah’s Clean Slate law, and whether they might be eligible for petition-based expungement
+under Utah law. We believe that designing a tool that is human-centered, user-friendly, and
+comprehensive enough to provide this type of service will be a great improvement to the current
+expungement legal services landscape.
+
+We also aim to have our work in Utah create a national model as more states adopt Clean Slate
+policies that provide automatic record clearance. We see this as an opportunity for Utah to set
+an example for other states and contribute to the national access to justice conversation.
+
+
+
+
+1
+ Jeffrey Selbin, Justin McCrary, & Joshua Epstein, Unmarked? Criminal Record Clearing and
+Employment Outcomes, The Journal of Criminal Law and Criminology, Vol. 108, No. 1 (2017) at 15
+(noting “people with criminal records are subjected to roughly 45,000 sanctions, disabilities,
+disqualifications, or other negative consequences.”)
+2
+  Code for America is currently in partnership with the Utah Administrative Office of the Courts to help
+implement Utah’s Clean Slate law. More specifically, Code for America has a data sharing agreement
+with the AOC and has been asked to help identify cases that may be clean slate eligible under the law.
+As we work together to develop and implement our proposed computer tool, we hope to build on this
+partnership with the AOC, and explore additional ways we can collaborate to ensure that individuals have
+access to the most current and accurate information about their Clean Slate eligibility.
+
+
+                                                                                                       4
+More About Code for America
+
+At Code for America, we believe the two biggest levers for improving people’s lives at scale are
+technology and government. So, we build technology in partnership with government to
+dramatically improve the services and benefits available to people to improve the conditions of
+their lives. The Clear My Record team at Code for America works with state governments to
+fundamentally rethink the process of record clearance, leveraging technology and human-
+centered design to reinvest in communities by removing barriers to employment, housing,
+health, and education.
+
+As part of our Clear My Record initiative, this project will allow us to deliver impact to people in
+Utah with criminal records who have benefitted from Utah’s Clean Slate law or are eligible for
+relief under other existing laws. In order for people to benefit from the law, they must know
+about this type of relief, what it means in the context of their criminal record, and understand
+what opportunities exist for them to pursue that their criminal record formerly prevented.
+
+    12. Why is your proposal eligible to enter the Sandbox? *
+Identify the specific model, service or product innovations that are not permitted under the
+traditional rules governing professional conduct and/or the practice of law.
+
+Utah Rules of Professional Conduct prohibit lawyers from working in partnership with non-
+lawyers (here, a non-profit tech company) to provide legal services facilitated by technology.
+Sandbox approval is needed here to build a technological tool that will analyze a person’s
+criminal record and provide free information and legal advice about whether a person has
+benefitted from Utah’s Clean Slate law and/or is eligible for criminal record expungement, or
+other legal remedies under Utah law.
+
+    13. Please describe your target consumer(s)
+E.g. single parents making <$50,000 in a custody dispute, first generation college students in a
+landlord-tenant dispute; renters 40+ years planning for retirement; college educated
+entrepreneurs seeking legal advice in starting a business.
+
+People with criminal records seeking to learn whether they have benefitted from Utah’s Clean
+Slate law or looking to obtain broader legal advice about their criminal records, eligibility for
+expungement, and employment opportunities. As Utah’s Clean Slate law is implemented, we
+anticipate that many people with criminal records will be seeking legal advice on whether they
+are eligible for relief under the new law, how that impacts their record, and if they have
+additional criminal case records not eligible for “clean slate relief,” whether those records are or
+could become eligible for petition-based expungement. We also hope to provide general legal
+advice concerning the legal effect of a criminal record expungement and how this legal benefit
+improves access to opportunity.
+
+
+
+
+                                                                                                       5
+    14. Which service provision categories are you seeking to employ in the Sandbox? *
+    ● Lawyer employees
+    ● Completing legal documents
+    ● Less than 50% nonlawyer ownership
+    ● 50% or more nonlawyer ownership
+    ● Non-lawyer provider with lawyer involvement
+    ● Software provider with lawyer involvement
+    ● Nonlawyer advice on legal process only
+    ● Nonlawyer provider without lawyer involvement
+    ● Software provider without lawyer involvement
+    ● Other:
+
+     15. Which legal service categories are you seeking to offer in the Sandbox? *
+At this time, the Utah Supreme Court is only authorizing Sandbox participants to offer services
+in the following categories.
+     ● Accident/Injury
+     ● Adult Care
+     ● Business
+     ● Criminal - Expungement ONLY
+     ● Discrimination
+     ● Domestic Violence
+     ● Education
+     ● Employment3
+     ● End of Life Planning
+     ● Financial Issues
+     ● Immigration
+     ● Healthcare
+     ● Housing - Rental
+     ● Marriage and Family
+     ● Military
+     ● Native American and Tribal Issues
+     ● Public Benefits
+     ● Real Estate
+
+Part Three: Risk Assessment
+This Sandbox operates under an oversight system guided by the assessment and measurement
+of risk to consumers of legal services. The Innovation Office has identified three central risks of
+consumer harm with which we are primarily concerned:
+
+
+3
+  As we roll out the criminal record expungement tool, we may also build on our efforts to provide general
+information and legal advice about the impacts of a criminal record on prospective employment
+opportunities. For instance, while an individual may successfully expunge their record, it may still be
+visible to particular licensing agencies or other potential employers in certain sectors. We are hoping our
+site can provide information to individuals who have questions about what individuals and entities have
+continuing access to their record, even after the expungement process is complete.
+
+
+                                                                                                          6
+1.       Consumer achieves an inappropriate or otherwise flawed legal result.
+2.       Consumer fails to exercise legal rights through ignorance or bad advice.
+3.       Consumer purchases an unnecessary or inappropriate legal service.
+In this section, you will explain the likelihood that your targeted consumers currently experience
+each of the three central risks, supported by data as available.
+
+You should be as specific as possible in identifying risks, proposed data, and mitigation plans.
+We understand there is a lack of data generally available about how people consume legal
+services and we assume that you will have to rely on proxy data in many instances.
+
+Risk One: consumer achieves an inappropriate or otherwise flawed legal result.
+The consumer exercises legal rights and accesses a legal service, but the consumer is subject
+to x% risk of legal failure under the legal service models available to them in the present market.
+
+    16. How are your target consumers presently at risk of achieving an inaccurate/inappropriate
+        legal result? *
+Under current Utah regulation of legal services, how are your target consumers likely to receive
+incorrect legal advice or lose a legal action? What factors (income, legal service cost, time)
+currently increase your target customers' risk of inaccurate/inappropriate legal outcomes?
+
+Under existing Utah law, individuals must petition the court to get their criminal records
+expunged. This current petition-based process is so expensive, time-intensive, and complex
+that few people eligible to expunge their records make it through the process.4 As a result,
+most Utahns with criminal records eligible for expungement are at a very high risk of never
+obtaining relief and continuing to live their lives with the estimated 45,000 collateral
+consequences of a criminal record, including lack of meaningful access to jobs, housing, and
+education.5 This is not an appropriate legal result.
+
+Individuals with criminal records have three options in Utah’s existing legal market: (1) hire a
+private attorney; (2) take advantage of the very limited free or low bono legal services available;
+(3) represent themselves. All three of these options present risks of inaccurate or inappropriate
+legal results.
+
+4
+  According to estimates from the Utah Department of Public Safety, 1 in 4 individuals (approximately
+750,000 people) in Utah have some type of criminal record, and yet data obtained from the Utah
+Administrative Office of the Courts shows that there are only 2 to 3,000 expungement petitions filed in
+Utah each year. While not every criminal record is eligible for expungement under Utah law, many
+records are, and there is a significant gap in legal services. While there is no Utah specific research done
+on this topic, data from other states estimates that less than 6% of those eligible to expunge their records
+end up obtaining relief. See e.g., Prescott, J.J. and Starr, Sonja B., Expungement of Criminal
+Convictions: An Empirical Study (March 16, 2019), Available at SSRN: https://ssrn.com/abstract=3353620
+or http://dx.doi.org/10.2139/ssrn.3353620.
+5
+ See U.S. Commission on Civil Rights, COLLATERAL CONSEQUENCES: The Crossroads of
+Punishment, Redemption, and the Effects on Communities (2019) (“Individuals with criminal histories face
+barriers to voting, serving on a jury, holding public office, securing employment, obtaining housing,
+receiving public assistance, owning a firearm, getting a driver’s license, qualifying for financial aid and
+college admission.”)
+
+
+                                                                                                          7
+Private lawyers provide expungement services, but legal assistance is costly, and many
+individuals in need of help cannot afford to hire an attorney. Research shows that individuals
+with criminal records often face huge barriers to employment, and yet, employment is needed to
+pay an attorney to help expunge a criminal record. While hiring a lawyer to help expunge a
+criminal record provides the client with the best chance of making it through the process, even
+these services are not error-free. Indeed, we heard from many seasoned and experienced
+lawyers who volunteered for Salt Lake County’s Expungement Day event that they never knew
+how complicated the expungement process was, or how nuanced it could be, and that they
+struggled to navigate individuals through the required steps. While volunteer lawyers were able
+to help individuals start the process in high volume, many individuals’ legal needs extended
+beyond the event, requiring people to complete the complex, multi-step process on their own.
+
+Individuals without resources to hire a private attorney may qualify for help from Utah Legal
+Services,6 have the option of attending the few and infrequent low- or pro-bono legal clinics,7 or
+they can try to represent themselves. People who attempt to navigate the process on their own
+are at high risk of losing out on legal remedies, missing deadlines, and never successfully
+completing the process. In short, Utah’s process for expungement is not well-designed to serve
+everyone who is eligible.
+
+    17. Under your proposed legal service/model, how would your target consumers be at risk of
+        achieving an inaccurate/inappropriate legal result? *
+
+Ideally, we will be able to partner with Utah’s CCJJ to access official criminal history data that
+informs the legal advice that will be provided by the tool. This is the best way to minimize the
+risk of inappropriate legal results. However, to keep this project moving forward, or if we are
+unsuccessful in our efforts to secure a data partnership with the state of Utah, we may require
+people to self-report information about their criminal history that will be analyzed by the tool.
+This type of self-reporting carries the risk of user errors or inaccuracies. We intend to mitigate
+this risk by advising users to obtain an official copy of their record before using the tool. We will
+also utilize user-testing, iterative content development, and move as quickly as possible to
+secure a partnership that allows us to draw from the state’s official criminal history data.
+
+Because most individuals in the target market cannot access expungement legal assistance,
+there is almost no risk that our proposed tool will leave the target market in a worse position. In
+
+6
+  Utah Legal Services can help individuals with an income up to 125% of the federal poverty level for the
+household’s size. However, there is only one full-time attorney and one paralegal focusing on
+expungement. In addition, Utah Legal Services cannot represent non-citizens, barring many Utahns with
+a criminal record from receiving the help that they need.
+7
+  Very few low bono and pro bono expungement legal services are available. Salt Lake County has
+committed to putting on two free Expungement Day events per year, and has a grant for one full-time
+Expungement Navigator through the end of 2020. The University of Utah’s free expungement clinic was
+recently eliminated. And while Utah’s Self Help Center can help individuals navigate the criminal record
+expungement process, there are limits on the type of assistance they can provide, and there is more
+demand for these services than they are able to accommodate.
+
+
+                                                                                                        8
+addition, while having a lawyer is helpful, lawyers are not error proof and may sometimes
+provide incomplete or flawed advice.
+
+The criteria for obtaining an expungement is statutory and we are confident that computer code
+can be used to analyze criminal history data with high accuracy. In fact, we anticipate that by
+using technology, we may actually achieve a lower error rate than what would occur with human
+review.
+
+That being said, no tool is perfect and there are potential risks to our tool. The two biggest risks
+we see with our proposed tool are that: (1) a person will be told they are eligible for a criminal
+record expungement when that is not the case; or (2) a person will be told that they are not
+eligible for a criminal record expungement when they actually are.8 There is also a smaller, but
+additional risk that a person believes they are now eligible for certain employment opportunities
+when that is not the case, or vice versa.
+
+In spite of these risks, it is very unlikely that use of the tool will lead to an inaccurate or
+inappropriate legal result. This is because the main function of the tool will be to tell individuals
+(1) whether they have benefitted from Utah’s Clean Slate law; and (2) if they have a criminal
+record that is not eligible to be cleared under Utah’s Clean Slate law, whether that record might
+be eligible for expungement under Utah law.
+
+Once Utah’s Clean Slate law is implemented, there will be a list of individuals who have
+benefitted from the law. Assuming we are able to partner with government agencies to securely
+access that list, the tool will simply tell an individual whether their name is on that list.
+Therefore, there is little to no risk or error here. And even before a data-sharing partnership is in
+place, the tool will help an individual understand whether they are likely to receive relief, how to
+access and understand their criminal record, and what it may mean for their opportunities.
+
+If an individual has a record that is not Clean Slate eligible, but the tool determines that an
+individual would be eligible for an expungement under the petition-based process, the tool will
+recommend that the individual apply for an expungement with the Utah Department of Public
+Safety’s Bureau of Criminal Identification (BCI), the required first step to obtaining a legal
+expungement under Utah law. If there is an error in the computer tool, and BCI determines the
+person is not in fact eligible for an expungement, the person will not be able to obtain the
+certificates necessary to file expungement paperwork with the court. In other words, any errors
+with the tool will be caught early, before any legal proceedings are initiated, making it very
+unlikely that there will be any inaccurate legal results.
+
+The only other risk of an inaccurate legal result may be in cases where an individual is not
+currently eligible for an expungement, but legal remedies exist that could help an individual
+become eligible. For example, a person may have too many felonies to qualify for an
+expungement, but may obtain a “402 reduction” to convert one or more of the felonies into
+
+8
+ This second risk--the failure to exercise a legal right due to bad advice, is discussed in more detail in
+Question 20.
+
+
+                                                                                                             9
+misdemeanors. See Utah Code § 76-3-402. Once this legal action is complete, a person may
+meet the statutory criteria to obtain an expungement. While we have not decided whether we
+will attempt to provide this type of nuanced advice, if we do, there may be more risk of an
+inaccurate legal result here. More specifically, a person may be told to take an action that is not
+warranted, or they may file a motion with the court that will not end up affecting their
+expungement eligibility.
+
+   18. How do you plan to identify the risk of your consumers achieving an inaccurate or
+       inappropriate legal result? How do you plan to track and mitigate this risk in your
+       proposed legal service/model? *
+
+The first way we will mitigate risk is in the product design and testing phase of the project. Code
+for America and Sudbury Consulting, LLC will work with a panel of legal expungement
+practitioners and subject matter experts to ensure that people who use our service are provided
+with accurate and reliable information. As part of our product development process, we will work
+closely with people with records to understand their needs and questions, and with legal
+practitioners to understand the available legal remedies and pathways for opportunities. To the
+extent possible, we will also leverage the research Code for America does as part of their
+Clean Slate implementation work with the UT AOC.
+
+In addition, we will take the following two steps to identify, track, and mitigate the risk of
+inaccurate legal results.
+
+   1. Pending our ability to secure grant funding to cover the cost of applications, we
+      will offer to help the first 25 individuals who are predicted by our tool to be eligible
+      for an expungement apply to BCI for certificates to verify that the tool’s legal
+      determinations are accurate. Under Utah law, individuals seeking to expunge their
+      records must first apply to BCI to obtain certificates of eligibility. See Utah Code § 77-
+      40-105. If our proposed computer tool determines that an individual is eligible for a
+      petition-based expungement, the individual will be directed to file with BCI an
+      expungement application to obtain certificates needed to file with the court. The cost of
+      this application is $65 (not waivable), and once an individual applies, BCI staff conducts
+      their own analysis to determine whether someone is eligible. If it turns out that BCI
+      determines that an individual who has applied is not eligible to expunge their record,
+      they will receive a denial letter from BCI and will not be able to obtain the certificates of
+      eligibility needed to initiate court proceedings.
+
+       We propose testing the tool’s accuracy by recruiting 25 individuals determined to be
+       eligible by our proposed tool, to apply for an expungement (free of charge) and sign a
+       third party release, allowing BCI to share the results of their determination with our team.
+       We will then compare the tool’s first 25 legal determinations to BCI’s determinations to
+       see whether they match and the tool is working. If the determinations do not match, we
+       will work with our panel of legal expungement practitioners and subject matter experts to
+
+
+
+
+                                                                                                 10
+       figure out why. If it is due to flaws in the tool’s logic, we will make needed adjustments
+       to improve future accuracy.
+
+   2. Pending our ability to recruit a panel of 8-10 attorneys with expungement training
+      or expertise, we will review and audit the tool’s first 25 legal determinations that a
+      person is not eligible for an expungement. As noted above, there may be instances
+      where an individual is not legally eligible for a criminal record expungement, but could
+      become eligible if they took advantage of other available legal remedies to adjust the
+      nature of their record (e.g., a 402 reduction that reduces a felony conviction record to a
+      misdemeanor conviction record). To ensure that the tool is providing accurate legal
+      advice in these more complex and nuanced cases, we hope to work with a panel of 8-10
+      attorneys who have legal expungement training or expertise, to review and analyze the
+      accuracy of the tool’s legal recommendations. In order to facilitate this review, we will
+      ask permission from individuals using the site to have their criminal record independently
+      reviewed by an attorney. There will be no contact made between the attorney and the
+      individual using the tool.
+
+If the person consents to having their criminal record shared with an attorney reviewer, it will be
+independently reviewed by at least 3 attorneys from the panel who will be asked to analyze the
+record and provide a legal opinion on whether the individual is eligible for an expungement, and
+if not, whether additional legal steps could be taken to help a client become eligible for an
+expungement. This review would then be compared to the advice generated by the computer
+tool to check for accuracy, and identify and correct any errors. If the first 25 legal
+determinations generated from the tool are less than 80% accurate, additional testing will be
+proposed before the tool becomes broadly available.
+
+Risk Two: Consumer fails to exercise legal rights through ignorance or bad advice.
+The consumer does not believe that accessing a legal service would be a good use of their
+time/money and choses not access a legal service currently offered in the legal market.
+
+    19. How are your target consumers presently at risk of failing to exercise legal rights through
+        ignorance or bad advice? *
+Under current Utah regulation of legal services, how are your target consumers likely to
+incorrectly conclude that they do not have legal rights to exercise? What legal service models
+currently on the market take more time/money than your target market would gain if they chose
+to exercise their legal rights?
+
+Most individuals legally eligible for a criminal record expungement under Utah law never apply
+for one, and many who start the process, never successfully complete it. Therefore, target
+consumers are presently at high risk of failing to exercise legal rights available to them.
+
+One of the most complex parts of the process is determining whether an individual is eligible for
+an expungement under Utah law. As a result, most people eligible for expungement relief in
+Utah are not accessing the benefits. With the implementation of Utah’s Clean Slate law, people
+
+
+
+                                                                                                 11
+with eligible convictions will receive the benefit of the expungement automatically, but there is
+no mechanism to drive awareness of the benefit and no scalable means to ensure that people
+know what that relief means for them in the context of their criminal record. People need to be
+aware of and understand the legal implications of a criminal record expungement in order to
+take advantage of opportunities now open to them.
+
+   20. How would your target consumers be at risk of failing to exercise legal rights through
+       ignorance or bad advice using your service or model? *
+
+Due to the cost and complexity of the current system, most individuals in need of criminal record
+expungement never make it through the process. We are hoping that our tool will result in
+greater access to information to target consumers. Our intention is that people who visit our
+digital service become knowledgeable about their legal rights and the next steps and
+opportunities available to them.
+
+The biggest risk of our tool is that a person will be told that they are not eligible for a criminal
+record expungement when they actually are. If a person is mistakenly told that they are not
+eligible for a criminal record expungement, they may fail to exercise their legal right to get their
+criminal record expunged, thereby missing out on access to better employment, housing,
+educational, and other opportunities.
+
+   21. How do you plan to identify whether the risk of your consumers failing to exercise legal
+       rights through ignorance or bad advice? How do you plan to track and mitigate this risk
+       in your proposed legal service/model? *
+
+Code for America engages in a number of qualitative and quantitative strategies to gather
+feedback from people who use our service. We develop software using an agile, iterative
+software development process, which enables us to start small, gather real-time feedback,
+iterate and improve the service based on that feedback. This approach ensures that we are
+building software that actually meets the needs of people, and it also ensures that we can
+mitigate the risks associated with developing a tool that provides bad legal advice.
+
+As we develop the tool, we plan to work with both individuals with records and Utah legal
+expungement experts to design the logic and test the accuracy of the tool’s legal expungement
+determinations. By consulting lawyers in the product design phase who have demonstrated
+expertise in legal expungement services, we will ensure that the tool is designed to provide
+sound legal advice to consumers, especially in the more complex or nuanced cases. By
+working with individuals who have criminal records, we will ensure that the legal advice and next
+steps generated by the tool can be clearly understood and interpreted.
+
+In addition to taking a careful approach to the product development process, we plan to use the
+following strategy to track and mitigate the risk that a consumer will fail to exercise an existing
+legal right to expungement relief:
+
+
+
+
+                                                                                                   12
+   1. Pending the ability to recruit a panel of 8-10 trained Utah legal expungement
+      experts, we will facilitate an independent review and audit of the expungement
+      determination tool.
+
+       The biggest risk of our tool is that a person will be told they are not eligible to expunge
+       their record, when in fact, they are. In order to mitigate this risk, we will work with trained
+       Utah legal expungement experts to conduct an independent review of the first 25 legal
+       determinations that a person is not eligible to expunge their record. In order to
+       accomplish this review, we will ask the first 25 people who receive a determination that
+       they are not eligible for criminal record expungement whether they would be interested
+       in an attorney conducting a review of that determination. If the individual consents, the
+       individual’s record will be shared with 3 attorneys from the panel, who will conduct an
+       independent review of the record. Those attorneys will not make contact with the
+       individual record-holder, but instead, offer a legal opinion to our team. That legal opinion
+       will be compared to the advice generated by the tool. If 2 of the 3 panel members
+       determine that the computer tool generated an error, and the individual is actually
+       eligible for an expungement, the individual will be notified that after further review, they
+       may actually be eligible for an expungement, and will be provided information about how
+       to start that process.
+
+       If the first 25 determinations are not at least 80% accurate, more testing will be required
+       before the product becomes broadly available.
+
+Risk Three: Consumer purchases an unnecessary or inappropriate legal service.
+The consumer exercises legal rights and accesses a legal service, but the consumer purchases
+a service which does not adequately serve their legal needs.
+
+   22. How are your target consumers presently at risk of purchasing an unnecessary or
+       inappropriate legal service? *
+Under current Utah regulation of legal services, how are your target consumers likely to
+purchase a legal service they do not need? How likely are your target consumers to buy the
+wrong legal service?
+
+As noted above, most consumers do not have the resources needed to hire an attorney to help
+them expunge their criminal records, therefore most individuals in the target market are at high
+risk of not being able to access the legal services they need.
+
+Because it is difficult for individuals to determine whether they meet the legal criteria to be
+eligible for an expungement under Utah law, the ones who can afford to pay the $65 fee may
+choose to apply to BCI to receive a determination. According to conversations with BCI staff,
+many individuals who apply for an expungement are not even close to meeting the legal
+requirements necessary to access the process. Therefore, we expect that in the current market,
+many individuals are presently at risk of paying an application fee to start a legal process that
+they are not eligible to access.
+
+
+
+                                                                                                   13
+It is worth noting that this risk also occurs when an individual hires an attorney. Because
+attorneys have access only to Utah public court records, they have no ability to know whether
+an individual might have criminal records in other states that might disqualify them for relief.
+While attorneys can ask clients whether they have criminal records in other states, and advise
+them that this may disqualify them from an expungement, some clients don’t know, or do not
+accurately self report this information. As a result, clients may be directed to apply for an
+expungement, when they will not be eligible for expungement relief.
+
+In addition, while we would hope that court records and criminal repository records usually
+match, there are instances where a person’s official criminal history contains different or
+additional information that did not show up in court records. Because attorneys do not have
+visibility into these records without paying to access them, there is some risk that they will tell
+individuals to apply for an expungement, and they end up not being eligible.
+
+   23. How would your target consumers be at risk of purchasing an unnecessary or
+       inappropriate legal service using your service or model? *
+
+There is very minimal risk that individuals using our tool will purchase an unnecessary or
+inappropriate legal service. We will not charge people for use of the computer tool that we build
+and we will thoroughly vet any legal service referrals listed on our website.
+
+The biggest risk with our tool is that based on an inaccurate legal determination, someone pays
+BCI a $65 fee to apply for a certificate of eligibility for an expungement, and they are told they
+are ineligible. We hope to identify and mitigate this risk in our product design phase and using
+the review and audit method outlined in question 22. We also hope to mitigate this risk by
+working in data-sharing partnership with the Department of Public Safety and the Commission
+on Criminal and Juvenile Justice (CCJJ).
+
+   24. How do you plan to identify whether the risk of your consumers purchasing an
+       unnecessary or inappropriate legal service is occurring and how you plan to mitigate this
+       risk? How do you plan to track and mitigate this risk in your proposed legal
+       service/model? *
+
+When our tool generates a legal determination, we will include on our website referrals to legal
+services organizations and clinics where individuals can access no or low-cost legal attorneys to
+discuss any advice generated by the tool. We aim to thoroughly vet all referral listings to help
+mitigate against the risk a person visiting our site is referred to a legal services entity from which
+they unnecessarily or inappropriately need to pay for legal services.
+
+In addition, we will ask individuals who have received a determination that they are eligible for
+an expungement to report back to us if they apply to BCI for a certificate and they are told they
+are ineligible. This will help us to track and identify errors and adjust the software to prevent
+future errors. Finally, pending the ability to obtain grant funding, and as outlined more fully in
+
+
+
+                                                                                                      14
+question 19 above, we will offer the first 25 individuals who are deemed eligible for an
+expungement by our tool the opportunity to apply for certificates free of charge. We will use
+third party releases to allow the information to be shared with our team, so we can ensure that
+our tool’s prediction that someone is eligible turns out to be the case.
+
+    25. What other potential material risks does your proposed legal service offering/model hold
+        for targeted consumers? How do you specifically plan to identify and control for those
+        risks? *
+To consider, if applicable and not already addressed: risks around holding of client money, risks
+around data protection and cybersecurity, risks around money laundering, and risks around real
+or perceived conflicts of interest.
+
+We anticipate that our tool will be open-source, cloud-based software. We aim to work in
+partnership with the Utah Commission on Criminal and Juvenile Justice (CCJJ) to access
+existing criminal history and/or court records so that the service can provide individualized,
+relevant information and legal advice to people seeking to better understand and interpret their
+criminal records.
+
+In order for our tool to have the most meaningful impact, we need to work in partnership with
+Utah government agencies to access criminal history information. The biggest risks of our tool
+are that (1) someone other than the individual record holder will use our tool to improperly
+access another person’s criminal history and (2) a possible data breach that exposes sensitive
+data to outside parties.
+
+     1) We will mitigate the risk of someone using our tool to improperly access another
+          person’s record by incorporating an identity verification process. This process may
+          include, but is not limited to:
+              a) Verification questions such as:
+                     i)   Name, DOB
+                    ii)   Last four of SSN
+                   iii)   Current/previous addresses
+                   iv)    Etc
+              b) Two-step verification using SMS
+              c) Codes provided by mail
+              d) Partnering with community-based organizations
+          We may also create accounts for users to store personalized information. In this case we
+will follow industry best practices for strong authentication and secure user account
+management.
+
+   2) We will take a series of precautions to mitigate the risk of a data breach, including but
+      not limited to:
+          a) Ensure that the internal networking and infrastructure of the application is secure.
+              This is often accomplished by partnering with a secure cloud hosting provider
+              such as AWS GovCloud or Aptible.
+
+
+
+                                                                                               15
+           b) Minimize access to sensitive authentication keys and passwords
+           c) Ensure all data exchanges take place over secure, encrypted channels using
+              strong authentication
+           d) Ensure sensitive data is encrypted both in transit and at rest
+           e) Adopt industry best practices for web application development to prevent
+              common vulnerabilities such as SQL Injection or Cross-Site Scripting
+           f) Access and store only the minimal amount of data necessary to meet the end
+              user need
+           g) Other steps as appropriate based on evolving cyber security risk assessments.
+
+   26. Please indicate which categories of data you will be able to provide at regular intervals to
+       the Innovation Office. *
+   ● Non-financial outcome data (legal result achieved)
+   ● Financial outcome data (monetary benefits received or penalties prevented)
+   ● Output data (number of consumers served, case filings in areas where service
+       leads to litigation)
+   ● Returns for error fixes
+   ● Consumer satisfaction survey data
+   ● Consumer demographic data
+   ● Price data
+   ● Consumer complaint data
+   ● Other:
+
+   27. Please describe your consumer complaint process. *
+
+As part of our consumer satisfaction survey, we will include a process to submit feedback, and
+commit to contact individuals within 2 weeks, and direct them to additional support/help as
+needed.
+
+Part Four: Benefits to Utah Customers
+In line with the Regulatory Objective, the Innovation Office is also assessing the potential
+benefits of proposed offerings to the Utah legal market.
+
+   28. Will your service contribute to having MORE legal services for Utah consumers? How
+       so? *
+
+Yes. As explained above, free or low bono expungement legal services are extremely limited.
+By using technology, we hope to provide legal expungement services free of charge to any and
+all individuals with Utah criminal records. Given the digital, user-friendly, and accessible nature
+of our software, we anticipate a huge increase in people accessing expungement legal services
+than those currently able to retain legal counsel or receive help from free or low bono navigation
+services and legal clinics.
+
+
+
+
+                                                                                                16
+   29. Will your service contribute to having BETTER legal services for Utah consumers? How
+       so? *
+
+Yes. Most people eligible to expunge their criminal records cannot afford an attorney, so they
+attempt to navigate the process themselves, or they do not try, and continue to live with the
+collateral consequences of a criminal record. By leveraging technology, our service will aim to
+help people in Utah expunge their records at a scale that is not possible in our existing legal
+market. Assuming we are successful in securing a partnership with CCJJ, we will be able to
+provide free access to a person’s criminal history record (which is currently available only to
+individuals who pay for it), and help individuals learn how to read and understand their own
+criminal histories, which are complicated and confusing. In addition to providing advice to
+individuals about the legal remedies available to expunge or pardon a criminal record, we hope
+to take the additional step of helping individuals understand how a criminal record expungement
+can remove the barriers to employment, housing, education, and other opportunities, and what
+next steps they may want to take to pursue those opportunities.
+
+It is our understanding that this type of service does not exist in this legal market, and certainly
+does not exist to serve everyone who is eligible for a legal expungement in Utah.
+
+   30. Will your service contribute to having LESS EXPENSIVE legal service options available
+       to Utah consumers? How so? *
+
+Yes. Our service will be delivered at no cost to the individual with the criminal record seeking to
+understand their criminal history and the legal remedies available to them.
+
+   31. How is your proposal adapted to Utah legal requirements?
+E.g. staffed by UT licensed attorneys, built to complete state legal forms.
+
+We will work with UT licensed attorneys to test the tool, and to the extent we link to or rely on
+forms, they will be court reviewed and approved.
+
+    32. Please explain how your proposal is ready to implement if authorized to enter the
+        Sandbox.
+The Office of Innovation is only authorized to consider proposals which are ready to begin
+offering legal services not currently authorized in Utah at the time of authorization.
+
+In order for individuals to trust the source of the information and legal advice we intend to
+provide, we think it is important to partner with the Government to deliver our service. To that
+end, and in anticipation of filing this application, we have approached the Utah Commission on
+Criminal and Juvenile Justice (CCJJ) to host the tool on their website. CCJJ already has an
+existing data partnership with BCI, the official criminal record repository for the state of Utah,
+and data source needed to design and implement our tool.
+
+
+
+
+                                                                                                    17
+If our proposal is approved, CCJJ has expressed interest in hosting the tool on its website, and
+BCI has expressed willingness to explore options for sharing the data needed to make the tool
+work. Code for America will offer this service free of charge to Utah consumers and stands
+ready to begin the development process. With the execution of any needed data security and
+data sharing agreements, Code for America is excited to expand its tool to ensure the most
+meaningful impact for people. Sudbury Consulting LLC will work with Code for America and
+other Utah legal expungement experts to design, test, and audit the tool to ensure its long term
+accuracy.
+
+   33. Is there anything else you want us to know about your proposed legal service?
+
+Your application will be made publicly available. If there is any specific information within your
+application for which you would claim business confidentiality, please provide (1) a written claim
+of business confidentiality, and (2) a concise statement of reasons supporting the claim of
+business confidentiality. *
+Please note the following law: "Any person who provides to a governmental entity a record that
+the person believes should be protected under 63G-2-305(1) [trade secrets] or (2) [commercial
+information or non individual financial information] or both Subsections 63G-2-305(1) and (2)
+shall provide with the record: (A) a written claim of business confidentiality; and (B) a concise
+statement of reasons supporting the claim of business confidentiality."
+    ● I understand (checkbox)
+
+Please attach any supplemental materials you wish considered alongside this application.
+You may upload up to five (5) word processing documents, PDFs, spreadsheets, presentations,
+or images which are up to 100 MB in size per document.
+
+   34. If you have supplemental materials you wish considered alongside this application form
+       which you cannot upload in the previous question, please indicate so here.
+
+   ●   Yes I have supplemental materials.
+   ●   I do not have supplemental materials at this time.
+
+
+
+
+                                                                                                18
+

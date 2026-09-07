@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer - Nevada Self-Help Chatbot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <!-- Ensure jQuery is loaded -->
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .disclaimer-box {
+            background: #fff;
+            padding: 20px 30px;
+            max-width: 500px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            text-align: left;
+        }
+
+        .disclaimer-box h2 {
+            margin-top: 0;
+            font-size: 22px;
+            color: #333;
+        }
+
+        .disclaimer-box p {
+            font-size: 14px;
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .disclaimer-box a.legal-help-link {
+            color: #225bb0;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .disclaimer-box a.legal-help-link:hover {
+            text-decoration: underline;
+        }
+
+        .button-container {
+            text-align: right;
+            margin-top: 15px;
+        }
+
+        .continue-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #225bb0;
+            color: #fff;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 5px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+            transition: background 0.3s;
+            cursor: pointer;
+            border: none;
+        }
+
+        .continue-btn:hover {
+            background-color: #1c4a91;
+        }
+    </style>
+</head>
+<body>
+    <div class="disclaimer-box">
+        <h2>Disclaimer</h2>
+        <p>
+            This chatbot is powered by artificial intelligence. It provides basic, general information from the Nevada Self-Help Center. 
+            While we strive for accuracy, responses may not be comprehensive or current, and are not a substitute for legal advice. 
+            Many legal matters involve complex and valuable rights which cannot adequately be protected without the assistance of an attorney. 
+            For legal assistance, please visit 
+            <a href="https://selfhelp.nvcourts.gov/self-help/getting-started/lawyers-and-legal-help" class="legal-help-link" target="_blank">Lawyers & Legal Help</a>.
+        </p>
+        <div class="button-container">
+            <button id="continue-btn" class="continue-btn">Continue</button>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $("#continue-btn").click(function() {
+                window.top.location.href = "https://app-backend-xgxihjnz3ui6k.azurewebsites.net";
+            });
+        });
+    </script>
+</body>
+</html>

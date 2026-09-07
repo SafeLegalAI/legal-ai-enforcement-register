@@ -1,0 +1,6 @@
+﻿User-agent: *
+Disallow: /validation.aspx?*
+Disallow: /pdfcentre/
+Disallow: /consumers/register/organisation/GetPeople?*
+Disallow: /solicitors/handbook/*
+Disallow: /search-results/*

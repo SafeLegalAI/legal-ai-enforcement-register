@@ -1,0 +1,42 @@
+User-agent: SemrushBot 
+Disallow: / 
+
+User-agent: SemrushBot-SA 
+Disallow: / 
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-Agent: Neevabot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: * 
+Disallow: /admin/ 
+Disallow: /Test/ 
+Disallow: /Configurations/ 
+Disallow: /Import/ 
+Disallow: /Communications/
+Disallow: /public-resources/finding-a-lawyer-or-paralegal/directory-search/members/
+Disallow: /public-resources/finding-a-lawyer-or-paralegal/directory-search/member
+Disallow: /public-resources/finding-a-lawyer-or-paralegal/directory-search/results
+Disallow: /app.aspx?*
+Disallow: /make.aspx?*
+
+User-Agent: Bingbot
+Allow: /public-resources/finding-a-lawyer-or-paralegal/directory-search/members/
+Allow: /public-resources/finding-a-lawyer-or-paralegal/directory-search/member
