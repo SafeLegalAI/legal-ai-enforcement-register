@@ -1,0 +1,182 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "SafeLegalAI consumer legal-AI enforcement action",
+ "type": "object",
+ "additionalProperties": false,
+ "properties": {
+  "action_id": {
+   "type": "string",
+   "pattern": "^[a-z0-9][a-z0-9-]{3,90}$"
+  },
+  "date": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+  },
+  "category": {
+   "type": "string",
+   "enum": [
+    "regulator-enforcement",
+    "upl-litigation",
+    "upl-opinion",
+    "sandbox-authorisation",
+    "regulator-register",
+    "court-a2j-deployment",
+    "policy-statement"
+   ]
+  },
+  "jurisdiction": {
+   "type": "string",
+   "enum": [
+    "uk",
+    "ireland",
+    "us-federal",
+    "us-state",
+    "eu",
+    "canada",
+    "australia",
+    "nz",
+    "india",
+    "singapore",
+    "hong-kong",
+    "south-africa",
+    "israel",
+    "brazil",
+    "gulf",
+    "international",
+    "other"
+   ]
+  },
+  "country": {
+   "type": "string",
+   "pattern": "^[A-Z]{2}$"
+  },
+  "state": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "actor": {
+   "type": "string",
+   "maxLength": 140
+  },
+  "entity": {
+   "type": "string",
+   "maxLength": 140
+  },
+  "entity_slug": {
+   "type": "string",
+   "pattern": "^[a-z0-9-]+$"
+  },
+  "action_type": {
+   "type": "string",
+   "maxLength": 80
+  },
+  "outcome": {
+   "type": "string",
+   "maxLength": 300
+  },
+  "docket": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "regulator_ai_flag": {
+   "type": "boolean"
+  },
+  "regulator_descriptor": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 220,
+   "description": "verbatim, ≤25 words, in quotation marks (longer only if public domain and the field says so)"
+  },
+  "summary": {
+   "type": "string",
+   "minLength": 120,
+   "maxLength": 520,
+   "description": "40–60 words, descriptive, present tense"
+  },
+  "secondary_url": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "licence": {
+   "type": "string",
+   "enum": [
+    "us-federal-pd",
+    "court-opinion-pd",
+    "state-order-pd",
+    "official-act",
+    "quoted-short",
+    "ogl-v3"
+   ]
+  },
+  "right_of_reply": {
+   "type": "string",
+   "const": "open"
+  },
+  "source_url": {
+   "type": "string",
+   "format": "uri",
+   "description": "primary source (court/regulator/legislature/agency/vendor own site or official API)"
+  },
+  "archive_url": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "web.archive.org snapshot of source_url, or null"
+  },
+  "fetched_at": {
+   "type": "string",
+   "description": "ISO timestamp of the read"
+  },
+  "verification": {
+   "type": "string",
+   "enum": [
+    "fetched-and-read",
+    "page-read-no-document",
+    "link-only"
+   ]
+  },
+  "lead_source": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "where we learned the row exists (tracker/news/api/crawl); never a source_url"
+  },
+  "notes": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 600
+  }
+ },
+ "required": [
+  "action_id",
+  "date",
+  "category",
+  "jurisdiction",
+  "country",
+  "actor",
+  "entity",
+  "entity_slug",
+  "action_type",
+  "outcome",
+  "regulator_ai_flag",
+  "summary",
+  "licence",
+  "right_of_reply",
+  "source_url",
+  "fetched_at",
+  "verification",
+  "lead_source"
+ ]
+}
