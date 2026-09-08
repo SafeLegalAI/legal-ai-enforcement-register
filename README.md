@@ -24,6 +24,8 @@ configs:
 
 # Consumer legal-AI enforcement, UPL and authorisation register
 
+> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/legal-ai-enforcement-register/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
+
 **43 official actions about AI-enabled legal services offered to the public — regulator enforcement, unauthorized-practice rulings and opinions, regulatory-sandbox and licensing authorisations that the regulator itself describes as AI or technology based, court and access-to-justice AI deployments for self-represented people — each dated and sourced to the regulator or court.**
 
 Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/regulation/enforcement](https://safelegalai.com/regulation/enforcement) · repository, pipeline and issues: [https://github.com/SafeLegalAI/legal-ai-enforcement-register](https://github.com/SafeLegalAI/legal-ai-enforcement-register) · this mirror: [https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register](https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register).
