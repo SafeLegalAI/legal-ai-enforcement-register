@@ -13,6 +13,11 @@ tags:
   - consumer-protection
   - legal-services
   - legal
+  - law
+  - courts
+  - ai-regulation
+  - ai-safety
+  - ai-governance
   - safelegalai
 configs:
   - config_name: actions
@@ -24,11 +29,9 @@ configs:
 
 # Consumer legal-AI enforcement, UPL and authorisation register
 
-> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/legal-ai-enforcement-register/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
-
 **43 official actions about AI-enabled legal services offered to the public — regulator enforcement, unauthorized-practice rulings and opinions, regulatory-sandbox and licensing authorisations that the regulator itself describes as AI or technology based, court and access-to-justice AI deployments for self-represented people — each dated and sourced to the regulator or court.**
 
-Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/regulation/enforcement](https://safelegalai.com/regulation/enforcement) · repository, pipeline and issues: [https://github.com/SafeLegalAI/legal-ai-enforcement-register](https://github.com/SafeLegalAI/legal-ai-enforcement-register) · this mirror: [https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register](https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register).
+Built 2026-09-08 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/regulation/enforcement](https://safelegalai.com/regulation/enforcement) · repository, pipeline and issues: [https://github.com/SafeLegalAI/legal-ai-enforcement-register](https://github.com/SafeLegalAI/legal-ai-enforcement-register) · this mirror: [https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register](https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register).
 
 | table | rows | one row is |
 |---|---|---|
@@ -91,6 +94,23 @@ US federal works and judicial opinions are public domain; state court orders are
 
 Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) records what courts, regulators, legislatures and vendors' own public pages state; the linked official documents are the record. Names and marks belong to their owners. Anyone named may reply: https://safelegalai.com/report. Full terms: https://safelegalai.com/disclaimer See `DISCLAIMER.md` and `NOTICE` in this repository.
 
+## Uses
+
+**Suited to:** counting and comparing what the record shows (by court, jurisdiction, date, actor, outcome, status); building watch-lists and alerts from `source_url`/`fetched_at`; grounding retrieval or summarisation on cited primary documents; teaching and library guides that need a dated, sourced list.
+
+**Not suited to:** ranking products, people or courts; inferring prevalence beyond what a court or regulator has itself stated; any use that treats a coding column as a finding of fact or law. Where a row names a person or organisation it does so as they appear in a public document; anyone named may request a correction or right of reply at https://safelegalai.com/report.
+
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "Consumer legal-AI enforcement, UPL and authorisation register", v0.1.1, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register — CC BY 4.0. Canonical: https://safelegalai.com/regulation/enforcement
+> SafeLegalAI (Cognesio LLP), "Consumer legal-AI enforcement, UPL and authorisation register", v0.1.1, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register — CC BY 4.0. Canonical: https://safelegalai.com/regulation/enforcement
+
+```bibtex
+@dataset{safelegalai_legal_ai_enforcement_register_0_1_1,
+  title        = {Consumer legal-AI enforcement, UPL and authorisation register},
+  author       = {{SafeLegalAI (Cognesio LLP)}},
+  year         = {2026},
+  version      = {0.1.1},
+  url          = {https://safelegalai.com/regulation/enforcement},
+  note         = {Mirror: https://huggingface.co/datasets/safelegalaidata/legal-ai-enforcement-register. Data CC BY 4.0. Built 2026-09-08.}
+}
+```
